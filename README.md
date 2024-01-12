@@ -3,10 +3,10 @@
 NICE Guidelines for hypertension medications
 To define hypertension using prescriptions we used the guidelines available by NICE: **https://www.nice.org.uk/guidance/ng136/resources/visual-summary-pdf-6899919517**
 
-## Data source##
+## Data source
 These codelists were derived from the CPRD data dictionary, reported codes are in the form of SNOMED CT.
 
-## Codelists##
+## Codelists
 **Observations**
 The observation file provides the SNOMED CT codes which relate to hypertension, these were further subdivided into: 
 	- invitation for hypertension monitoring, 

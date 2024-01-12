@@ -1,4 +1,4 @@
-#Defining hypertension in electronic healthcare records: SNOMED CT#
+# Defining hypertension in electronic healthcare records: SNOMED CT #
 
 NICE Guidelines for hypertension medications
 To define hypertension using prescriptions we used the guidelines available by NICE: **https://www.nice.org.uk/guidance/ng136/resources/visual-summary-pdf-6899919517**

@@ -8,17 +8,17 @@ These codelists were derived from the CPRD data dictionary, reported codes are i
 
 ## Codelists
 **Observations**
-The observation file provides the SNOMED CT codes which relate to hypertension, these were further subdivided into: 
-	- invitation for hypertension monitoring, 
- 	- self-controlled hypertension, 
-	- review of hypertension, 
-  - well controlled hypertension, 
-  - moderate/poorly controlled hypertension
+The observation file provides the SNOMED CT codes which relate to hypertension, these were further subdivided into: <br>  
+	- invitation for hypertension monitoring, <br>  
+ 	- self-controlled hypertension, <br>  
+	- review of hypertension, <br>  
+  - well controlled hypertension, <br>  
+  - moderate/poorly controlled hypertension  <br>  
 
-**Blood pressure readings**
-These values were further subdivided into systolic and diastolic codes, when these codes have associated 'values' which are high (guidelines in brackets), they can indicate a patient has hypertension
+**Blood pressure readings** <br>  
+These values were further subdivided into systolic and diastolic codes, when these codes have associated 'values' which are high (guidelines in brackets), they can indicate a patient has hypertension <br>  
 	- Systolic (>130)
  	- Diastolic (>80)
 	
-**Prescriptions**
+**Prescriptions** <br>  
 Both codes for medications prescribed for hypertension as well as resistant hypertension are included.

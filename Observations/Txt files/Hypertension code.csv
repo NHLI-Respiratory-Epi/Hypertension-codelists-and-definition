@@ -1,0 +1,94 @@
+medcodeid,observations,term,JKQ,Hypertensionmedcode,Invitationformonitoring,Selfcontrolledhypertension,Hypertensionreview,Wellcontrolledhypertension,Moderatepoorlycontrolledhype
+1855791000006117,10,Hypertension monitoring in secondary care,1,1,0,0,0,0,0
+300870016,100,[X]Other secondary hypertension,1,1,0,0,0,0,0
+1806071000006118,100,Stage 1 hypertension,1,1,0,0,0,0,0
+262960017,1000,Hypertension induced by oral contraceptive pill,1,1,0,0,0,0,0
+299681011,1000,Hypertension secondary to endocrine disorders,1,1,0,0,0,0,0
+158241000006117,1000,Secondary hypertension NOS,1,1,0,0,0,0,0
+1846961000006115,1000,Severe hypertension (NICE - National Institute for Health and Clinical Excellence 2011),1,1,0,0,0,0,0
+443764015,100000,On treatment for hypertension,1,1,0,0,0,0,0
+4775831000006118,20,Hypertension secondary to endocrine disorder,1,1,0,0,0,0,0
+6349461000006119,20,Labile essential hypertension,1,1,0,0,0,0,0
+7696031000006114,20,Supine hypertension,1,1,0,0,0,0,0
+7103581000006114,20,Systolic essential hypertension,1,1,0,0,0,0,0
+299680012,200,Benign secondary hypertension,1,1,0,0,0,0,0
+1823901000006112,200,Hypertension confirmed,1,1,0,0,0,0,0
+2193021000000110,2000,Severe hypertension,1,1,0,0,0,0,0
+3642801000006112,2000,Malignant hypertension,1,1,0,0,0,0,0
+1908721000006111,2000,Stage 1 hypertension (NICE 2011) with evidence of end organ damage,1,1,0,0,0,0,0
+26091000000116,20000,Hypertension clinic administration,1,1,0,0,0,0,0
+284062018,20000,Referral to hypertension clinic,1,1,0,0,0,0,0
+2193031000000112,20000,Stage 1 hypertension,1,1,0,0,0,0,0
+131046010,20000,Malignant essential hypertension,1,1,0,0,0,0,0
+1846941000006119,20000,Stage 1 hypertension (NICE - National Institute for Health and Clinical Excellence 2011),1,1,0,0,0,0,0
+1908711000006115,20000,Stage 1 hypertension (NICE 2011) without evidence of end organ damage,1,1,0,0,0,0,0
+285265015,200000,Seen in hypertension clinic,1,1,0,0,0,0,0
+3126651000006111,30,Abnormal blood pressure,1,1,0,0,0,0,0
+300871017,300,[X]Hypertension secondary to other renal disorders,1,1,0,0,0,0,0
+1780252014,3000,Hypertension treatment refused,1,1,0,0,0,0,0
+909441000006118,3000,[RFC] Hypertension,1,1,0,0,0,0,0
+80224019,3000,Diastolic hypertension,?,1,0,0,0,0,0
+53452019,30000,Secondary hypertension,1,1,0,0,0,0,0
+264473010,30000,Hypertension:follow-up default,1,1,0,0,0,0,0
+153941000006118,30000,Seen in hypertension clinic,1,1,0,0,0,0,0
+1846991000006111,30000,Stage 2 hypertension (NICE - National Institute for Health and Clinical Excellence 2011),1,1,0,0,0,0,0
+99042012,30000000,Essential hypertension,1,1,0,0,0,0,0
+299678018,400,Secondary benign hypertension,1,1,0,0,0,0,0
+253532015,40000,Hypertension resolved,1,1,0,0,0,0,0
+2548266018,40000,Suspected hypertension,1,1,0,0,0,0,0
+3117511000006117,50,HTN - Hypertension,1,1,0,0,0,0,0
+3117481000006113,50,HT - Hypertension,1,1,0,0,0,0,0
+299684015,500,Hypertension secondary to drug,1,1,0,0,0,0,0
+151161000006115,600,Malignant secondary hypertension,1,1,0,0,0,0,0
+790131000006118,60000,Hypertension resolved,1,1,0,0,0,0,0
+93494011,60000,Systolic hypertension,1,1,0,0,0,0,0
+1806081000006115,70,Stage 2 hypertension,1,1,0,0,0,0,0
+99047018,700,Primary hypertension,1,1,0,0,0,0,0
+3117411000006118,80,High blood pressure,1,1,0,0,0,0,0
+884121000006111,800,Malignant hypertension,1,1,0,0,0,0,0
+790121000006116,800000,Hypertension,1,1,0,0,0,0,0
+299682016,900,Secondary hypertension NOS,1,1,0,0,0,0,0
+264487010,9000,Treatment for hypertension stopped,1,1,0,0,0,0,0
+940001000006110,90000,Hypertension medication review,1,1,0,0,0,0,0
+395751018,900000,Essential hypertension NOS,1,1,0,0,0,0,0
+2474335018,30000,Hypertension clinical management plan,1,1,0,0,0,0,0
+264485019,40000,Treatment for hypertension started,1,1,0,0,0,0,0
+2423811000000118,1000,Telehealth hypertension monitoring,1,0,1,0,0,0,0
+8440011000006119,1000,Hypertension monitoring SMS (short message service) text message third invitation,1,0,1,0,0,0,0
+8439981000006118,10000,Hypertension monitoring invitation SMS (short message service) text message,1,0,1,0,0,0,0
+790001000006110,100000,Hypertension monitoring verbal invite,1,0,1,0,0,0,0
+5979471000006115,200,Hypertension monitoring call,1,0,1,0,0,0,0
+789951000006115,20000,Hypertension monitoring offer default,1,0,1,0,0,0,0
+21601000000111,200000,Hypertension monitoring administration,1,0,1,0,0,0,0
+8459521000006112,300,Hypertension monitoring invitation email,1,0,1,0,0,0,0
+1.26263610000e+16,30000,QOF (Quality and Outcomes Framework) hypertension quality indicator-related care invitation,1,0,1,0,0,0,0
+789991000006114,300000,Hypertension monitoring telephone invite,1,0,1,0,0,0,0
+789971000006113,300000,Hypertension monitoring third letter,1,0,1,0,0,0,0
+790011000006113,3000000,Hypertension monitoring first letter,1,0,1,0,0,0,0
+5999791000006119,40000,Hypertension monitoring invitation,1,0,1,0,0,0,0
+8439991000006115,40000,Hypertension monitoring SMS (short message service) text message first invitation,1,0,1,0,0,0,0
+5978381000006118,60,Hypertension screening call,1,0,1,0,0,0,0
+789961000006118,700000,Hypertension monitoring second letter,1,0,1,0,0,0,0
+8440001000006117,8000,Hypertension monitoring SMS (short message service) text message second invitation,1,0,1,0,0,0,0
+5979461000006110,20,Hypertension monitoring status,1,0,1,0,0,0,0
+7276911000006114,10000,Lifestyle education regarding hypertension,1,0,0,1,0,0,0
+1131851000000118,1000000,Lifestyle advice regarding hypertension,1,0,0,1,0,0,0
+2115801000000110,2000,Hypertension self-management plan review,1,0,0,1,0,0,0
+2117971000000119,30000,Hypertension self-management plan agreed,1,0,0,1,0,0,0
+1706551000000114,10000,Hypertension 9 month review,1,0,0,0,1,0,0
+498791000006113,100000,Attends hypertension monitoring,1,0,0,0,1,0,0
+1780253016,1000000,Hypertension six month review,1,0,0,0,1,0,0
+1855781000006115,2000,Hypertension monitoring in primary care,1,0,0,0,1,0,0
+411919011,2000000,Hypertension monitoring,1,0,0,0,1,0,0
+790031000006119,30000,Hypertension annual review,1,0,0,0,1,0,0
+1780319017,4000000,Hypertension annual review,1,0,0,0,1,0,0
+264467014,50000,Yearly observation of borderline hypertension,1,0,0,0,1,0,0
+790071000006116,600000,Hypertension monitoring check done,1,0,0,0,1,0,0
+790091000006115,6000000,Hypertension monitoring,1,0,0,0,1,0,0
+405053013,80000,Hypertension monitored,1,0,0,0,1,0,0
+5978371000006116,900,Hypertension screening recall,1,0,0,0,1,0,0
+179371000006114,4000,Hypertension monitoring refused,1,0,0,0,0,0,0
+1780318013,9000,Moderate hypertension control,1,0,0,0,0,0,1
+264472017,90000,Poor hypertension control,1,0,0,0,0,0,1
+264471012,200000,Good hypertension control,1,0,0,0,0,1,0
+,,,,,,,,,

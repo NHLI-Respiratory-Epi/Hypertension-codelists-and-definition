@@ -12,12 +12,12 @@ The observation file provides the SNOMED CT codes which relate to hypertension, 
 	- invitation for hypertension monitoring, <br>  
  	- self-controlled hypertension, <br>  
 	- review of hypertension, <br>  
-  - well controlled hypertension, <br>  
-  - moderate/poorly controlled hypertension  <br>  
+        - well controlled hypertension, <br>  
+        - moderate/poorly controlled hypertension  <br>  
 
 **Blood pressure readings** <br>  
 These values were further subdivided into systolic and diastolic codes, when these codes have associated 'values' which are high (guidelines in brackets), they can indicate a patient has hypertension <br>  
-	- Systolic (>130)
+	- Systolic (>130) <br>
  	- Diastolic (>80)
 	
 **Prescriptions** <br>  

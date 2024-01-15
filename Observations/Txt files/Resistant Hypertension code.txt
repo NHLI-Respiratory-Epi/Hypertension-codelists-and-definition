@@ -1,0 +1,2 @@
+medcodeid,Resistanthypertensionmedcode
+2193971000000110,1

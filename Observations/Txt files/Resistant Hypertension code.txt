@@ -1,2 +1,2 @@
-medcodeid,Resistanthypertensionmedcode
-2193971000000110,1
+snomedctdescriptionid,Resistanthypertensionmedcode,term
+2193971000000110,1,Hypertension resistant to drug therapy

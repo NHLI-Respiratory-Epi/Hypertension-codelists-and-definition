@@ -1,2 +1,6 @@
-medcodeid,Resistanthypertensionmedcode
-2193971000000110,1
+snomedctdescriptionid,snomedctconceptid,term
+2193961000000115,845891000000103,hypertension resistant to drug therapy (disorder)
+2193971000000110,845891000000103,hypertension resistant to drug therapy
+2193981000000112,845901000000102,hypertension resistant to drug therapy 
+2193991000000114,845901000000102,hypertension resistant to drug therapy
+2194001000000116,845891000000103,resistant hypertension

@@ -1,20 +1,4 @@
 snomedctdescriptionid,snomedctconceptid,term
-3135013,1201005,benign essential hypertension
-3162017,1218009,accelerated essential hypertension
-18632012,10725009,benign hypertension
-38837010,23130000,paroxysmal hypertension
-64176011,38341003,hypertension
-65684016,39155009,hypertension education
-93494011,56218007,systolic hypertension
-99042012,59621000,essential hypertension
-99044013,59621000,idiopathic hypertension
-99047018,59621000,primary hypertension
-116721012,70272006,malignant hypertension
-131046010,78975002,malignant essential hypertension
-231562012,147824008,hypertension monitoring
-231571015,147831007,good hypertension control
-231572010,147832000,poor hypertension control
-231588010,147848004,on treatment for hypertension
 231589019,147849007,hypertension monitoring
 236874016,152085006,referral to hypertension clinic
 238437017,153366008,seen in hypertension clinic
@@ -30,15 +14,6 @@ snomedctdescriptionid,snomedctconceptid,term
 239060013,153902003,hypertension monitoring telephone invite
 239061012,153903008,hypertension monitoring deleted
 239062017,153904002,hypertension monitor (& check done)
-241776013,155295004,(hypertensive disease) or (hypertension)
-241778014,155295004,hypertension
-241779018,155296003,essential hypertension
-241784012,155301003,malignant hypertension
-264461010,170570001,hypertension monitoring
-264471012,170577003,good hypertension control
-264472017,170578008,poor hypertension control
-264473010,170579000,hypertension:follow-up default
-264501011,170602001,on treatment for hypertension
 264502016,170603006,hypertension monitoring
 284062018,183856001,referral to hypertension clinic
 285138015,185161003,seen in hypertension clinic
@@ -54,30 +29,12 @@ snomedctdescriptionid,snomedctconceptid,term
 285724019,185725003,hypertension monitor (& check done)
 285725018,185725003,hypertension monitor.chck done
 285726017,185725003,hypertension monitored
-299639017,194757006,high blood pressure (& [essential hypertension])
-299640015,194757006,essential hypertension
-299643018,194759009,systolic hypertension
-299644012,194760004,hypertension nos (& [essential])
-299645013,194760004,essential hypertension nos
-299646014,194760004,hypertension nos
-395751018,266228004,essential hypertension nos
-395854017,266287006,(hypertensive disease) or (hypertension)
-395855016,266287006,hypertension
 405052015,270440008,hypertension monitoring check done
 405053013,270440008,hypertension monitored
 411919011,275944005,hypertension monitoring
-426444012,286951002,malignant hypertension
-443764015,302192008,on treatment for hypertension
 451862010,308502002,hypertension monitoring status
 451863017,308503007,hypertension monitoring call
 454000016,310427004,hypertension monitoring invitation
-490278018,38341003,systemic arterial hypertension
-490281011,38341003,ht - hypertension
-490283014,38341003,bp+ - hypertension
-503982017,78975002,accelerated essential hypertension
-552543014,170577003,good hypertension control (finding)
-552544015,170578008,poor hypertension control (finding)
-552545019,170579000,hypertension:follow-up default (finding)
 567384018,183856001,referral to hypertension clinic (procedure)
 568322019,185264001,seen in hypertension clinic (finding)
 568751017,185716009,attends hypertension monitoring (finding)
@@ -88,64 +45,30 @@ snomedctdescriptionid,snomedctconceptid,term
 568756010,185721007,hypertension monitoring third letter (procedure)
 568757018,185722000,hypertension monitoring verbal invite (procedure)
 568759015,185723005,hypertension monitoring telephone invite (procedure)
-589269011,10725009,benign hypertension (disorder)
-658696019,266228004,essential hypertension nos (disorder)
 663077018,270440008,hypertension monitoring check done (finding)
 705046012,308502002,hypertension monitoring status (finding)
 705047015,308503007,hypertension monitoring call (procedure)
 706986012,310427004,hypertension monitoring invitation (procedure)
-775555011,39155009,hypertension education (procedure)
-794706015,56218007,systolic hypertension (disorder)
-798484011,59621000,essential hypertension (disorder)
-810310018,70272006,malignant hypertension (disorder)
-819974015,78975002,malignant essential hypertension (disorder)
-1456228010,302192008,on treatment for hypertension (regime/therapy)
-1472321017,275944005,hypertension monitoring (regime/therapy)
-1765666016,397748008,hypertension with albuminuria (disorder)
 1768969012,401048005,hypertension six month review (procedure)
-1769038019,401117004,moderate hypertension control (finding)
-1769039010,401118009,hypertension annual review (procedure)
-1777358017,397748008,hypertension with albuminuria
 1780253016,401048005,hypertension six month review
-1780318013,401117004,moderate hypertension control
 1780319017,401118009,hypertension annual review
-2164904016,38341003,htn - hypertension
-2691451010,170586008,treatment for hypertension started (situation)
-2691456017,429457004,systolic essential hypertension (disorder)
-2694699015,170586008,treatment for hypertension started
-2695883018,429457004,systolic essential hypertension
-2713924016,286951002,malignant hypertension (disorder)
-2714688012,155295004,(hypertensive disease) or (hypertension) (disorder)
 2715618011,153894006,hypertension admin: [monitoring] or [clinic] (regime/therapy)
-2717402011,194760004,hypertension nos (& [essential]) (disorder)
-2717803014,194757006,high blood pressure (& [essential hypertension]) (disorder)
 2721181017,153366008,seen in hypertension clinic (finding)
 2721364018,170603006,hypertension monitoring (regime/therapy)
 2722046018,153901005,hypertension monitoring verbal invite (regime/therapy)
 2722047010,153903008,hypertension monitoring deleted (regime/therapy)
-2722108011,155301003,malignant hypertension (disorder)
 2723316016,147849007,hypertension monitoring (procedure)
 2723789017,148437000,hypertension screening (procedure)
-2724193010,147833005,hypertension:follow-up default (situation)
-2724194016,147832000,poor hypertension control (situation)
-2724264017,147839009,hypertension treatm. started (regime/therapy)
-2724384015,147848004,on treatment for hypertension (procedure)
-2732453013,147831007,good hypertension control (situation)
 2737766015,152085006,referral to hypertension clinic (procedure)
 2739129012,153900006,hypertension monitoring third letter (regime/therapy)
 2740598012,153898009,hypertension monitoring first letter (regime/therapy)
 2740599016,153902003,hypertension monitoring telephone invite (regime/therapy)
 2741076019,153897004,hypertension monitoring offer default (regime/therapy)
 2741109012,153895007,attends hypertension monitoring (regime/therapy)
-2748313016,155296003,essential hypertension (disorder)
 2748415012,153899001,hypertension monitoring second letter (regime/therapy)
-2748852018,194759009,systolic hypertension (disorder)
 2752978014,185161003,seen in hypertension clinic (finding)
 2755576010,185725003,hypertension monitor (& check done) (finding)
-2756970016,170602001,on treatment for hypertension (regime/therapy)
-2761895018,266287006,(hypertensive disease) or (hypertension) (disorder)
 2763386010,153904002,hypertension monitor (& check done) (regime/therapy)
-2763456019,1218009,accelerated essential hypertension (disorder)
 2788358011,440594006,knowledge level about hypertension management (observable entity)
 2791241011,440594006,knowledge level about hypertension management
 2835554011,443402002,lifestyle education regarding hypertension (procedure)
@@ -156,18 +79,6 @@ snomedctdescriptionid,snomedctconceptid,term
 3006305017,702867002,hypertension clinic
 3302074012,715280009,telehealth hypertension monitoring (regime/therapy)
 3302075013,715280009,telehealth hypertension monitoring
-3636694012,762463000,combined diastolic and systolic hypertension
-3636695013,762463000,diastolic hypertension and systolic hypertension
-3636696014,762463000,diastolic hypertension co-occurrent with systolic hypertension
-3771598010,1078301000112109,multi-drug intolerant hypertension
-3771599019,1078301000112109,multiple drug intolerant hypertension (disorder)
-3771600016,1078301000112109,multiple drug intolerant hypertension
-3873321018,827068008,hypertension stage 2
-3873322013,827068008,stage 2 hypertension
-3873323015,827068008,stage 2 hypertension (finding)
-3873324014,827069000,hypertension stage 1
-3873325010,827069000,stage 1 hypertension
-3873326011,827069000,stage 1 hypertension (finding)
 16021000000112,2311000000100,hypertension admin: [monitoring] or [clinic]
 16031000000114,2311000000100,hypertension clinic admin.
 16041000000117,2311000000100,hypertension monitoring admin.
@@ -182,27 +93,12 @@ snomedctdescriptionid,snomedctconceptid,term
 115921000000110,76701000000105,hypertension six month review
 121251000000117,80961000000101,hypertension six month review
 121261000000119,80961000000101,hypertension six month review
-125511000000115,76691000000105,moderate hypertension control
-125521000000114,76691000000105,moderate hypertension control
-126191000000110,80951000000104,moderate hypertension control
-126201000000112,80951000000104,moderate hypertension control
-350601000000116,220901000000101,high cost hypertension drugs
-351341000000118,221281000000109,high cost hypertension drugs nos
-351361000000117,221291000000106,other specified high cost hypertension drugs
-460821000000111,272781000000108,high cost hypertension drugs 
-460831000000113,272781000000108,high cost hypertension drugs
-460921000000118,272831000000103,other specified high cost hypertension drugs 
-460931000000116,272831000000103,other specified high cost hypertension drugs
-460941000000113,272841000000107,high cost hypertension drugs nos 
-460951000000111,272841000000107,high cost hypertension drugs nos
 552151000000113,2321000000106,hypertension monitoring administration nos (administrative concept)
 552161000000111,2321000000106,hypertension monitoring administration nos
 552171000000116,11721000000102,hypertension clinic administration
 552181000000119,11721000000102,hypertension clinic administration (administrative concept)
 552191000000117,3331000000104,hypertension monitoring administration
 552201000000115,3331000000104,hypertension monitoring administration (administrative concept)
-1498521000000114,684211000000107,essential hypertension nos (disorder)
-1498531000000111,684211000000107,essential hypertension nos
 1557691000000110,713641000000103,hypertension monitoring administration (record artifact)
 1557701000000110,713651000000100,hypertension monitoring administration nos (record artifact)
 1557711000000112,713661000000102,hypertension clinic administration (record artifact)
@@ -213,9 +109,6 @@ snomedctdescriptionid,snomedctconceptid,term
 1706551000000114,766211000000109,hypertension 9 month review
 1706561000000112,766221000000103,hypertension 9 month review 
 1706571000000117,766221000000103,hypertension 9 month review
-1737051000000114,220901000000101,high cost hypertension drugs (procedure)
-1737421000000110,221281000000109,high cost hypertension drugs nos (procedure)
-1737431000000112,221291000000106,other specified high cost hypertension drugs (procedure)
 2115791000000111,810981000000107,hypertension self-management plan review (procedure)
 2115801000000110,810981000000107,hypertension self-management plan review
 2117961000000114,812021000000106,hypertension self-management plan agreed (finding)
@@ -224,19 +117,6 @@ snomedctdescriptionid,snomedctconceptid,term
 2117991000000115,812031000000108,hypertension self-management plan agreed
 2163401000000110,832151000000107,hypertension self-management plan review
 2165851000000112,832151000000107,hypertension self-management plan review
-2174931000000117,837871000000106,provision of written information about hypertension
-2174941000000114,837871000000106,provision of written information about hypertension (procedure)
-2189421000000117,843831000000100,stage 1 hypertension 
-2189431000000115,843831000000100,stage 1 hypertension
-2189461000000113,843851000000107,severe hypertension 
-2189471000000118,843851000000107,severe hypertension
-2193021000000110,843841000000109,severe hypertension
-2193031000000112,843821000000102,stage 1 hypertension
-2211211000000110,846371000000103,stage 2 hypertension
-2231961000000112,863191000000102,nocturnal hypertension (disorder)
-2231971000000117,863191000000102,nocturnal hypertension
-2335761000000116,908631000000108,stage 1 hypertension (nice 2011) without evidence of end organ damage
-2335801000000114,908651000000101,stage 1 hypertension (nice 2011) with evidence of end organ damage
 2423801000000115,948151000000100,telehealth hypertension monitoring (regime/therapy)
 2423811000000118,948151000000100,telehealth hypertension monitoring
 2423821000000112,948161000000102,telehealth hypertension monitoring 

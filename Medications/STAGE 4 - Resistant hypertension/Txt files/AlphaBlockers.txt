@@ -1,22 +1,16 @@
-prodcodeid
-480641000033111
-480741000033119
-480841000033112
-2273841000033111
-2273941000033115
-4432941000033119
-5138341000033111
-8870641000033119
-9173941000033112
-12682141000033115
-1423641000033114
-1423741000033117
-1423841000033110
-1425341000033119
-1429041000033118
-1429141000033119
-1128141000033112
-1131341000033118
-1131441000033112
-1131541000033113
-1131641000033114
+snomedctdescriptionid,snomedctconceptid,term
+173084017,108550000,alpha/beta-adrenergic blocking agent
+472314013,350629005,alpha blocking vasodilator
+1185379016,108550000,alpha/beta-adrenergic blocking agent (product)
+1194538014,350629005,alpha blocking vasodilator (product)
+1197548019,372255006,alpha 1 adrenergic blocking product (product)
+1197549010,372256007,alpha 2 adrenergic blocking product (product)
+1197550010,372257003,nonspecific alpha-adrenergic blocking product (product)
+1197799011,372506003,alpha/beta-adrenergic blocking agent (substance)
+1198548017,373251009,nonspecific alpha-adrenergic blocking agent (substance)
+1210829016,372255006,alpha 1 adrenergic blocking product
+1210830014,372256007,alpha 2 adrenergic blocking product
+1210831013,372257003,nonspecific alpha-adrenergic blocking product
+1211041019,372506003,alpha/beta-adrenergic blocking agent
+1211743014,373251009,nonspecific alpha-adrenergic blocking agent
+108039601000001112,23838009,nonspecific alpha-adrenergic blocking agent

@@ -15,6 +15,7 @@ snomedctdescriptionid,snomedctconceptid,term
 1213604014,375267001,spironolactone 25mg
 1461256018,387078006,spironolactone (substance)
 1481192019,387078006,spironolactone
+2159236018,407636000,spironolactone prophylaxis
 3483155014,13929005,product containing spironolactone (medicinal product)
 3485074019,354276001,product containing hydroflumethiazide and spironolactone (medicinal product)
 3490583016,398666006,product containing furosemide and spironolactone (medicinal product)
@@ -26,6 +27,7 @@ snomedctdescriptionid,snomedctconceptid,term
 3500166013,318128000,hydroflumethiazide 50 mg and spironolactone 50 mg oral tablet
 3501726012,377483004,hydrochlorothiazide 25 mg and spironolactone 25 mg oral tablet
 3501793014,395514005,hydrochlorothiazide 50 mg and spironolactone 50 mg oral tablet
+3667964018,420285008,product containing chlorothiazide and spironolactone (medicinal product)
 3679578016,377483004,product containing precisely hydrochlorothiazide 25 milligram and spironolactone 25 milligram/1 each conventional release oral tablet (clinical drug)
 3679599018,395514005,product containing precisely hydrochlorothiazide 50 milligram and spironolactone 50 milligram/1 each conventional release oral tablet (clinical drug)
 3679623017,318127005,product containing precisely hydroflumethiazide 25 milligram and spironolactone 25 milligram/1 each conventional release oral tablet (clinical drug)
@@ -47,6 +49,7 @@ snomedctdescriptionid,snomedctconceptid,term
 3710334016,768704000,hydroflumethiazide- and spironolactone-containing product in oral dose form
 3711962010,714448001,product containing spironolactone in oral dose form (medicinal product form)
 3711963017,714448001,spironolactone-containing product in oral dose form
+3713937017,420285008,chlorothiazide- and spironolactone-containing product
 3714962011,398666006,furosemide- and spironolactone-containing product
 3715168015,398688006,hydrochlorothiazide- and spironolactone-containing product
 3715206010,354276001,hydroflumethiazide- and spironolactone-containing product
@@ -56,6 +59,7 @@ snomedctdescriptionid,snomedctconceptid,term
 3718579019,772508007,product containing hydrochlorothiazide and spironolactone in oral dose form (medicinal product form)
 3718580016,772508007,hydrochlorothiazide- and spironolactone-containing product in oral dose form
 3730447016,775191008,product containing only chlorothiazide and spironolactone (medicinal product)
+3730448014,775191008,chlorothiazide and spironolactone only product
 3732299012,776055009,product containing only furosemide and spironolactone (medicinal product)
 3732300016,776055009,furosemide and spironolactone only product
 3732674016,776238000,product containing only hydrochlorothiazide and spironolactone (medicinal product)
@@ -115,6 +119,15 @@ snomedctdescriptionid,snomedctconceptid,term
 135061000001111,39365311000001104,spironolactone 50mg tablets (a a h pharmaceuticals ltd) 250 tablet (product)
 135151000001114,39365511000001105,spironolactone 100mg tablets (a a h pharmaceuticals ltd) 250 tablet
 135161000001112,39365511000001105,spironolactone 100mg tablets (a a h pharmaceuticals ltd) 250 tablet (product)
+149401000000116,101891000000102,spironolactone contraindicated
+151691000000112,104551000000109,spironolactone prophylaxis
+152141000000117,105081000000108,spironolactone contraindicated
+153831000000113,107101000000109,spironolactone prophylaxis
+156541000000114,109981000000107,spironolactone contraindicated
+177621000000118,101891000000102,spironolactone contraindicated
+179631000000113,104551000000109,spironolactone prophylaxis
+181521000000119,107101000000109,spironolactone prophylaxis
+186351000000114,105081000000108,spironolactone contraindicated
 219791000001114,37146211000001107,spironolactone 100mg tablets 250 tablet
 219801000001113,37146211000001107,spironolactone 100mg tablets 250 tablet (product)
 219851000001114,37146011000001102,spironolactone 50mg tablets 250 tablet
@@ -127,10 +140,15 @@ snomedctdescriptionid,snomedctconceptid,term
 222401000001111,37141211000001104,spironolactone 25mg tablets (mawdsley-brooks & company ltd) 28 tablet (product)
 222551000001111,37141411000001100,spironolactone 100mg tablets (mawdsley-brooks & company ltd) 28 tablet
 222561000001114,37141411000001100,spironolactone 100mg tablets (mawdsley-brooks & company ltd) 28 tablet (product)
+465941000000117,109981000000107,spironolactone contraindicated (situation)
 478801000001113,37802411000001108,spironolactone 25mg/5ml oral solution 100 ml
 478821000001118,37802411000001108,spironolactone 25mg/5ml oral solution 100 ml (product)
+481841000000113,280411000000101,spironolactone declined (situation)
+481851000000111,280411000000101,spironolactone declined
 1118261000001117,40328911000001100,spironolactone 25mg tablets (medihealth (northern) ltd) 500 tablet
 1118271000001110,40328911000001100,spironolactone 25mg tablets (medihealth (northern) ltd) 500 tablet (product)
+1543721000000114,706661000000107,spironolactone declined
+1548791000000119,706661000000107,spironolactone declined
 1721251000001110,39257511000001103,spironolactone 25mg tablets (medihealth (northern) ltd)
 1721261000001113,39257511000001103,spironolactone 25mg tablets (medihealth (northern) ltd) (product)
 1721721000001113,39257811000001100,spironolactone 50mg tablets (medihealth (northern) ltd)
@@ -171,6 +189,10 @@ snomedctdescriptionid,snomedctconceptid,term
 1917851000001116,40367811000001101,spironolactone 25mg tablets (de pharmaceuticals) 500 tablet (product)
 1917901000001111,40369211000001108,spironolactone 12.5mg tablets (de pharmaceuticals) 28 tablet
 1917921000001116,40369211000001108,spironolactone 12.5mg tablets (de pharmaceuticals) 28 tablet (product)
+2112891000000112,809601000000100,spironolactone not indicated (situation)
+2112901000000113,809601000000100,spironolactone not indicated
+2112911000000110,809611000000103,spironolactone not indicated 
+2112921000000116,809611000000103,spironolactone not indicated
 2169201000001112,40454211000001107,spironolactone 50mg/5ml oral solution 20 ml
 2169221000001117,40454211000001107,spironolactone 50mg/5ml oral solution 20 ml (product)
 2177941000001117,13889011000001100,spironolactone 50mg/5ml oral solution (drug tariff special order)
@@ -317,6 +339,8 @@ snomedctdescriptionid,snomedctconceptid,term
 22424801000001116,1301111000001106,spironolactone 25mg tablets 30 tablet
 22424901000001110,1042111000001105,spironolactone 25mg tablets 28 tablet (product)
 22425001000001110,1042111000001105,spironolactone 25mg tablets 28 tablet
+22951301000001114,8807911000001107,chlorothiazide 10mg / spironolactone 1mg oral powder sachets 1 sachet (product)
+23014501000001113,8745611000001101,chlorothiazide 10mg / spironolactone 1mg capsules 1 capsule (product)
 23023701000001110,8707111000001107,spironolactone 5mg/5ml oral suspension 1 ml (product)
 23023801000001118,8707111000001107,spironolactone 5mg/5ml oral suspension 1 ml
 23023901000001112,8706811000001102,spironolactone 25mg/5ml oral suspension 1 ml (product)
@@ -336,6 +360,8 @@ snomedctdescriptionid,snomedctconceptid,term
 23985101000001111,8706911000001107,spironolactone 10mg/5ml oral suspension (special order) 1 ml (product)
 23985301000001113,8707211000001101,spironolactone 25mg/5ml oral suspension (special order) 1 ml (product)
 23985501000001118,8707411000001102,spironolactone 5mg/5ml oral suspension (special order) 1 ml (product)
+24006901000001114,8746311000001101,chlorothiazide 10mg / spironolactone 1mg capsules (special order) 1 capsule (product)
+24042501000001113,8808111000001105,chlorothiazide 10mg / spironolactone 1mg oral powder sachets (special order) 1 sachet (product)
 24364101000001115,1345611000001105,spironolactone 25mg tablets (a a h pharmaceuticals ltd) 28 tablet 2 x 14 tablets (product)
 24364301000001118,1345711000001101,spironolactone 25mg tablets (a a h pharmaceuticals ltd) 30 tablet (product)
 24364401000001114,1345711000001101,spironolactone 25mg tablets (a a h pharmaceuticals ltd) 30 tablet
@@ -371,6 +397,8 @@ snomedctdescriptionid,snomedctconceptid,term
 31611701000001119,9803811000001106,spironolactone 25mg tablets (almus pharmaceutical ltd) 28 tablet 2 x 14 tablets (product)
 31673101000001110,9803211000001105,spironolactone 100mg tablets (almus pharmaceutical ltd) 28 tablet 2 x 14 tablets (product)
 31673301000001112,9803411000001109,spironolactone 50mg tablets (almus pharmaceutical ltd) 28 tablet 2 x 14 tablets (product)
+31866501000001113,10036311000001104,chlorothiazide + spironolactone (product)
+31866601000001112,10036311000001104,chlorothiazide + spironolactone
 35857701000001114,10480211000001106,spironolactone 100mg tablets 20 tablet (product)
 35857801000001117,10480211000001106,spironolactone 100mg tablets 20 tablet
 36277801000001114,10649411000001108,spironolactone 25mg tablets (teva uk ltd) 30 tablet 3 x 10 tablets (product)
@@ -468,6 +496,38 @@ snomedctdescriptionid,snomedctconceptid,term
 42475001000001112,11608811000001102,spironolactone 5mg/5ml oral suspension sugar free (rosemont pharmaceuticals ltd) 125 ml
 42475101000001113,11609011000001103,spironolactone 5mg/5ml oral suspension sugar free (special order) 1 ml (product)
 42475201000001118,11609011000001103,spironolactone 5mg/5ml oral suspension sugar free (special order) 1 ml
+44219401000001119,12423911000001107,chlorothiazide 100mg/5ml / spironolactone 10mg/5ml oral solution (product)
+44219601000001116,12424011000001105,chlorothiazide 100mg/5ml / spironolactone 10mg/5ml oral suspension (product)
+44219801000001117,12424211000001100,chlorothiazide 200mg/5ml / spironolactone 20mg/5ml oral solution (product)
+44220001000001113,12424311000001108,chlorothiazide 200mg/5ml / spironolactone 20mg/5ml oral suspension (product)
+44220201000001119,12424511000001102,chlorothiazide 250mg/5ml / spironolactone 10mg/5ml oral solution (product)
+44220401000001115,12424611000001103,chlorothiazide 250mg/5ml / spironolactone 10mg/5ml oral suspension (product)
+44220601000001117,12424711000001107,chlorothiazide 50mg/5ml / spironolactone 5mg/5ml oral solution (product)
+44220801000001118,12424811000001104,chlorothiazide 50mg/5ml / spironolactone 5mg/5ml oral suspension (product)
+44241201000001111,12408511000001103,chlorothiazide 100mg/5ml / spironolactone 10mg/5ml oral suspension (special order) (product)
+44241401000001110,12414811000001106,chlorothiazide 100mg/5ml / spironolactone 10mg/5ml oral solution (special order) (product)
+44241601000001113,12417511000001100,chlorothiazide 200mg/5ml / spironolactone 20mg/5ml oral suspension (special order) (product)
+44241801000001112,12419011000001104,chlorothiazide 200mg/5ml / spironolactone 20mg/5ml oral solution (special order) (product)
+44242001000001114,12419911000001100,chlorothiazide 250mg/5ml / spironolactone 10mg/5ml oral suspension (special order) (product)
+44242201000001115,12420211000001108,chlorothiazide 250mg/5ml / spironolactone 10mg/5ml oral solution (special order) (product)
+44242401000001116,12420511000001106,chlorothiazide 50mg/5ml / spironolactone 5mg/5ml oral suspension (special order) (product)
+44242801000001119,12421611000001100,chlorothiazide 50mg/5ml / spironolactone 5mg/5ml oral solution (special order) (product)
+44250001000001112,12421411000001103,chlorothiazide 50mg/5ml / spironolactone 5mg/5ml oral solution 1 ml (product)
+44250801000001117,12420411000001107,chlorothiazide 50mg/5ml / spironolactone 5mg/5ml oral suspension 1 ml (product)
+44251001000001119,12420111000001102,chlorothiazide 250mg/5ml / spironolactone 10mg/5ml oral solution 1 ml (product)
+44251201000001113,12419811000001105,chlorothiazide 250mg/5ml / spironolactone 10mg/5ml oral suspension 1 ml (product)
+44251401000001112,12418911000001108,chlorothiazide 200mg/5ml / spironolactone 20mg/5ml oral solution 1 ml (product)
+44251601000001110,12417211000001103,chlorothiazide 200mg/5ml / spironolactone 20mg/5ml oral suspension 1 ml (product)
+44251801000001114,12414011000001100,chlorothiazide 100mg/5ml / spironolactone 10mg/5ml oral solution 1 ml (product)
+44252001000001111,12408111000001107,chlorothiazide 100mg/5ml / spironolactone 10mg/5ml oral suspension 1 ml (product)
+44284001000001113,12408911000001105,chlorothiazide 100mg/5ml / spironolactone 10mg/5ml oral suspension (special order) 1 ml (product)
+44284201000001119,12415111000001100,chlorothiazide 100mg/5ml / spironolactone 10mg/5ml oral solution (special order) 1 ml (product)
+44284401000001115,12417611000001101,chlorothiazide 200mg/5ml / spironolactone 20mg/5ml oral suspension (special order) 1 ml (product)
+44284601000001117,12419211000001109,chlorothiazide 200mg/5ml / spironolactone 20mg/5ml oral solution (special order) 1 ml (product)
+44284801000001118,12420011000001103,chlorothiazide 250mg/5ml / spironolactone 10mg/5ml oral suspension (special order) 1 ml (product)
+44285001000001112,12420311000001100,chlorothiazide 250mg/5ml / spironolactone 10mg/5ml oral solution (special order) 1 ml (product)
+44285201000001118,12420711000001101,chlorothiazide 50mg/5ml / spironolactone 5mg/5ml oral suspension (special order) 1 ml (product)
+44286001000001119,12421811000001101,chlorothiazide 50mg/5ml / spironolactone 5mg/5ml oral solution (special order) 1 ml (product)
 46603201000001112,318076002,spironolactone 5mg/5ml oral suspension sugar free
 46603301000001115,318077006,spironolactone 10mg/5ml oral suspension sugar free
 46603401000001111,318078001,spironolactone 25mg/5ml oral suspension sugar free
@@ -917,19 +977,84 @@ snomedctdescriptionid,snomedctconceptid,term
 54567701000001116,508011000001102,spironolactone 25mg tablets (alliance healthcare (distribution) ltd)
 54647301000001119,1348111000001107,spironolactone 25mg tablets (alliance healthcare (distribution) ltd) 28 tablet 2 x 14 tablets
 54647401000001110,1350811000001100,spironolactone 50mg tablets (alliance healthcare (distribution) ltd) 28 tablet 2 x 14 tablets
+56610201000001110,16072811000001103,chlorothiazide 30mg / spironolactone 3mg capsules (product)
+56637401000001115,16071911000001102,chlorothiazide 30mg / spironolactone 3mg capsules (special order) (product)
+56638001000001114,16071811000001107,chlorothiazide 30mg / spironolactone 3mg capsules 1 capsule (product)
+56669801000001117,16072011000001109,chlorothiazide 30mg / spironolactone 3mg capsules (special order) 1 capsule (product)
+57013901000001117,16129611000001104,chlorothiazide 100mg / spironolactone 10mg capsules (product)
+57021701000001112,16127911000001103,chlorothiazide 100mg / spironolactone 10mg capsules (special order) (product)
+57023301000001114,16127811000001108,chlorothiazide 100mg / spironolactone 10mg capsules 1 capsule (product)
+57030901000001115,16128011000001101,chlorothiazide 100mg / spironolactone 10mg capsules (special order) 1 capsule (product)
+59865001000001114,12408911000001105,spironolactone 10mg/5ml / chlorothiazide 100mg/5ml oral suspension (special order) 1 ml
+59865201000001115,12417511000001100,spironolactone 20mg/5ml / chlorothiazide 200mg/5ml oral suspension (special order)
+59865301000001112,12419811000001105,spironolactone 10mg/5ml / chlorothiazide 250mg/5ml oral suspension 1 ml
+59865401000001116,12420011000001103,spironolactone 10mg/5ml / chlorothiazide 250mg/5ml oral suspension (special order) 1 ml
+59865501000001117,12420211000001108,spironolactone 10mg/5ml / chlorothiazide 250mg/5ml oral solution (special order)
+59865601000001118,12424211000001100,spironolactone 20mg/5ml / chlorothiazide 200mg/5ml oral solution
+59865701000001111,12424311000001108,spironolactone 20mg/5ml / chlorothiazide 200mg/5ml oral suspension
+59867301000001115,8808111000001105,spironolactone 1mg / chlorothiazide 10mg oral powder sachets (special order) 1 sachet
+59868901000001118,12420511000001106,spironolactone 5mg/5ml / chlorothiazide 50mg/5ml oral suspension (special order)
+59869001000001111,12424011000001105,spironolactone 10mg/5ml / chlorothiazide 100mg/5ml oral suspension
+59872801000001118,12419011000001104,spironolactone 20mg/5ml / chlorothiazide 200mg/5ml oral solution (special order)
+59872901000001112,12421811000001101,spironolactone 5mg/5ml / chlorothiazide 50mg/5ml oral solution (special order) 1 ml
+59874101000001117,8745611000001101,spironolactone 1mg / chlorothiazide 10mg capsules 1 capsule
+59875701000001117,12408511000001103,spironolactone 10mg/5ml / chlorothiazide 100mg/5ml oral suspension (special order)
+59875801000001114,12417611000001101,spironolactone 20mg/5ml / chlorothiazide 200mg/5ml oral suspension (special order) 1 ml
+59875901000001115,12420311000001100,spironolactone 10mg/5ml / chlorothiazide 250mg/5ml oral solution (special order) 1 ml
+59876001000001112,12424511000001102,spironolactone 10mg/5ml / chlorothiazide 250mg/5ml oral solution
+59877801000001115,8816211000001103,spironolactone 1mg / chlorothiazide 10mg oral powder sachets
+59879401000001110,12408111000001107,spironolactone 10mg/5ml / chlorothiazide 100mg/5ml oral suspension 1 ml
+59879501000001114,12419211000001109,spironolactone 20mg/5ml / chlorothiazide 200mg/5ml oral solution (special order) 1 ml
+59879601000001113,12419911000001100,spironolactone 10mg/5ml / chlorothiazide 250mg/5ml oral suspension (special order)
+59881801000001115,8807911000001107,spironolactone 1mg / chlorothiazide 10mg oral powder sachets 1 sachet
+59883701000001113,12417211000001103,spironolactone 20mg/5ml / chlorothiazide 200mg/5ml oral suspension 1 ml
+59883801000001116,12418911000001108,spironolactone 20mg/5ml / chlorothiazide 200mg/5ml oral solution 1 ml
+59883901000001110,12420711000001101,spironolactone 5mg/5ml / chlorothiazide 50mg/5ml oral suspension (special order) 1 ml
+59884001000001113,12421411000001103,spironolactone 5mg/5ml / chlorothiazide 50mg/5ml oral solution 1 ml
+59885601000001116,8746211000001109,spironolactone 1mg / chlorothiazide 10mg capsules (special order)
+59885701000001114,8746311000001101,spironolactone 1mg / chlorothiazide 10mg capsules (special order) 1 capsule
+59885801000001117,8792111000001107,spironolactone 1mg / chlorothiazide 10mg capsules
+59887201000001110,12414011000001100,spironolactone 10mg/5ml / chlorothiazide 100mg/5ml oral solution 1 ml
+59887301000001118,12420411000001107,spironolactone 5mg/5ml / chlorothiazide 50mg/5ml oral suspension 1 ml
+59887401000001114,12423911000001107,spironolactone 10mg/5ml / chlorothiazide 100mg/5ml oral solution
+59887501000001113,12424611000001103,spironolactone 10mg/5ml / chlorothiazide 250mg/5ml oral suspension
+59887601000001112,12424811000001104,spironolactone 5mg/5ml / chlorothiazide 50mg/5ml oral suspension
+59889101000001110,8808011000001109,spironolactone 1mg / chlorothiazide 10mg oral powder sachets (special order)
+59890401000001114,12420111000001102,spironolactone 10mg/5ml / chlorothiazide 250mg/5ml oral solution 1 ml
+59890501000001113,12421611000001100,spironolactone 5mg/5ml / chlorothiazide 50mg/5ml oral solution (special order)
+59890601000001112,12424711000001107,spironolactone 5mg/5ml / chlorothiazide 50mg/5ml oral solution
+59923701000001111,12414811000001106,spironolactone 10mg/5ml / chlorothiazide 100mg/5ml oral solution (special order)
+59923801000001119,12415111000001100,spironolactone 10mg/5ml / chlorothiazide 100mg/5ml oral solution (special order) 1 ml
+61201601000001116,320201000001104,spironolactone+furosemide 50mg/20mg capsule
 61337601000001114,17801111000001105,spironolactone 25mg tablets (phoenix healthcare distribution ltd) (product)
 61337701000001116,17801111000001105,spironolactone 25mg tablets (phoenix healthcare distribution ltd)
 61375201000001117,17801411000001100,spironolactone 25mg tablets (phoenix healthcare distribution ltd) 28 tablet (product)
 61375301000001114,17801411000001100,spironolactone 25mg tablets (phoenix healthcare distribution ltd) 28 tablet
+62045201000001119,16127811000001108,spironolactone 10mg / chlorothiazide 100mg capsules 1 capsule
+62048801000001111,16072811000001103,spironolactone 3mg / chlorothiazide 30mg capsules
+62052201000001111,16071811000001107,spironolactone 3mg / chlorothiazide 30mg capsules 1 capsule
 62053801000001115,11011011000001107,spironolactone 25mg tablets (dr reddy's laboratories (uk) ltd) 500 tablet
 62053901000001114,11011211000001102,spironolactone 25mg tablets (dr reddy's laboratories (uk) ltd) 100 tablet
+62055301000001114,16128011000001101,spironolactone 10mg / chlorothiazide 100mg capsules (special order) 1 capsule
+62055401000001118,16129611000001104,spironolactone 10mg / chlorothiazide 100mg capsules
+62061701000001119,16072011000001109,spironolactone 3mg / chlorothiazide 30mg capsules (special order) 1 capsule
 62063301000001117,11010711000001101,spironolactone 100mg tablets (dr reddy's laboratories (uk) ltd)
 62065701000001117,11010811000001109,spironolactone 100mg tablets (dr reddy's laboratories (uk) ltd) 100 tablet
 62065801000001114,11010911000001104,spironolactone 25mg tablets (dr reddy's laboratories (uk) ltd)
+62067301000001113,16071911000001102,spironolactone 3mg / chlorothiazide 30mg capsules (special order)
+62067401000001117,16127911000001103,spironolactone 10mg / chlorothiazide 100mg capsules (special order)
 63392101000001117,18479811000001105,spironolactone 25mg tablets (dr reddy's laboratories (uk) ltd) 28 tablet (product)
 63392201000001112,18479811000001105,spironolactone 25mg tablets (dr reddy's laboratories (uk) ltd) 28 tablet
 63392301000001115,18479911000001100,spironolactone 100mg tablets (dr reddy's laboratories (uk) ltd) 28 tablet (product)
 63392401000001111,18479911000001100,spironolactone 100mg tablets (dr reddy's laboratories (uk) ltd) 28 tablet
+63591001000001113,18520511000001107,spironolactone 4mg / chlorothiazide 40mg capsules (product)
+63591101000001114,18520511000001107,spironolactone 4mg / chlorothiazide 40mg capsules
+63598601000001114,18515111000001101,spironolactone 4mg / chlorothiazide 40mg capsules (special order) (product)
+63598701000001116,18515111000001101,spironolactone 4mg / chlorothiazide 40mg capsules (special order)
+63607201000001116,18515011000001102,spironolactone 4mg / chlorothiazide 40mg capsules 1 capsule (product)
+63607301000001113,18515011000001102,spironolactone 4mg / chlorothiazide 40mg capsules 1 capsule
+63618401000001116,18515211000001107,spironolactone 4mg / chlorothiazide 40mg capsules (special order) 1 capsule (product)
+63618501000001117,18515211000001107,spironolactone 4mg / chlorothiazide 40mg capsules (special order) 1 capsule
 66348801000001111,19600411000001109,spironolactone 50mg/5ml oral suspension 125 ml (product)
 66348901000001117,19600411000001109,spironolactone 50mg/5ml oral suspension 125 ml
 66349201000001116,19600111000001104,spironolactone 25mg/5ml oral suspension 125 ml (product)
@@ -978,6 +1103,22 @@ snomedctdescriptionid,snomedctconceptid,term
 79123901000001112,24390811000001102,spironolactone 100mg tablets (bristol laboratories ltd) 28 tablet
 79124001000001110,24391011000001104,spironolactone 25mg tablets (bristol laboratories ltd) 28 tablet (product)
 79124101000001111,24391011000001104,spironolactone 25mg tablets (bristol laboratories ltd) 28 tablet
+83814601000001115,27810911000001102,spironolactone 5mg / chlorothiazide 50mg capsules (product)
+83814701000001113,27810911000001102,spironolactone 5mg / chlorothiazide 50mg capsules
+85630601000001117,27749111000001100,spironolactone 5mg / chlorothiazide 50mg capsules (special order) (product)
+85630701000001110,27749111000001100,spironolactone 5mg / chlorothiazide 50mg capsules (special order)
+85634601000001113,27749011000001101,spironolactone 5mg / chlorothiazide 50mg capsules 1 capsule (product)
+85634701000001115,27749011000001101,spironolactone 5mg / chlorothiazide 50mg capsules 1 capsule
+87459801000001111,27749211000001106,spironolactone 5mg / chlorothiazide 50mg capsules (special order) 1 capsule (product)
+87459901000001117,27749211000001106,spironolactone 5mg / chlorothiazide 50mg capsules (special order) 1 capsule
+90738001000001110,28882011000001105,spironolactone 16mg / chlorothiazide 160mg capsules (product)
+90738101000001111,28882011000001105,spironolactone 16mg / chlorothiazide 160mg capsules
+90745601000001113,28875111000001105,spironolactone 16mg / chlorothiazide 160mg capsules (special order) (product)
+90745701000001115,28875111000001105,spironolactone 16mg / chlorothiazide 160mg capsules (special order)
+90748401000001116,28875011000001109,spironolactone 16mg / chlorothiazide 160mg capsules 1 capsule (product)
+90748501000001117,28875011000001109,spironolactone 16mg / chlorothiazide 160mg capsules 1 capsule
+90762201000001111,28875211000001104,spironolactone 16mg / chlorothiazide 160mg capsules (special order) 1 capsule (product)
+90762301000001119,28875211000001104,spironolactone 16mg / chlorothiazide 160mg capsules (special order) 1 capsule
 93887901000001118,30117211000001107,spironolactone 50mg tablets (de pharmaceuticals) (product)
 93888001000001116,30117211000001107,spironolactone 50mg tablets (de pharmaceuticals)
 93888101000001115,30117411000001106,spironolactone 100mg tablets (de pharmaceuticals) (product)
@@ -992,6 +1133,14 @@ snomedctdescriptionid,snomedctconceptid,term
 95499801000001119,30917011000001104,spironolactone 50mg tablets (mawdsley-brooks & company ltd)
 95534301000001114,30917111000001103,spironolactone 50mg tablets (mawdsley-brooks & company ltd) 28 tablet (product)
 95534401000001118,30917111000001103,spironolactone 50mg tablets (mawdsley-brooks & company ltd) 28 tablet
+100136901000001118,32880211000001105,spironolactone 6mg / chlorothiazide 60mg capsules (product)
+100137001000001119,32880211000001105,spironolactone 6mg / chlorothiazide 60mg capsules
+100155501000001117,32872611000001100,spironolactone 6mg / chlorothiazide 60mg capsules (special order) (product)
+100155601000001118,32872611000001100,spironolactone 6mg / chlorothiazide 60mg capsules (special order)
+100159101000001112,32872511000001104,spironolactone 6mg / chlorothiazide 60mg capsules 1 capsule (product)
+100159201000001117,32872511000001104,spironolactone 6mg / chlorothiazide 60mg capsules 1 capsule
+100194501000001111,32872711000001109,spironolactone 6mg / chlorothiazide 60mg capsules (special order) 1 capsule (product)
+100194601000001110,32872711000001109,spironolactone 6mg / chlorothiazide 60mg capsules (special order) 1 capsule
 106084901000001119,1349011000001101,spironolactone 100mg tablets (a a h pharmaceuticals ltd) 28 tablet 2 x 14 tablets
 106091201000001111,1345611000001105,spironolactone 25mg tablets (a a h pharmaceuticals ltd) 28 tablet 2 x 14 tablets
 109423501000001115,35597011000001102,spironolactone 100mg tablets (northstar healthcare unlimited company) (product)

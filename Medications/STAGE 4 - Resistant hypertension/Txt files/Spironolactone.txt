@@ -1,1157 +1,1157 @@
-snomedctdescriptionid,snomedctconceptid,term
-462152017,318076002,spironolactone 5mg/5ml s/f suspension
-462153010,318077006,spironolactone 10mg/5ml s/f suspension
-462154016,318078001,spironolactone 25mg/5ml s/f suspension
-462155015,318079009,spironolactone 50mg/5ml s/f suspension
-470807011,346684003,spironolactone+loop diuretic
-470808018,346685002,spironolactone+thiazide diuretic
-1188290010,318076002,spironolactone 5mg/5ml s/f suspension (product)
-1188291014,318077006,spironolactone 10mg/5ml s/f suspension (product)
-1188292019,318078001,spironolactone 25mg/5ml s/f suspension (product)
-1188293012,318079009,spironolactone 50mg/5ml s/f suspension (product)
-1193636011,346684003,spironolactone+loop diuretic (product)
-1193637019,346685002,spironolactone+thiazide diuretic (product)
-1200572011,375267001,spironolactone 25mg (product)
-1213604014,375267001,spironolactone 25mg
-1461256018,387078006,spironolactone (substance)
-1481192019,387078006,spironolactone
-2159236018,407636000,spironolactone prophylaxis
-3483155014,13929005,product containing spironolactone (medicinal product)
-3485074019,354276001,product containing hydroflumethiazide and spironolactone (medicinal product)
-3490583016,398666006,product containing furosemide and spironolactone (medicinal product)
-3490590014,398688006,product containing hydrochlorothiazide and spironolactone (medicinal product)
-3500157014,318056008,spironolactone 25 mg oral tablet
-3500158016,318057004,spironolactone 50 mg oral tablet
-3500159012,318058009,spironolactone 100 mg oral tablet
-3500165012,318127005,hydroflumethiazide 25 mg and spironolactone 25 mg oral tablet
-3500166013,318128000,hydroflumethiazide 50 mg and spironolactone 50 mg oral tablet
-3501726012,377483004,hydrochlorothiazide 25 mg and spironolactone 25 mg oral tablet
-3501793014,395514005,hydrochlorothiazide 50 mg and spironolactone 50 mg oral tablet
-3667964018,420285008,product containing chlorothiazide and spironolactone (medicinal product)
-3679578016,377483004,product containing precisely hydrochlorothiazide 25 milligram and spironolactone 25 milligram/1 each conventional release oral tablet (clinical drug)
-3679599018,395514005,product containing precisely hydrochlorothiazide 50 milligram and spironolactone 50 milligram/1 each conventional release oral tablet (clinical drug)
-3679623017,318127005,product containing precisely hydroflumethiazide 25 milligram and spironolactone 25 milligram/1 each conventional release oral tablet (clinical drug)
-3679624011,318128000,product containing precisely hydroflumethiazide 50 milligram and spironolactone 50 milligram/1 each conventional release oral tablet (clinical drug)
-3683127015,318058009,product containing precisely spironolactone 100 milligram/1 each conventional release oral tablet (clinical drug)
-3683128013,318056008,product containing precisely spironolactone 25 milligram/1 each conventional release oral tablet (clinical drug)
-3683130010,318102003,furosemide 20 mg and spironolactone 50 mg oral capsule
-3683131014,318102003,product containing precisely furosemide 20 milligram and spironolactone 50 milligram/1 each conventional release oral capsule (clinical drug)
-3683134018,318057004,product containing precisely spironolactone 50 milligram/1 each conventional release oral tablet (clinical drug)
-3690494010,766570000,product containing precisely spironolactone 2 milligram/1 milliliter conventional release oral suspension (clinical drug)
-3690496012,766570000,spironolactone 2 mg/ml oral suspension
-3690497015,766571001,product containing precisely spironolactone 5 milligram/1 milliliter conventional release oral suspension (clinical drug)
-3690498013,766571001,spironolactone 5 mg/ml oral suspension
-3690501013,766572008,spironolactone 10 mg/ml oral suspension
-3690502018,766572008,product containing precisely spironolactone 10 milligram/1 milliliter conventional release oral suspension (clinical drug)
-3690503011,766573003,spironolactone 1 mg/ml oral suspension
-3690505016,766573003,product containing precisely spironolactone 1 milligram/1 milliliter conventional release oral suspension (clinical drug)
-3710333010,768704000,product containing hydroflumethiazide and spironolactone in oral dose form (medicinal product form)
-3710334016,768704000,hydroflumethiazide- and spironolactone-containing product in oral dose form
-3711962010,714448001,product containing spironolactone in oral dose form (medicinal product form)
-3711963017,714448001,spironolactone-containing product in oral dose form
-3713937017,420285008,chlorothiazide- and spironolactone-containing product
-3714962011,398666006,furosemide- and spironolactone-containing product
-3715168015,398688006,hydrochlorothiazide- and spironolactone-containing product
-3715206010,354276001,hydroflumethiazide- and spironolactone-containing product
-3716639014,13929005,spironolactone-containing product
-3718515018,772477001,product containing furosemide and spironolactone in oral dose form (medicinal product form)
-3718516017,772477001,furosemide- and spironolactone-containing product in oral dose form
-3718579019,772508007,product containing hydrochlorothiazide and spironolactone in oral dose form (medicinal product form)
-3718580016,772508007,hydrochlorothiazide- and spironolactone-containing product in oral dose form
-3730447016,775191008,product containing only chlorothiazide and spironolactone (medicinal product)
-3730448014,775191008,chlorothiazide and spironolactone only product
-3732299012,776055009,product containing only furosemide and spironolactone (medicinal product)
-3732300016,776055009,furosemide and spironolactone only product
-3732674016,776238000,product containing only hydrochlorothiazide and spironolactone (medicinal product)
-3732675015,776238000,hydrochlorothiazide and spironolactone only product
-3732724010,776262005,product containing only hydroflumethiazide and spironolactone (medicinal product)
-3732725011,776262005,hydroflumethiazide and spironolactone only product
-3735513015,777603002,product containing only spironolactone (medicinal product)
-3735514014,777603002,spironolactone only product
-3740351016,779334002,product containing only furosemide and spironolactone in oral dose form (medicinal product form)
-3740352011,779334002,furosemide and spironolactone only product in oral dose form
-3740650012,779476009,product containing only hydrochlorothiazide and spironolactone in oral dose form (medicinal product form)
-3740651011,779476009,hydrochlorothiazide and spironolactone only product in oral dose form
-3740695017,779498000,product containing only hydroflumethiazide and spironolactone in oral dose form (medicinal product form)
-3740696016,779498000,hydroflumethiazide and spironolactone only product in oral dose form
-3742818013,780515004,product containing only spironolactone in oral dose form (medicinal product form)
-3742819017,780515004,spironolactone only product in oral dose form
-4596262015,407636000,administration of prophylactic spironolactone
-4674210012,1187576009,spironolactone- and torsemide-containing product
-4674211011,1187576009,product containing spironolactone and torasemide (medicinal product)
-4674212016,1187576009,spironolactone- and torasemide-containing product
-4674213014,1187577000,product containing only spironolactone and torasemide (medicinal product)
-4674214015,1187577000,spironolactone and torasemide only product
-4674215019,1187577000,spironolactone and torsemide only product
-4674216018,1187578005,product containing spironolactone and torasemide in oral dose form (medicinal product form)
-4674217010,1187578005,spironolactone- and torasemide-containing product in oral dose form
-4674218017,1187578005,spironolactone- and torsemide-containing product in oral dose form
-4674219013,1187579002,product containing only spironolactone and torasemide in oral dose form (medicinal product form)
-4674220019,1187579002,spironolactone and torsemide only product in oral dose form
-4674221015,1187579002,spironolactone and torasemide only product in oral dose form
-4674247012,1187588006,spironolactone 50 mg and torasemide 20 mg oral tablet
-4674248019,1187588006,product containing precisely spironolactone 50 milligram and torasemide 20 milligram/1 each conventional release oral tablet (clinical drug)
-4674249010,1187588006,spironolactone 50 mg and torsemide 20 mg oral tablet
-4675784019,1187575008,spironolactone 50 mg and torsemide 10 mg oral tablet
-4675785018,1187575008,spironolactone 50 mg and torasemide 10 mg oral tablet
-4675786017,1187575008,product containing precisely spironolactone 50 milligram and torasemide 10 milligram/1 each conventional release oral tablet (clinical drug)
-92271000001116,39356011000001101,spironolactone 12.5mg tablets
-92281000001119,39356011000001101,spironolactone 12.5mg tablets (product)
-92371000001112,39297711000001100,spironolactone 12.5mg tablets 28 tablet
-92381000001114,39297711000001100,spironolactone 12.5mg tablets 28 tablet (product)
-92491000001116,39322711000001102,spironolactone 12.5mg tablets (a a h pharmaceuticals ltd)
-92501000001113,39322711000001102,spironolactone 12.5mg tablets (a a h pharmaceuticals ltd) (product)
-92591000001115,39297811000001108,spironolactone 12.5mg tablets (advanz pharma)
-92601000001112,39297811000001108,spironolactone 12.5mg tablets (advanz pharma) (product)
-94371000001115,39322811000001105,spironolactone 12.5mg tablets (a a h pharmaceuticals ltd) 28 tablet
-94381000001118,39322811000001105,spironolactone 12.5mg tablets (a a h pharmaceuticals ltd) 28 tablet (product)
-94471000001112,39297911000001103,spironolactone 12.5mg tablets (advanz pharma) 28 tablet
-94481000001114,39297911000001103,spironolactone 12.5mg tablets (advanz pharma) 28 tablet (product)
-108241000001115,40329011000001109,spironolactone 12.5mg tablets (medihealth (northern) ltd)
-108251000001117,40329011000001109,spironolactone 12.5mg tablets (medihealth (northern) ltd) (product)
-111941000001118,40329111000001105,spironolactone 12.5mg tablets (medihealth (northern) ltd) 28 tablet
-111951000001115,40329111000001105,spironolactone 12.5mg tablets (medihealth (northern) ltd) 28 tablet (product)
-133721000001118,39366211000001101,spironolactone 12.5mg tablets (alliance healthcare (distribution) ltd)
-133741000001111,39366211000001101,spironolactone 12.5mg tablets (alliance healthcare (distribution) ltd) (product)
-134921000001117,39366311000001109,spironolactone 12.5mg tablets (alliance healthcare (distribution) ltd) 28 tablet
-134941000001110,39366311000001109,spironolactone 12.5mg tablets (alliance healthcare (distribution) ltd) 28 tablet (product)
-135051000001113,39365311000001104,spironolactone 50mg tablets (a a h pharmaceuticals ltd) 250 tablet
-135061000001111,39365311000001104,spironolactone 50mg tablets (a a h pharmaceuticals ltd) 250 tablet (product)
-135151000001114,39365511000001105,spironolactone 100mg tablets (a a h pharmaceuticals ltd) 250 tablet
-135161000001112,39365511000001105,spironolactone 100mg tablets (a a h pharmaceuticals ltd) 250 tablet (product)
-149401000000116,101891000000102,spironolactone contraindicated
-151691000000112,104551000000109,spironolactone prophylaxis
-152141000000117,105081000000108,spironolactone contraindicated
-153831000000113,107101000000109,spironolactone prophylaxis
-156541000000114,109981000000107,spironolactone contraindicated
-177621000000118,101891000000102,spironolactone contraindicated
-179631000000113,104551000000109,spironolactone prophylaxis
-181521000000119,107101000000109,spironolactone prophylaxis
-186351000000114,105081000000108,spironolactone contraindicated
-219791000001114,37146211000001107,spironolactone 100mg tablets 250 tablet
-219801000001113,37146211000001107,spironolactone 100mg tablets 250 tablet (product)
-219851000001114,37146011000001102,spironolactone 50mg tablets 250 tablet
-219861000001112,37146011000001102,spironolactone 50mg tablets 250 tablet (product)
-220121000001111,37141111000001105,spironolactone 25mg tablets (mawdsley-brooks & company ltd)
-220141000001118,37141111000001105,spironolactone 25mg tablets (mawdsley-brooks & company ltd) (product)
-220951000001117,37141311000001107,spironolactone 100mg tablets (mawdsley-brooks & company ltd)
-220961000001119,37141311000001107,spironolactone 100mg tablets (mawdsley-brooks & company ltd) (product)
-222391000001113,37141211000001104,spironolactone 25mg tablets (mawdsley-brooks & company ltd) 28 tablet
-222401000001111,37141211000001104,spironolactone 25mg tablets (mawdsley-brooks & company ltd) 28 tablet (product)
-222551000001111,37141411000001100,spironolactone 100mg tablets (mawdsley-brooks & company ltd) 28 tablet
-222561000001114,37141411000001100,spironolactone 100mg tablets (mawdsley-brooks & company ltd) 28 tablet (product)
-465941000000117,109981000000107,spironolactone contraindicated (situation)
-478801000001113,37802411000001108,spironolactone 25mg/5ml oral solution 100 ml
-478821000001118,37802411000001108,spironolactone 25mg/5ml oral solution 100 ml (product)
-481841000000113,280411000000101,spironolactone declined (situation)
-481851000000111,280411000000101,spironolactone declined
-1118261000001117,40328911000001100,spironolactone 25mg tablets (medihealth (northern) ltd) 500 tablet
-1118271000001110,40328911000001100,spironolactone 25mg tablets (medihealth (northern) ltd) 500 tablet (product)
-1543721000000114,706661000000107,spironolactone declined
-1548791000000119,706661000000107,spironolactone declined
-1721251000001110,39257511000001103,spironolactone 25mg tablets (medihealth (northern) ltd)
-1721261000001113,39257511000001103,spironolactone 25mg tablets (medihealth (northern) ltd) (product)
-1721721000001113,39257811000001100,spironolactone 50mg tablets (medihealth (northern) ltd)
-1721741000001115,39257811000001100,spironolactone 50mg tablets (medihealth (northern) ltd) (product)
-1722471000001113,39257111000001107,spironolactone 100mg tablets (medihealth (northern) ltd)
-1722481000001110,39257111000001107,spironolactone 100mg tablets (medihealth (northern) ltd) (product)
-1723321000001111,39259511000001105,spironolactone 100mg tablets (medihealth (northern) ltd) 28 tablet
-1723341000001118,39259511000001105,spironolactone 100mg tablets (medihealth (northern) ltd) 28 tablet (product)
-1724021000001112,39257911000001105,spironolactone 50mg tablets (medihealth (northern) ltd) 28 tablet
-1724041000001119,39257911000001105,spironolactone 50mg tablets (medihealth (northern) ltd) 28 tablet (product)
-1724351000001118,39257711000001108,spironolactone 25mg tablets (medihealth (northern) ltd) 28 tablet
-1724361000001115,39257711000001108,spironolactone 25mg tablets (medihealth (northern) ltd) 28 tablet (product)
-1849441000001112,606411000001101,spironolactone 50mg tablets (kent pharma (uk) ltd)
-1849451000001110,606411000001101,spironolactone 50mg tablets (kent pharma (uk) ltd) (product)
-1856801000001118,235211000001102,spironolactone 25mg tablets (kent pharma (uk) ltd)
-1856821000001113,235211000001102,spironolactone 25mg tablets (kent pharma (uk) ltd) (product)
-1857101000001112,840311000001109,spironolactone 100mg tablets (kent pharma (uk) ltd)
-1857121000001117,840311000001109,spironolactone 100mg tablets (kent pharma (uk) ltd) (product)
-1872961000001114,1347711000001107,spironolactone 25mg tablets (kent pharma (uk) ltd) 500 tablet
-1872971000001116,1347711000001107,spironolactone 25mg tablets (kent pharma (uk) ltd) 500 tablet (product)
-1880441000001111,1349611000001108,spironolactone 100mg tablets (kent pharma (uk) ltd) 30 tablet 3 x 10 tablets
-1880451000001114,1349611000001108,spironolactone 100mg tablets (kent pharma (uk) ltd) 30 tablet 3 x 10 tablets (product)
-1883901000001113,4327411000001105,spironolactone 50mg tablets (kent pharma (uk) ltd) 28 tablet 2 x 14 tablets
-1883921000001118,4327411000001105,spironolactone 50mg tablets (kent pharma (uk) ltd) 28 tablet 2 x 14 tablets (product)
-1891441000001116,1347311000001108,spironolactone 25mg tablets (kent pharma (uk) ltd) 28 tablet
-1891451000001118,1347311000001108,spironolactone 25mg tablets (kent pharma (uk) ltd) 28 tablet (product)
-1891461000001115,1349711000001104,spironolactone 100mg tablets (kent pharma (uk) ltd) 100 tablet
-1891471000001113,1349711000001104,spironolactone 100mg tablets (kent pharma (uk) ltd) 100 tablet (product)
-1893581000001112,4327511000001109,spironolactone 100mg tablets (kent pharma (uk) ltd) 28 tablet 2 x 14 tablets
-1893591000001114,4327511000001109,spironolactone 100mg tablets (kent pharma (uk) ltd) 28 tablet 2 x 14 tablets (product)
-1895241000001117,1350611000001104,spironolactone 50mg tablets (kent pharma (uk) ltd) 30 tablet 3 x 10 tablets
-1895251000001119,1350611000001104,spironolactone 50mg tablets (kent pharma (uk) ltd) 30 tablet 3 x 10 tablets (product)
-1896681000001116,1347611000001103,spironolactone 25mg tablets (kent pharma (uk) ltd) 30 tablet 3 x 10 tablets
-1896691000001119,1347611000001103,spironolactone 25mg tablets (kent pharma (uk) ltd) 30 tablet 3 x 10 tablets (product)
-1916161000001114,40369011000001103,spironolactone 12.5mg tablets (de pharmaceuticals)
-1916171000001116,40369011000001103,spironolactone 12.5mg tablets (de pharmaceuticals) (product)
-1917841000001119,40367811000001101,spironolactone 25mg tablets (de pharmaceuticals) 500 tablet
-1917851000001116,40367811000001101,spironolactone 25mg tablets (de pharmaceuticals) 500 tablet (product)
-1917901000001111,40369211000001108,spironolactone 12.5mg tablets (de pharmaceuticals) 28 tablet
-1917921000001116,40369211000001108,spironolactone 12.5mg tablets (de pharmaceuticals) 28 tablet (product)
-2112891000000112,809601000000100,spironolactone not indicated (situation)
-2112901000000113,809601000000100,spironolactone not indicated
-2112911000000110,809611000000103,spironolactone not indicated 
-2112921000000116,809611000000103,spironolactone not indicated
-2169201000001112,40454211000001107,spironolactone 50mg/5ml oral solution 20 ml
-2169221000001117,40454211000001107,spironolactone 50mg/5ml oral solution 20 ml (product)
-2177941000001117,13889011000001100,spironolactone 50mg/5ml oral solution (drug tariff special order)
-2177951000001119,13889011000001100,spironolactone 50mg/5ml oral solution (drug tariff special order) (product)
-2182571000001113,40454311000001104,spironolactone 50mg/5ml oral solution (drug tariff special order) 20 ml
-2182581000001110,40454311000001104,spironolactone 50mg/5ml oral solution (drug tariff special order) 20 ml (product)
-2186981000001118,13889111000001104,spironolactone 50mg/5ml oral solution (drug tariff special order) 1 ml
-2186991000001116,13889111000001104,spironolactone 50mg/5ml oral solution (drug tariff special order) 1 ml (product)
-2405021000001112,8706411000001104,spironolactone 100mg/5ml oral suspension (special order)
-2405441000001113,8706711000001105,spironolactone 10mg/5ml oral suspension (special order)
-2406061000001114,13888711000001107,spironolactone 25mg/5ml oral solution (special order)
-2406071000001116,13888711000001107,spironolactone 25mg/5ml oral solution (special order) (product)
-2506821000001115,8706911000001107,spironolactone 10mg/5ml oral suspension (special order) 1 ml
-2507061000001118,21313711000001108,spironolactone 10mg/5ml oral suspension (special order) 125 ml
-2507071000001111,21313711000001108,spironolactone 10mg/5ml oral suspension (special order) 125 ml (product)
-2507161000001117,13888811000001104,spironolactone 25mg/5ml oral solution (special order) 1 ml
-2507171000001110,13888811000001104,spironolactone 25mg/5ml oral solution (special order) 1 ml (product)
-2508181000001111,8706511000001100,spironolactone 100mg/5ml oral suspension (special order) 1 ml
-2508221000001115,37802511000001107,spironolactone 25mg/5ml oral solution (special order) 100 ml
-2508241000001113,37802511000001107,spironolactone 25mg/5ml oral solution (special order) 100 ml (product)
-2508751000001118,23395611000001106,spironolactone 100mg/5ml oral suspension (special order) 125 ml
-2508761000001115,23395611000001106,spironolactone 100mg/5ml oral suspension (special order) 125 ml (product)
-2626751000001119,41436611000001105,spironolactone 25mg tablets (key pharmaceuticals ltd)
-2626761000001116,41436611000001105,spironolactone 25mg tablets (key pharmaceuticals ltd) (product)
-2634491000001113,41436711000001101,spironolactone 25mg tablets (key pharmaceuticals ltd) 28 tablet 2 x 14 tablets
-2634501000001116,41436711000001101,spironolactone 25mg tablets (key pharmaceuticals ltd) 28 tablet 2 x 14 tablets (product)
-2821791000001110,775191008,spironolactone + chlorothiazide (product)
-2821801000001114,775191008,spironolactone + chlorothiazide
-2823591000001117,776055009,spironolactone + furosemide (product)
-2823601000001114,776055009,spironolactone + furosemide
-2849891000001119,777603002,spironolactone (product)
-2849901000001118,777603002,spironolactone
-2888691000001117,20326911000001101,spironolactone 25mg tablets (genesis pharmaceuticals ltd) 28 tablet 2 x 14 tablets
-2888701000001117,20326911000001101,spironolactone 25mg tablets (genesis pharmaceuticals ltd) 28 tablet 2 x 14 tablets (product)
-2892751000001118,20327111000001101,spironolactone 100mg tablets (genesis pharmaceuticals ltd) 28 tablet 2 x 14 tablets
-2892761000001115,20327111000001101,spironolactone 100mg tablets (genesis pharmaceuticals ltd) 28 tablet 2 x 14 tablets (product)
-3150181000001115,34937811000001104,spironolactone 25mg tablets (accord-uk ltd)
-3150191000001118,34937811000001104,spironolactone 25mg tablets (accord-uk ltd) (product)
-3153741000001116,34937611000001103,spironolactone 50mg tablets (accord-uk ltd)
-3153751000001118,34937611000001103,spironolactone 50mg tablets (accord-uk ltd) (product)
-3159701000001116,34941711000001102,spironolactone 100mg tablets (accord-uk ltd)
-3159721000001111,34941711000001102,spironolactone 100mg tablets (accord-uk ltd) (product)
-3174761000001115,34937711000001107,spironolactone 50mg tablets (accord-uk ltd) 28 tablet
-3174771000001113,34937711000001107,spironolactone 50mg tablets (accord-uk ltd) 28 tablet (product)
-3179241000001112,34941811000001105,spironolactone 100mg tablets (accord-uk ltd) 28 tablet
-3179251000001110,34941811000001105,spironolactone 100mg tablets (accord-uk ltd) 28 tablet (product)
-3187001000001119,37146311000001104,spironolactone 100mg tablets (accord-uk ltd) 250 tablet
-3187021000001114,37146311000001104,spironolactone 100mg tablets (accord-uk ltd) 250 tablet (product)
-3191701000001114,34937911000001109,spironolactone 25mg tablets (accord-uk ltd) 28 tablet
-3191721000001119,34937911000001109,spironolactone 25mg tablets (accord-uk ltd) 28 tablet (product)
-3192081000001111,36464211000001105,spironolactone 25mg tablets (accord-uk ltd) 500 tablet
-3192091000001113,36464211000001105,spironolactone 25mg tablets (accord-uk ltd) 500 tablet (product)
-3192561000001111,37146111000001101,spironolactone 50mg tablets (accord-uk ltd) 250 tablet
-3192571000001118,37146111000001101,spironolactone 50mg tablets (accord-uk ltd) 250 tablet (product)
-3282151000001117,42216411000001104,spironolactone 100mg tablets
-3282161000001119,42216411000001104,spironolactone 100mg tablets (product)
-3282721000001112,42216611000001101,spironolactone 50mg tablets
-3282741000001119,42216611000001101,spironolactone 50mg tablets (product)
-3284271000001114,42216511000001100,spironolactone 25mg tablets
-3284281000001111,42216511000001100,spironolactone 25mg tablets (product)
-4364201000001112,249601000001100,spironolactone 100mg capsule
-7846101000001110,249601000001100,spironolactone 100mg capsule
-11570901000001111,320201000001104,spironolactone+frusemide 50mg/20mg capsule - product
-11602201000001118,406501000001101,spironolactone 5mg/5ml s/f suspension - product
-11626901000001116,476101000001100,spironolactone 10mg/5ml s/f suspension - product
-11650801000001114,546601000001100,spironolactone 25mg/5ml s/f suspension - product
-11671201000001116,610201000001102,spironolactone 25mg tablet - product
-11674101000001114,616201000001100,spironolactone 50mg/5ml s/f suspension - product
-11695501000001112,680801000001104,spironolactone 50mg tablet - product
-11721901000001115,750801000001101,spironolactone 100mg tablet - product
-11990601000001118,610201000001102,spironolactone 25mg tablet - product
-11990701000001111,680801000001104,spironolactone 50mg tablet - product
-11990801000001119,750801000001101,spironolactone 100mg tablet - product
-11990901000001113,406501000001101,spironolactone 5mg/5ml s/f suspension - product
-11991001000001116,476101000001100,spironolactone 10mg/5ml s/f suspension - product
-11991101000001115,546601000001100,spironolactone 25mg/5ml s/f suspension - product
-11991201000001110,616201000001100,spironolactone 50mg/5ml s/f suspension - product
-11992001000001113,320201000001104,spironolactone+frusemide 50mg/20mg capsule - product
-14821901000001114,3581311000001101,spironolactone (substance)
-14822001000001118,3581311000001101,spironolactone
-15426701000001119,8816211000001103,chlorothiazide 10mg / spironolactone 1mg oral powder sachets (product)
-15503301000001112,8792111000001107,chlorothiazide 10mg / spironolactone 1mg capsules (product)
-15544901000001117,8726411000001105,spironolactone 50mg/5ml oral suspension (product)
-15545001000001117,8726411000001105,spironolactone 50mg/5ml oral suspension
-15545101000001116,8727011000001103,spironolactone 15mg/5ml oral suspension (product)
-15545201000001111,8727011000001103,spironolactone 15mg/5ml oral suspension
-15545301000001119,8727611000001105,spironolactone 100mg/5ml oral suspension (product)
-15545401000001110,8727611000001105,spironolactone 100mg/5ml oral suspension
-15545501000001114,8727311000001100,spironolactone 10mg/5ml oral suspension (product)
-15545601000001113,8727311000001100,spironolactone 10mg/5ml oral suspension
-15545701000001115,8726511000001109,spironolactone 25mg/5ml oral suspension (product)
-15545801000001112,8726511000001109,spironolactone 25mg/5ml oral suspension
-15545901000001118,8726311000001103,spironolactone 5mg/5ml oral suspension (product)
-15546001000001110,8726311000001103,spironolactone 5mg/5ml oral suspension
-16131901000001110,63111000001106,spironolactone 25mg tablets (a a h pharmaceuticals ltd) (product)
-16132001000001119,63111000001106,spironolactone 25mg tablets (a a h pharmaceuticals ltd)
-16163301000001118,672411000001105,spironolactone 25mg tablets (alpharma limited) (product)
-16164701000001117,82311000001101,spironolactone 25mg tablets (approved prescription services) (product)
-16164901000001115,474611000001102,spironolactone 25mg tablets (ivax pharmaceuticals uk ltd) (product)
-16165001000001115,474611000001102,spironolactone 25mg tablets (ivax pharmaceuticals uk ltd)
-16166101000001114,508011000001102,spironolactone 25mg tablets (unichem plc) (product)
-16167701000001113,670811000001106,spironolactone 100mg tablets (a a h pharmaceuticals ltd) (product)
-16167801000001116,670811000001106,spironolactone 100mg tablets (a a h pharmaceuticals ltd)
-16167901000001110,38611000001103,spironolactone 100mg tablets (alpharma limited) (product)
-16168101000001113,610611000001103,spironolactone 100mg tablets (approved prescription services) (product)
-16168501000001115,874911000001104,spironolactone 100mg tablets (ivax pharmaceuticals uk ltd) (product)
-16168601000001116,874911000001104,spironolactone 100mg tablets (ivax pharmaceuticals uk ltd)
-16169101000001117,333811000001106,spironolactone 100mg tablets (unichem plc) (product)
-16169301000001115,481811000001107,spironolactone 50mg tablets (a a h pharmaceuticals ltd) (product)
-16169401000001111,481811000001107,spironolactone 50mg tablets (a a h pharmaceuticals ltd)
-16169501000001110,46011000001105,spironolactone 50mg tablets (alpharma limited) (product)
-16169701000001116,330511000001102,spironolactone 50mg tablets (approved prescription services) (product)
-16169901000001119,121211000001101,spironolactone 50mg tablets (ivax pharmaceuticals uk ltd) (product)
-16170001000001115,121211000001101,spironolactone 50mg tablets (ivax pharmaceuticals uk ltd)
-16170501000001112,481711000001104,spironolactone 50mg tablets (unichem plc) (product)
-20993101000001110,8705811000001105,spironolactone 50mg/5ml oral suspension (special order) (product)
-20993301000001112,8706111000001109,spironolactone 15mg/5ml oral suspension (special order) (product)
-20993401000001116,8706111000001109,spironolactone 15mg/5ml oral suspension (special order)
-20993501000001117,8706411000001104,spironolactone 100mg/5ml oral suspension (special order) (product)
-20993701000001111,8706711000001105,spironolactone 10mg/5ml oral suspension (special order) (product)
-20993901000001113,8707011000001106,spironolactone 25mg/5ml oral suspension (special order) (product)
-20994101000001112,8707311000001109,spironolactone 5mg/5ml oral suspension (special order) (product)
-21067901000001119,8746211000001109,chlorothiazide 10mg / spironolactone 1mg capsules (special order) (product)
-21242501000001111,8808011000001109,chlorothiazide 10mg / spironolactone 1mg oral powder sachets (special order) (product)
-22297301000001112,3645711000001104,spironolactone 50mg / furosemide 20mg capsules 28 capsule (product)
-22297401000001116,3645711000001104,spironolactone 50mg / furosemide 20mg capsules 28 capsule
-22422901000001117,1291611000001105,spironolactone 50mg tablets 100 tablet (product)
-22423001000001114,1291611000001105,spironolactone 50mg tablets 100 tablet
-22423101000001110,1266311000001105,spironolactone 50mg tablets 30 tablet (product)
-22423201000001115,1266311000001105,spironolactone 50mg tablets 30 tablet
-22423301000001112,951511000001102,spironolactone 50mg tablets 28 tablet (product)
-22423401000001116,951511000001102,spironolactone 50mg tablets 28 tablet
-22423501000001117,1033711000001104,spironolactone 100mg tablets 100 tablet (product)
-22423601000001118,1033711000001104,spironolactone 100mg tablets 100 tablet
-22423701000001111,1323911000001103,spironolactone 100mg tablets 30 tablet (product)
-22423801000001119,1323911000001103,spironolactone 100mg tablets 30 tablet
-22423901000001113,1043911000001101,spironolactone 100mg tablets 28 tablet (product)
-22424001000001111,1043911000001101,spironolactone 100mg tablets 28 tablet
-22424301000001114,1048011000001107,spironolactone 25mg tablets 500 tablet (product)
-22424401000001118,1048011000001107,spironolactone 25mg tablets 500 tablet
-22424501000001119,1261411000001109,spironolactone 25mg tablets 100 tablet (product)
-22424601000001115,1261411000001109,spironolactone 25mg tablets 100 tablet
-22424701000001113,1301111000001106,spironolactone 25mg tablets 30 tablet (product)
-22424801000001116,1301111000001106,spironolactone 25mg tablets 30 tablet
-22424901000001110,1042111000001105,spironolactone 25mg tablets 28 tablet (product)
-22425001000001110,1042111000001105,spironolactone 25mg tablets 28 tablet
-22951301000001114,8807911000001107,chlorothiazide 10mg / spironolactone 1mg oral powder sachets 1 sachet (product)
-23014501000001113,8745611000001101,chlorothiazide 10mg / spironolactone 1mg capsules 1 capsule (product)
-23023701000001110,8707111000001107,spironolactone 5mg/5ml oral suspension 1 ml (product)
-23023801000001118,8707111000001107,spironolactone 5mg/5ml oral suspension 1 ml
-23023901000001112,8706811000001102,spironolactone 25mg/5ml oral suspension 1 ml (product)
-23024001000001110,8706811000001102,spironolactone 25mg/5ml oral suspension 1 ml
-23024101000001111,8706611000001101,spironolactone 10mg/5ml oral suspension 1 ml (product)
-23024201000001116,8706611000001101,spironolactone 10mg/5ml oral suspension 1 ml
-23024301000001113,8706311000001106,spironolactone 100mg/5ml oral suspension 1 ml (product)
-23024401000001117,8706311000001106,spironolactone 100mg/5ml oral suspension 1 ml
-23024501000001118,8705911000001100,spironolactone 15mg/5ml oral suspension 1 ml (product)
-23024601000001119,8705911000001100,spironolactone 15mg/5ml oral suspension 1 ml
-23024701000001112,8705711000001102,spironolactone 50mg/5ml oral suspension 1 ml (product)
-23024801000001115,8705711000001102,spironolactone 50mg/5ml oral suspension 1 ml
-23984501000001119,8706011000001108,spironolactone 50mg/5ml oral suspension (special order) 1 ml (product)
-23984701000001113,8706211000001103,spironolactone 15mg/5ml oral suspension (special order) 1 ml (product)
-23984801000001116,8706211000001103,spironolactone 15mg/5ml oral suspension (special order) 1 ml
-23984901000001110,8706511000001100,spironolactone 100mg/5ml oral suspension (special order) 1 ml (product)
-23985101000001111,8706911000001107,spironolactone 10mg/5ml oral suspension (special order) 1 ml (product)
-23985301000001113,8707211000001101,spironolactone 25mg/5ml oral suspension (special order) 1 ml (product)
-23985501000001118,8707411000001102,spironolactone 5mg/5ml oral suspension (special order) 1 ml (product)
-24006901000001114,8746311000001101,chlorothiazide 10mg / spironolactone 1mg capsules (special order) 1 capsule (product)
-24042501000001113,8808111000001105,chlorothiazide 10mg / spironolactone 1mg oral powder sachets (special order) 1 sachet (product)
-24364101000001115,1345611000001105,spironolactone 25mg tablets (a a h pharmaceuticals ltd) 28 tablet 2 x 14 tablets (product)
-24364301000001118,1345711000001101,spironolactone 25mg tablets (a a h pharmaceuticals ltd) 30 tablet (product)
-24364401000001114,1345711000001101,spironolactone 25mg tablets (a a h pharmaceuticals ltd) 30 tablet
-24364501000001113,1345811000001109,spironolactone 25mg tablets (a a h pharmaceuticals ltd) 500 tablet (product)
-24364601000001112,1345811000001109,spironolactone 25mg tablets (a a h pharmaceuticals ltd) 500 tablet
-24366701000001112,1346911000001106,spironolactone 25mg tablets (alpharma limited) 28 tablet 2 x 14 tablets (product)
-24367101000001114,1347111000001106,spironolactone 25mg tablets (approved prescription services) 28 tablet 2 x 14 tablets (product)
-24367301000001111,1347211000001100,spironolactone 25mg tablets (ivax pharmaceuticals uk ltd) 30 tablet 3 x 10 tablets (product)
-24367401000001115,1347211000001100,spironolactone 25mg tablets (ivax pharmaceuticals uk ltd) 30 tablet 3 x 10 tablets
-24369101000001119,1348111000001107,spironolactone 25mg tablets (unichem plc) 28 tablet 2 x 14 tablets (product)
-24369301000001117,1348211000001101,spironolactone 25mg tablets (unichem plc) 500 tablet (product)
-24370901000001118,1349011000001101,spironolactone 100mg tablets (a a h pharmaceuticals ltd) 28 tablet 2 x 14 tablets (product)
-24371101000001111,1349111000001100,spironolactone 100mg tablets (a a h pharmaceuticals ltd) 30 tablet (product)
-24371201000001116,1349111000001100,spironolactone 100mg tablets (a a h pharmaceuticals ltd) 30 tablet
-24371301000001113,1349211000001106,spironolactone 100mg tablets (alpharma limited) 28 tablet 2 x 14 tablets (product)
-24371501000001118,1349311000001103,spironolactone 100mg tablets (approved prescription services) 28 tablet 2 x 14 tablets (product)
-24371901000001114,1349511000001109,spironolactone 100mg tablets (ivax pharmaceuticals uk ltd) 30 tablet 3 x 10 tablets (product)
-24372001000001118,1349511000001109,spironolactone 100mg tablets (ivax pharmaceuticals uk ltd) 30 tablet 3 x 10 tablets
-24372901000001119,1350011000001106,spironolactone 100mg tablets (unichem plc) 28 tablet 2 x 14 tablets (product)
-24373101000001112,1350111000001107,spironolactone 50mg tablets (a a h pharmaceuticals ltd) 28 tablet 2 x 14 tablets (product)
-24373201000001117,1350111000001107,spironolactone 50mg tablets (a a h pharmaceuticals ltd) 28 tablet 2 x 14 tablets
-24373301000001114,1350211000001101,spironolactone 50mg tablets (a a h pharmaceuticals ltd) 30 tablet (product)
-24373401000001118,1350211000001101,spironolactone 50mg tablets (a a h pharmaceuticals ltd) 30 tablet
-24408901000001115,1350311000001109,spironolactone 50mg tablets (alpharma limited) 28 tablet 2 x 14 tablets (product)
-24409101000001114,1350411000001102,spironolactone 50mg tablets (approved prescription services) 28 tablet 2 x 14 tablets (product)
-24409301000001111,1350511000001103,spironolactone 50mg tablets (ivax pharmaceuticals uk ltd) 30 tablet (product)
-24409401000001115,1350511000001103,spironolactone 50mg tablets (ivax pharmaceuticals uk ltd) 30 tablet
-24409901000001112,1350811000001100,spironolactone 50mg tablets (unichem plc) 28 tablet 2 x 14 tablets (product)
-24410101000001117,1350911000001105,spironolactone 50mg tablets (unichem plc) 30 tablet (product)
-31594101000001114,9802811000001103,spironolactone 100mg tablets (almus pharmaceutical ltd) (product)
-31594501000001116,9803311000001102,spironolactone 50mg tablets (almus pharmaceutical ltd) (product)
-31594901000001112,9803611000001107,spironolactone 25mg tablets (almus pharmaceutical ltd) (product)
-31611701000001119,9803811000001106,spironolactone 25mg tablets (almus pharmaceutical ltd) 28 tablet 2 x 14 tablets (product)
-31673101000001110,9803211000001105,spironolactone 100mg tablets (almus pharmaceutical ltd) 28 tablet 2 x 14 tablets (product)
-31673301000001112,9803411000001109,spironolactone 50mg tablets (almus pharmaceutical ltd) 28 tablet 2 x 14 tablets (product)
-31866501000001113,10036311000001104,chlorothiazide + spironolactone (product)
-31866601000001112,10036311000001104,chlorothiazide + spironolactone
-35857701000001114,10480211000001106,spironolactone 100mg tablets 20 tablet (product)
-35857801000001117,10480211000001106,spironolactone 100mg tablets 20 tablet
-36277801000001114,10649411000001108,spironolactone 25mg tablets (teva uk ltd) 30 tablet 3 x 10 tablets (product)
-36277901000001115,10649411000001108,spironolactone 25mg tablets (teva uk ltd) 30 tablet 3 x 10 tablets
-36278001000001118,10649511000001107,spironolactone 50mg tablets (teva uk ltd) 30 tablet (product)
-36278101000001117,10649511000001107,spironolactone 50mg tablets (teva uk ltd) 30 tablet
-36278201000001112,10649611000001106,spironolactone 100mg tablets (teva uk ltd) 30 tablet 3 x 10 tablets (product)
-36278301000001115,10649611000001106,spironolactone 100mg tablets (teva uk ltd) 30 tablet 3 x 10 tablets
-37052001000001113,10766511000001100,spironolactone 100mg tablets 60 tablet (product)
-37052101000001114,10766511000001100,spironolactone 100mg tablets 60 tablet
-37503301000001114,11010711000001101,spironolactone 100mg tablets (dr reddy's labs) (product)
-37503501000001119,11010911000001104,spironolactone 25mg tablets (dr reddy's labs) (product)
-37518501000001114,11010811000001109,spironolactone 100mg tablets (dr reddy's labs) 100 tablet (product)
-37518701000001115,11011011000001107,spironolactone 25mg tablets (dr reddy's labs) 500 tablet (product)
-37518901000001118,11011211000001102,spironolactone 25mg tablets (dr reddy's labs) 100 tablet (product)
-37563101000001113,11030811000001104,spironolactone 50mg / furosemide 20mg capsules 30 capsule (product)
-37563201000001118,11030811000001104,spironolactone 50mg / furosemide 20mg capsules 30 capsule
-37700201000001112,38611000001103,spironolactone 100mg tablets (actavis uk ltd)
-37702001000001119,46011000001105,spironolactone 50mg tablets (actavis uk ltd)
-37708301000001118,82311000001101,spironolactone 25mg tablets (teva uk ltd)
-37752301000001114,330511000001102,spironolactone 50mg tablets (teva uk ltd)
-37801101000001110,610611000001103,spironolactone 100mg tablets (teva uk ltd)
-37812401000001112,672411000001105,spironolactone 25mg tablets (actavis uk ltd)
-37891901000001111,1346911000001106,spironolactone 25mg tablets (actavis uk ltd) 28 tablet 2 x 14 tablets
-37892001000001115,1347111000001106,spironolactone 25mg tablets (teva uk ltd) 28 tablet 2 x 14 tablets
-37892301000001117,1349211000001106,spironolactone 100mg tablets (actavis uk ltd) 28 tablet 2 x 14 tablets
-37892401000001113,1349311000001103,spironolactone 100mg tablets (teva uk ltd) 28 tablet 2 x 14 tablets
-37892501000001112,1350311000001109,spironolactone 50mg tablets (actavis uk ltd) 28 tablet 2 x 14 tablets
-37892601000001111,1350411000001102,spironolactone 50mg tablets (teva uk ltd) 28 tablet 2 x 14 tablets
-41000201000001110,9802811000001103,spironolactone 100mg tablets (almus pharmaceuticals ltd)
-41000601000001112,9803211000001105,spironolactone 100mg tablets (almus pharmaceuticals ltd) 28 tablet 2 x 14 tablets
-41000701000001119,9803311000001102,spironolactone 50mg tablets (almus pharmaceuticals ltd)
-41000801000001111,9803411000001109,spironolactone 50mg tablets (almus pharmaceuticals ltd) 28 tablet 2 x 14 tablets
-41001001000001114,9803611000001107,spironolactone 25mg tablets (almus pharmaceuticals ltd)
-41001201000001115,9803811000001106,spironolactone 25mg tablets (almus pharmaceuticals ltd) 28 tablet 2 x 14 tablets
-42400901000001112,11613511000001107,spironolactone 100mg/5ml oral suspension sugar free (product)
-42401001000001115,11613511000001107,spironolactone 100mg/5ml oral suspension sugar free
-42428701000001119,11606311000001107,spironolactone 100mg/5ml oral suspension sugar free (rosemont pharmaceuticals ltd) (product)
-42428801000001111,11606311000001107,spironolactone 100mg/5ml oral suspension sugar free (rosemont pharmaceuticals ltd)
-42428901000001117,11606511000001101,spironolactone 100mg/5ml oral suspension sugar free (special order) (product)
-42429001000001110,11606511000001101,spironolactone 100mg/5ml oral suspension sugar free (special order)
-42429101000001111,11606911000001108,spironolactone 10mg/5ml oral suspension sugar free (rosemont pharmaceuticals ltd) (product)
-42429201000001116,11606911000001108,spironolactone 10mg/5ml oral suspension sugar free (rosemont pharmaceuticals ltd)
-42429301000001113,11607111000001108,spironolactone 10mg/5ml oral suspension sugar free (special order) (product)
-42429401000001117,11607111000001108,spironolactone 10mg/5ml oral suspension sugar free (special order)
-42429501000001118,11607511000001104,spironolactone 25mg/5ml oral suspension sugar free (rosemont pharmaceuticals ltd) (product)
-42429601000001119,11607511000001104,spironolactone 25mg/5ml oral suspension sugar free (rosemont pharmaceuticals ltd)
-42429701000001112,11607711000001109,spironolactone 25mg/5ml oral suspension sugar free (special order) (product)
-42429801000001115,11607711000001109,spironolactone 25mg/5ml oral suspension sugar free (special order)
-42429901000001114,11608111000001109,spironolactone 50mg/5ml oral suspension sugar free (rosemont pharmaceuticals ltd) (product)
-42430001000001115,11608111000001109,spironolactone 50mg/5ml oral suspension sugar free (rosemont pharmaceuticals ltd)
-42430101000001119,11608311000001106,spironolactone 50mg/5ml oral suspension sugar free (special order) (product)
-42430201000001114,11608311000001106,spironolactone 50mg/5ml oral suspension sugar free (special order)
-42430301000001117,11608711000001105,spironolactone 5mg/5ml oral suspension sugar free (rosemont pharmaceuticals ltd) (product)
-42430401000001113,11608711000001105,spironolactone 5mg/5ml oral suspension sugar free (rosemont pharmaceuticals ltd)
-42430501000001112,11608911000001107,spironolactone 5mg/5ml oral suspension sugar free (special order) (product)
-42430601000001111,11608911000001107,spironolactone 5mg/5ml oral suspension sugar free (special order)
-42433901000001113,11608611000001101,spironolactone 5mg/5ml oral suspension sugar free 1 ml (product)
-42434001000001111,11608611000001101,spironolactone 5mg/5ml oral suspension sugar free 1 ml
-42434101000001112,11608511000001100,spironolactone 5mg/5ml oral suspension sugar free 125 ml (product)
-42434201000001117,11608511000001100,spironolactone 5mg/5ml oral suspension sugar free 125 ml
-42434301000001114,11608011000001108,spironolactone 50mg/5ml oral suspension sugar free 1 ml (product)
-42434401000001118,11608011000001108,spironolactone 50mg/5ml oral suspension sugar free 1 ml
-42434501000001119,11607911000001106,spironolactone 50mg/5ml oral suspension sugar free 125 ml (product)
-42434601000001115,11607911000001106,spironolactone 50mg/5ml oral suspension sugar free 125 ml
-42434701000001113,11607411000001103,spironolactone 25mg/5ml oral suspension sugar free 1 ml (product)
-42434801000001116,11607411000001103,spironolactone 25mg/5ml oral suspension sugar free 1 ml
-42434901000001110,11607311000001105,spironolactone 25mg/5ml oral suspension sugar free 125 ml (product)
-42435001000001110,11607311000001105,spironolactone 25mg/5ml oral suspension sugar free 125 ml
-42435101000001111,11606811000001103,spironolactone 10mg/5ml oral suspension sugar free 1 ml (product)
-42435201000001116,11606811000001103,spironolactone 10mg/5ml oral suspension sugar free 1 ml
-42435301000001113,11606711000001106,spironolactone 10mg/5ml oral suspension sugar free 125 ml (product)
-42435401000001117,11606711000001106,spironolactone 10mg/5ml oral suspension sugar free 125 ml
-42435501000001118,11606211000001104,spironolactone 100mg/5ml oral suspension sugar free 1 ml (product)
-42435601000001119,11606211000001104,spironolactone 100mg/5ml oral suspension sugar free 1 ml
-42435701000001112,11606111000001105,spironolactone 100mg/5ml oral suspension sugar free 125 ml (product)
-42435801000001115,11606111000001105,spironolactone 100mg/5ml oral suspension sugar free 125 ml
-42473301000001114,11606411000001100,spironolactone 100mg/5ml oral suspension sugar free (rosemont pharmaceuticals ltd) 125 ml (product)
-42473401000001118,11606411000001100,spironolactone 100mg/5ml oral suspension sugar free (rosemont pharmaceuticals ltd) 125 ml
-42473501000001119,11606611000001102,spironolactone 100mg/5ml oral suspension sugar free (special order) 1 ml (product)
-42473601000001115,11606611000001102,spironolactone 100mg/5ml oral suspension sugar free (special order) 1 ml
-42473701000001113,11607011000001107,spironolactone 10mg/5ml oral suspension sugar free (rosemont pharmaceuticals ltd) 125 ml (product)
-42473801000001116,11607011000001107,spironolactone 10mg/5ml oral suspension sugar free (rosemont pharmaceuticals ltd) 125 ml
-42473901000001110,11607211000001102,spironolactone 10mg/5ml oral suspension sugar free (special order) 1 ml (product)
-42474001000001113,11607211000001102,spironolactone 10mg/5ml oral suspension sugar free (special order) 1 ml
-42474101000001114,11607611000001100,spironolactone 25mg/5ml oral suspension sugar free (rosemont pharmaceuticals ltd) 125 ml (product)
-42474201000001119,11607611000001100,spironolactone 25mg/5ml oral suspension sugar free (rosemont pharmaceuticals ltd) 125 ml
-42474301000001111,11607811000001101,spironolactone 25mg/5ml oral suspension sugar free (special order) 1 ml (product)
-42474401000001115,11607811000001101,spironolactone 25mg/5ml oral suspension sugar free (special order) 1 ml
-42474501000001116,11608211000001103,spironolactone 50mg/5ml oral suspension sugar free (rosemont pharmaceuticals ltd) 125 ml (product)
-42474601000001117,11608211000001103,spironolactone 50mg/5ml oral suspension sugar free (rosemont pharmaceuticals ltd) 125 ml
-42474701000001110,11608411000001104,spironolactone 50mg/5ml oral suspension sugar free (special order) 1 ml (product)
-42474801000001118,11608411000001104,spironolactone 50mg/5ml oral suspension sugar free (special order) 1 ml
-42474901000001112,11608811000001102,spironolactone 5mg/5ml oral suspension sugar free (rosemont pharmaceuticals ltd) 125 ml (product)
-42475001000001112,11608811000001102,spironolactone 5mg/5ml oral suspension sugar free (rosemont pharmaceuticals ltd) 125 ml
-42475101000001113,11609011000001103,spironolactone 5mg/5ml oral suspension sugar free (special order) 1 ml (product)
-42475201000001118,11609011000001103,spironolactone 5mg/5ml oral suspension sugar free (special order) 1 ml
-44219401000001119,12423911000001107,chlorothiazide 100mg/5ml / spironolactone 10mg/5ml oral solution (product)
-44219601000001116,12424011000001105,chlorothiazide 100mg/5ml / spironolactone 10mg/5ml oral suspension (product)
-44219801000001117,12424211000001100,chlorothiazide 200mg/5ml / spironolactone 20mg/5ml oral solution (product)
-44220001000001113,12424311000001108,chlorothiazide 200mg/5ml / spironolactone 20mg/5ml oral suspension (product)
-44220201000001119,12424511000001102,chlorothiazide 250mg/5ml / spironolactone 10mg/5ml oral solution (product)
-44220401000001115,12424611000001103,chlorothiazide 250mg/5ml / spironolactone 10mg/5ml oral suspension (product)
-44220601000001117,12424711000001107,chlorothiazide 50mg/5ml / spironolactone 5mg/5ml oral solution (product)
-44220801000001118,12424811000001104,chlorothiazide 50mg/5ml / spironolactone 5mg/5ml oral suspension (product)
-44241201000001111,12408511000001103,chlorothiazide 100mg/5ml / spironolactone 10mg/5ml oral suspension (special order) (product)
-44241401000001110,12414811000001106,chlorothiazide 100mg/5ml / spironolactone 10mg/5ml oral solution (special order) (product)
-44241601000001113,12417511000001100,chlorothiazide 200mg/5ml / spironolactone 20mg/5ml oral suspension (special order) (product)
-44241801000001112,12419011000001104,chlorothiazide 200mg/5ml / spironolactone 20mg/5ml oral solution (special order) (product)
-44242001000001114,12419911000001100,chlorothiazide 250mg/5ml / spironolactone 10mg/5ml oral suspension (special order) (product)
-44242201000001115,12420211000001108,chlorothiazide 250mg/5ml / spironolactone 10mg/5ml oral solution (special order) (product)
-44242401000001116,12420511000001106,chlorothiazide 50mg/5ml / spironolactone 5mg/5ml oral suspension (special order) (product)
-44242801000001119,12421611000001100,chlorothiazide 50mg/5ml / spironolactone 5mg/5ml oral solution (special order) (product)
-44250001000001112,12421411000001103,chlorothiazide 50mg/5ml / spironolactone 5mg/5ml oral solution 1 ml (product)
-44250801000001117,12420411000001107,chlorothiazide 50mg/5ml / spironolactone 5mg/5ml oral suspension 1 ml (product)
-44251001000001119,12420111000001102,chlorothiazide 250mg/5ml / spironolactone 10mg/5ml oral solution 1 ml (product)
-44251201000001113,12419811000001105,chlorothiazide 250mg/5ml / spironolactone 10mg/5ml oral suspension 1 ml (product)
-44251401000001112,12418911000001108,chlorothiazide 200mg/5ml / spironolactone 20mg/5ml oral solution 1 ml (product)
-44251601000001110,12417211000001103,chlorothiazide 200mg/5ml / spironolactone 20mg/5ml oral suspension 1 ml (product)
-44251801000001114,12414011000001100,chlorothiazide 100mg/5ml / spironolactone 10mg/5ml oral solution 1 ml (product)
-44252001000001111,12408111000001107,chlorothiazide 100mg/5ml / spironolactone 10mg/5ml oral suspension 1 ml (product)
-44284001000001113,12408911000001105,chlorothiazide 100mg/5ml / spironolactone 10mg/5ml oral suspension (special order) 1 ml (product)
-44284201000001119,12415111000001100,chlorothiazide 100mg/5ml / spironolactone 10mg/5ml oral solution (special order) 1 ml (product)
-44284401000001115,12417611000001101,chlorothiazide 200mg/5ml / spironolactone 20mg/5ml oral suspension (special order) 1 ml (product)
-44284601000001117,12419211000001109,chlorothiazide 200mg/5ml / spironolactone 20mg/5ml oral solution (special order) 1 ml (product)
-44284801000001118,12420011000001103,chlorothiazide 250mg/5ml / spironolactone 10mg/5ml oral suspension (special order) 1 ml (product)
-44285001000001112,12420311000001100,chlorothiazide 250mg/5ml / spironolactone 10mg/5ml oral solution (special order) 1 ml (product)
-44285201000001118,12420711000001101,chlorothiazide 50mg/5ml / spironolactone 5mg/5ml oral suspension (special order) 1 ml (product)
-44286001000001119,12421811000001101,chlorothiazide 50mg/5ml / spironolactone 5mg/5ml oral solution (special order) 1 ml (product)
-46603201000001112,318076002,spironolactone 5mg/5ml oral suspension sugar free
-46603301000001115,318077006,spironolactone 10mg/5ml oral suspension sugar free
-46603401000001111,318078001,spironolactone 25mg/5ml oral suspension sugar free
-46603501000001110,318079009,spironolactone 50mg/5ml oral suspension sugar free
-46604001000001116,318102003,spironolactone 50mg / furosemide 20mg capsules
-47064101000001112,13325011000001109,spironolactone 1.25mg/5ml oral solution (product)
-47064201000001117,13325011000001109,spironolactone 1.25mg/5ml oral solution
-47064301000001114,13325111000001105,spironolactone 1.25mg/5ml oral suspension (product)
-47064401000001118,13325111000001105,spironolactone 1.25mg/5ml oral suspension
-47064501000001119,13325211000001104,spironolactone 12.5mg/5ml oral solution (product)
-47064601000001115,13325211000001104,spironolactone 12.5mg/5ml oral solution
-47064701000001113,13325311000001107,spironolactone 12.5mg/5ml oral suspension (product)
-47064801000001116,13325311000001107,spironolactone 12.5mg/5ml oral suspension
-47064901000001110,13325411000001100,spironolactone 125mg/5ml oral solution (product)
-47065001000001110,13325411000001100,spironolactone 125mg/5ml oral solution
-47065101000001111,13325511000001101,spironolactone 125mg/5ml oral suspension (product)
-47065201000001116,13325511000001101,spironolactone 125mg/5ml oral suspension
-47065301000001113,13325611000001102,spironolactone 12mg/5ml oral solution (product)
-47065401000001117,13325611000001102,spironolactone 12mg/5ml oral solution
-47065501000001118,13325711000001106,spironolactone 12mg/5ml oral suspension (product)
-47065601000001119,13325711000001106,spironolactone 12mg/5ml oral suspension
-47065701000001112,13325811000001103,spironolactone 13.5mg/5ml oral solution (product)
-47065801000001115,13325811000001103,spironolactone 13.5mg/5ml oral solution
-47065901000001114,13325911000001108,spironolactone 13.5mg/5ml oral suspension (product)
-47066001000001117,13325911000001108,spironolactone 13.5mg/5ml oral suspension
-47066101000001116,13326011000001100,spironolactone 2.5mg/5ml oral solution (product)
-47066201000001111,13326011000001100,spironolactone 2.5mg/5ml oral solution
-47066301000001119,13326111000001104,spironolactone 2.5mg/5ml oral suspension (product)
-47066401000001110,13326111000001104,spironolactone 2.5mg/5ml oral suspension
-47066501000001114,13326211000001105,spironolactone 200mg/5ml oral solution (product)
-47066601000001113,13326211000001105,spironolactone 200mg/5ml oral solution
-47066701000001115,13326311000001102,spironolactone 200mg/5ml oral suspension (product)
-47066801000001112,13326311000001102,spironolactone 200mg/5ml oral suspension
-47066901000001118,13326411000001109,spironolactone 20mg/5ml oral solution (product)
-47067001000001119,13326411000001109,spironolactone 20mg/5ml oral solution
-47067101000001118,13326511000001108,spironolactone 20mg/5ml oral suspension (product)
-47067201000001113,13326511000001108,spironolactone 20mg/5ml oral suspension
-47068501000001110,13316811000001104,spironolactone 1.25mg/5ml oral suspension (special order) (product)
-47068601000001114,13316811000001104,spironolactone 1.25mg/5ml oral suspension (special order)
-47068701000001116,13317111000001109,spironolactone 1.25mg/5ml oral solution (special order) (product)
-47068801000001113,13317111000001109,spironolactone 1.25mg/5ml oral solution (special order)
-47069101000001113,13317711000001105,spironolactone 12.5mg/5ml oral suspension (special order) (product)
-47069201000001118,13317711000001105,spironolactone 12.5mg/5ml oral suspension (special order)
-47069501000001115,13318411000001100,spironolactone 12.5mg/5ml oral solution (special order) (product)
-47069601000001116,13318411000001100,spironolactone 12.5mg/5ml oral solution (special order)
-47070301000001113,13319511000001107,spironolactone 125mg/5ml oral suspension (special order) (product)
-47070401000001117,13319511000001107,spironolactone 125mg/5ml oral suspension (special order)
-47070701000001112,13320111000001102,spironolactone 125mg/5ml oral solution (special order) (product)
-47070801000001115,13320111000001102,spironolactone 125mg/5ml oral solution (special order)
-47070901000001114,13320411000001107,spironolactone 12mg/5ml oral suspension (special order) (product)
-47071001000001117,13320411000001107,spironolactone 12mg/5ml oral suspension (special order)
-47071101000001116,13320711000001101,spironolactone 12mg/5ml oral solution (special order) (product)
-47071201000001111,13320711000001101,spironolactone 12mg/5ml oral solution (special order)
-47071301000001119,13321111000001108,spironolactone 13.5mg/5ml oral suspension (special order) (product)
-47071401000001110,13321111000001108,spironolactone 13.5mg/5ml oral suspension (special order)
-47071501000001114,13321411000001103,spironolactone 13.5mg/5ml oral solution (special order) (product)
-47071601000001113,13321411000001103,spironolactone 13.5mg/5ml oral solution (special order)
-47071701000001115,13321711000001109,spironolactone 2.5mg/5ml oral suspension (special order) (product)
-47071801000001112,13321711000001109,spironolactone 2.5mg/5ml oral suspension (special order)
-47071901000001118,13322011000001104,spironolactone 2.5mg/5ml oral solution (special order) (product)
-47072001000001114,13322011000001104,spironolactone 2.5mg/5ml oral solution (special order)
-47072101000001110,13322411000001108,spironolactone 200mg/5ml oral suspension (special order) (product)
-47072201000001115,13322411000001108,spironolactone 200mg/5ml oral suspension (special order)
-47072301000001112,13322911000001100,spironolactone 200mg/5ml oral solution (special order) (product)
-47072401000001116,13322911000001100,spironolactone 200mg/5ml oral solution (special order)
-47072501000001117,13323211000001103,spironolactone 20mg/5ml oral suspension (special order) (product)
-47072601000001118,13323211000001103,spironolactone 20mg/5ml oral suspension (special order)
-47072701000001111,13323511000001100,spironolactone 20mg/5ml oral solution (special order) (product)
-47072801000001119,13323511000001100,spironolactone 20mg/5ml oral solution (special order)
-47072901000001113,13323411000001104,spironolactone 20mg/5ml oral solution 1 ml (product)
-47073001000001116,13323411000001104,spironolactone 20mg/5ml oral solution 1 ml
-47073101000001115,13323111000001109,spironolactone 20mg/5ml oral suspension 1 ml (product)
-47073201000001110,13323111000001109,spironolactone 20mg/5ml oral suspension 1 ml
-47073301000001118,13322811000001105,spironolactone 200mg/5ml oral solution 1 ml (product)
-47073401000001114,13322811000001105,spironolactone 200mg/5ml oral solution 1 ml
-47073501000001113,13322211000001109,spironolactone 200mg/5ml oral suspension 1 ml (product)
-47073601000001112,13322211000001109,spironolactone 200mg/5ml oral suspension 1 ml
-47073701000001119,13321911000001106,spironolactone 2.5mg/5ml oral solution 1 ml (product)
-47073801000001111,13321911000001106,spironolactone 2.5mg/5ml oral solution 1 ml
-47073901000001117,13321611000001100,spironolactone 2.5mg/5ml oral suspension 1 ml (product)
-47074001000001119,13321611000001100,spironolactone 2.5mg/5ml oral suspension 1 ml
-47074101000001118,13321311000001105,spironolactone 13.5mg/5ml oral solution 1 ml (product)
-47074201000001113,13321311000001105,spironolactone 13.5mg/5ml oral solution 1 ml
-47074301000001116,13321011000001107,spironolactone 13.5mg/5ml oral suspension 1 ml (product)
-47074401000001112,13321011000001107,spironolactone 13.5mg/5ml oral suspension 1 ml
-47074501000001111,13320611000001105,spironolactone 12mg/5ml oral solution 1 ml (product)
-47074601000001110,13320611000001105,spironolactone 12mg/5ml oral solution 1 ml
-47074701000001117,13320311000001100,spironolactone 12mg/5ml oral suspension 1 ml (product)
-47074801000001114,13320311000001100,spironolactone 12mg/5ml oral suspension 1 ml
-47074901000001115,13319911000001100,spironolactone 125mg/5ml oral solution 1 ml (product)
-47075001000001115,13319911000001100,spironolactone 125mg/5ml oral solution 1 ml
-47075501000001112,13318911000001108,spironolactone 125mg/5ml oral suspension 1 ml (product)
-47075601000001111,13318911000001108,spironolactone 125mg/5ml oral suspension 1 ml
-47076101000001114,13318211000001104,spironolactone 12.5mg/5ml oral solution 1 ml (product)
-47076201000001119,13318211000001104,spironolactone 12.5mg/5ml oral solution 1 ml
-47076701000001110,13317311000001106,spironolactone 12.5mg/5ml oral suspension 1 ml (product)
-47076801000001118,13317311000001106,spironolactone 12.5mg/5ml oral suspension 1 ml
-47076901000001112,13317011000001108,spironolactone 1.25mg/5ml oral solution 1 ml (product)
-47077001000001111,13317011000001108,spironolactone 1.25mg/5ml oral solution 1 ml
-47077101000001112,13316711000001107,spironolactone 1.25mg/5ml oral suspension 1 ml (product)
-47077201000001117,13316711000001107,spironolactone 1.25mg/5ml oral suspension 1 ml
-47079701000001116,13316911000001109,spironolactone 1.25mg/5ml oral suspension (special order) 1 ml (product)
-47079801000001113,13316911000001109,spironolactone 1.25mg/5ml oral suspension (special order) 1 ml
-47079901000001119,13317211000001103,spironolactone 1.25mg/5ml oral solution (special order) 1 ml (product)
-47080001000001118,13317211000001103,spironolactone 1.25mg/5ml oral solution (special order) 1 ml
-47080301000001115,13317811000001102,spironolactone 12.5mg/5ml oral suspension (special order) 1 ml (product)
-47080401000001111,13317811000001102,spironolactone 12.5mg/5ml oral suspension (special order) 1 ml
-47080701000001116,13318611000001102,spironolactone 12.5mg/5ml oral solution (special order) 1 ml (product)
-47080801000001113,13318611000001102,spironolactone 12.5mg/5ml oral solution (special order) 1 ml
-47081501000001119,13319611000001106,spironolactone 125mg/5ml oral suspension (special order) 1 ml (product)
-47081601000001115,13319611000001106,spironolactone 125mg/5ml oral suspension (special order) 1 ml
-47081901000001110,13320211000001108,spironolactone 125mg/5ml oral solution (special order) 1 ml (product)
-47082001000001119,13320211000001108,spironolactone 125mg/5ml oral solution (special order) 1 ml
-47082101000001118,13320511000001106,spironolactone 12mg/5ml oral suspension (special order) 1 ml (product)
-47082201000001113,13320511000001106,spironolactone 12mg/5ml oral suspension (special order) 1 ml
-47082301000001116,13320811000001109,spironolactone 12mg/5ml oral solution (special order) 1 ml (product)
-47082401000001112,13320811000001109,spironolactone 12mg/5ml oral solution (special order) 1 ml
-47082501000001111,13321211000001102,spironolactone 13.5mg/5ml oral suspension (special order) 1 ml (product)
-47082601000001110,13321211000001102,spironolactone 13.5mg/5ml oral suspension (special order) 1 ml
-47082701000001117,13321511000001104,spironolactone 13.5mg/5ml oral solution (special order) 1 ml (product)
-47082801000001114,13321511000001104,spironolactone 13.5mg/5ml oral solution (special order) 1 ml
-47082901000001115,13321811000001101,spironolactone 2.5mg/5ml oral suspension (special order) 1 ml (product)
-47083001000001112,13321811000001101,spironolactone 2.5mg/5ml oral suspension (special order) 1 ml
-47083101000001113,13322111000001103,spironolactone 2.5mg/5ml oral solution (special order) 1 ml (product)
-47083201000001118,13322111000001103,spironolactone 2.5mg/5ml oral solution (special order) 1 ml
-47083301000001110,13322511000001107,spironolactone 200mg/5ml oral suspension (special order) 1 ml (product)
-47083401000001119,13322511000001107,spironolactone 200mg/5ml oral suspension (special order) 1 ml
-47083501000001115,13323011000001108,spironolactone 200mg/5ml oral solution (special order) 1 ml (product)
-47083601000001116,13323011000001108,spironolactone 200mg/5ml oral solution (special order) 1 ml
-47083701000001114,13323311000001106,spironolactone 20mg/5ml oral suspension (special order) 1 ml (product)
-47083801000001117,13323311000001106,spironolactone 20mg/5ml oral suspension (special order) 1 ml
-47083901000001111,13323611000001101,spironolactone 20mg/5ml oral solution (special order) 1 ml (product)
-47084001000001114,13323611000001101,spironolactone 20mg/5ml oral solution (special order) 1 ml
-47086401000001113,13353511000001101,spironolactone 250mg/5ml oral solution (product)
-47086501000001112,13353511000001101,spironolactone 250mg/5ml oral solution
-47086601000001111,13353611000001102,spironolactone 250mg/5ml oral suspension (product)
-47086701000001118,13353611000001102,spironolactone 250mg/5ml oral suspension
-47086801000001110,13353711000001106,spironolactone 2mg/5ml oral solution (product)
-47086901000001116,13353711000001106,spironolactone 2mg/5ml oral solution
-47087001000001117,13353811000001103,spironolactone 2mg/5ml oral suspension (product)
-47087101000001116,13353811000001103,spironolactone 2mg/5ml oral suspension
-47087201000001111,13353911000001108,spironolactone 3.3mg/5ml oral solution (product)
-47087301000001119,13353911000001108,spironolactone 3.3mg/5ml oral solution
-47087401000001110,13354011000001106,spironolactone 3.3mg/5ml oral suspension (product)
-47087501000001114,13354011000001106,spironolactone 3.3mg/5ml oral suspension
-47087601000001113,13354111000001107,spironolactone 3.5mg/5ml oral solution (product)
-47087701000001115,13354111000001107,spironolactone 3.5mg/5ml oral solution
-47087801000001112,13354211000001101,spironolactone 3.5mg/5ml oral suspension (product)
-47087901000001118,13354211000001101,spironolactone 3.5mg/5ml oral suspension
-47088001000001116,13354311000001109,spironolactone 30mg/5ml oral solution (product)
-47088101000001115,13354311000001109,spironolactone 30mg/5ml oral solution
-47088201000001110,13354411000001102,spironolactone 30mg/5ml oral suspension (product)
-47088301000001118,13354411000001102,spironolactone 30mg/5ml oral suspension
-47088401000001114,13354511000001103,spironolactone 35mg/5ml oral solution (product)
-47088501000001113,13354511000001103,spironolactone 35mg/5ml oral solution
-47088601000001112,13354611000001104,spironolactone 35mg/5ml oral suspension (product)
-47088701000001119,13354611000001104,spironolactone 35mg/5ml oral suspension
-47088801000001111,13354711000001108,spironolactone 3mg/5ml oral solution (product)
-47088901000001117,13354711000001108,spironolactone 3mg/5ml oral solution
-47089001000001110,13354811000001100,spironolactone 3mg/5ml oral suspension (product)
-47089101000001111,13354811000001100,spironolactone 3mg/5ml oral suspension
-47089201000001116,13354911000001105,spironolactone 4.5mg/5ml oral solution (product)
-47089301000001113,13354911000001105,spironolactone 4.5mg/5ml oral solution
-47089401000001117,13355011000001105,spironolactone 4.5mg/5ml oral suspension (product)
-47089501000001118,13355011000001105,spironolactone 4.5mg/5ml oral suspension
-47102401000001115,13373911000001106,spironolactone 40mg/5ml oral solution (product)
-47102501000001116,13373911000001106,spironolactone 40mg/5ml oral solution
-47102601000001117,13374011000001109,spironolactone 40mg/5ml oral suspension (product)
-47102701000001110,13374011000001109,spironolactone 40mg/5ml oral suspension
-47102801000001118,13374111000001105,spironolactone 4mg/5ml oral solution (product)
-47102901000001112,13374111000001105,spironolactone 4mg/5ml oral solution
-47103001000001115,13374211000001104,spironolactone 4mg/5ml oral suspension (product)
-47103101000001119,13374211000001104,spironolactone 4mg/5ml oral suspension
-47103201000001114,13374311000001107,spironolactone 6.25mg/5ml oral solution (product)
-47103301000001117,13374311000001107,spironolactone 6.25mg/5ml oral solution
-47103401000001113,13374411000001100,spironolactone 6.25mg/5ml oral suspension (product)
-47103501000001112,13374411000001100,spironolactone 6.25mg/5ml oral suspension
-47106801000001117,13384711000001101,spironolactone 6mg/5ml oral solution (product)
-47106901000001111,13384711000001101,spironolactone 6mg/5ml oral solution
-47107001000001110,13384811000001109,spironolactone 6mg/5ml oral suspension (product)
-47107101000001111,13384811000001109,spironolactone 6mg/5ml oral suspension
-47107201000001116,13384911000001104,spironolactone 7.5mg/5ml oral solution (product)
-47107301000001113,13384911000001104,spironolactone 7.5mg/5ml oral solution
-47107401000001117,13385011000001104,spironolactone 7.5mg/5ml oral suspension (product)
-47107501000001118,13385011000001104,spironolactone 7.5mg/5ml oral suspension
-47107601000001119,13385111000001103,spironolactone 75mg/5ml oral solution (product)
-47107701000001112,13385111000001103,spironolactone 75mg/5ml oral solution
-47107801000001115,13385211000001109,spironolactone 75mg/5ml oral suspension (product)
-47107901000001114,13385211000001109,spironolactone 75mg/5ml oral suspension
-47108001000001111,13385311000001101,spironolactone 7mg/5ml oral solution (product)
-47108101000001112,13385311000001101,spironolactone 7mg/5ml oral solution
-47108201000001117,13385411000001108,spironolactone 7mg/5ml oral suspension (product)
-47108301000001114,13385411000001108,spironolactone 7mg/5ml oral suspension
-47108401000001118,13385511000001107,spironolactone 8.3mg/5ml oral solution (product)
-47108501000001119,13385511000001107,spironolactone 8.3mg/5ml oral solution
-47108601000001115,13385611000001106,spironolactone 8.3mg/5ml oral suspension (product)
-47108701000001113,13385611000001106,spironolactone 8.3mg/5ml oral suspension
-47108801000001116,13385711000001102,spironolactone 8mg/5ml oral solution (product)
-47108901000001110,13385711000001102,spironolactone 8mg/5ml oral solution
-47109001000001117,13385811000001105,spironolactone 8mg/5ml oral suspension (product)
-47109101000001116,13385811000001105,spironolactone 8mg/5ml oral suspension
-47112801000001116,13336011000001102,spironolactone 250mg/5ml oral suspension (special order) (product)
-47112901000001110,13336011000001102,spironolactone 250mg/5ml oral suspension (special order)
-47113201000001112,13336611000001109,spironolactone 250mg/5ml oral solution (special order) (product)
-47113301000001115,13336611000001109,spironolactone 250mg/5ml oral solution (special order)
-47115001000001117,13339211000001103,spironolactone 2mg/5ml oral suspension (special order) (product)
-47115101000001116,13339211000001103,spironolactone 2mg/5ml oral suspension (special order)
-47115801000001112,13340511000001109,spironolactone 2mg/5ml oral solution (special order) (product)
-47115901000001118,13340511000001109,spironolactone 2mg/5ml oral solution (special order)
-47120401000001112,13347411000001109,spironolactone 3.3mg/5ml oral suspension (special order) (product)
-47120501000001111,13347411000001109,spironolactone 3.3mg/5ml oral suspension (special order)
-47120801000001114,13348011000001104,spironolactone 3.3mg/5ml oral solution (special order) (product)
-47120901000001115,13348011000001104,spironolactone 3.3mg/5ml oral solution (special order)
-47121201000001118,13348711000001102,spironolactone 3.5mg/5ml oral suspension (special order) (product)
-47121301000001110,13348711000001102,spironolactone 3.5mg/5ml oral suspension (special order)
-47121601000001116,13349211000001104,spironolactone 3.5mg/5ml oral solution (special order) (product)
-47121701000001114,13349211000001104,spironolactone 3.5mg/5ml oral solution (special order)
-47122001000001115,13349911000001108,spironolactone 30mg/5ml oral suspension (special order) (product)
-47122101000001119,13349911000001108,spironolactone 30mg/5ml oral suspension (special order)
-47122401000001113,13350411000001108,spironolactone 30mg/5ml oral solution (special order) (product)
-47122501000001112,13350411000001108,spironolactone 30mg/5ml oral solution (special order)
-47122601000001111,13350711000001102,spironolactone 35mg/5ml oral suspension (special order) (product)
-47122701000001118,13350711000001102,spironolactone 35mg/5ml oral suspension (special order)
-47122801000001110,13351011000001108,spironolactone 35mg/5ml oral solution (special order) (product)
-47122901000001116,13351011000001108,spironolactone 35mg/5ml oral solution (special order)
-47123001000001113,13351311000001106,spironolactone 3mg/5ml oral suspension (special order) (product)
-47123101000001114,13351311000001106,spironolactone 3mg/5ml oral suspension (special order)
-47123201000001119,13351611000001101,spironolactone 3mg/5ml oral solution (special order) (product)
-47123301000001111,13351611000001101,spironolactone 3mg/5ml oral solution (special order)
-47123601000001117,13352611000001107,spironolactone 4.5mg/5ml oral suspension (special order) (product)
-47123701000001110,13352611000001107,spironolactone 4.5mg/5ml oral suspension (special order)
-47123801000001118,13355311000001108,spironolactone 4.5mg/5ml oral solution (special order) (product)
-47123901000001112,13355311000001108,spironolactone 4.5mg/5ml oral solution (special order)
-47124001000001110,13356311000001103,spironolactone 40mg/5ml oral suspension (special order) (product)
-47124101000001111,13356311000001103,spironolactone 40mg/5ml oral suspension (special order)
-47124201000001116,13358411000001106,spironolactone 40mg/5ml oral solution (special order) (product)
-47124301000001113,13358411000001106,spironolactone 40mg/5ml oral solution (special order)
-47124401000001117,13360811000001102,spironolactone 4mg/5ml oral suspension (special order) (product)
-47124501000001118,13360811000001102,spironolactone 4mg/5ml oral suspension (special order)
-47124601000001119,13361211000001109,spironolactone 4mg/5ml oral solution (special order) (product)
-47124701000001112,13361211000001109,spironolactone 4mg/5ml oral solution (special order)
-47125201000001115,13362011000001107,spironolactone 6.25mg/5ml oral suspension (special order) (product)
-47125301000001112,13362011000001107,spironolactone 6.25mg/5ml oral suspension (special order)
-47125801000001119,13362811000001101,spironolactone 6.25mg/5ml oral solution (special order) (product)
-47125901000001113,13362811000001101,spironolactone 6.25mg/5ml oral solution (special order)
-47134001000001112,13379811000001104,spironolactone 6mg/5ml oral suspension (special order) (product)
-47134101000001113,13379811000001104,spironolactone 6mg/5ml oral suspension (special order)
-47134201000001118,13380111000001106,spironolactone 6mg/5ml oral solution (special order) (product)
-47134301000001110,13380111000001106,spironolactone 6mg/5ml oral solution (special order)
-47134401000001119,13380411000001101,spironolactone 7.5mg/5ml oral suspension (special order) (product)
-47134501000001115,13380411000001101,spironolactone 7.5mg/5ml oral suspension (special order)
-47134601000001116,13380711000001107,spironolactone 7.5mg/5ml oral solution (special order) (product)
-47134701000001114,13380711000001107,spironolactone 7.5mg/5ml oral solution (special order)
-47135001000001111,13381211000001106,spironolactone 75mg/5ml oral suspension (special order) (product)
-47135101000001112,13381211000001106,spironolactone 75mg/5ml oral suspension (special order)
-47135201000001117,13381711000001104,spironolactone 75mg/5ml oral solution (special order) (product)
-47135301000001114,13381711000001104,spironolactone 75mg/5ml oral solution (special order)
-47135401000001118,13382011000001109,spironolactone 7mg/5ml oral suspension (special order) (product)
-47135501000001119,13382011000001109,spironolactone 7mg/5ml oral suspension (special order)
-47135601000001115,13382411000001100,spironolactone 7mg/5ml oral solution (special order) (product)
-47135701000001113,13382411000001100,spironolactone 7mg/5ml oral solution (special order)
-47135801000001116,13382711000001106,spironolactone 8.3mg/5ml oral suspension (special order) (product)
-47135901000001110,13382711000001106,spironolactone 8.3mg/5ml oral suspension (special order)
-47136001000001118,13383011000001100,spironolactone 8.3mg/5ml oral solution (special order) (product)
-47136101000001117,13383011000001100,spironolactone 8.3mg/5ml oral solution (special order)
-47136201000001112,13383311000001102,spironolactone 8mg/5ml oral suspension (special order) (product)
-47136301000001115,13383311000001102,spironolactone 8mg/5ml oral suspension (special order)
-47136401000001111,13383611000001107,spironolactone 8mg/5ml oral solution (special order) (product)
-47136501000001110,13383611000001107,spironolactone 8mg/5ml oral solution (special order)
-47136601000001114,13383511000001108,spironolactone 8mg/5ml oral solution 1 ml (product)
-47136701000001116,13383511000001108,spironolactone 8mg/5ml oral solution 1 ml
-47136801000001113,13383211000001105,spironolactone 8mg/5ml oral suspension 1 ml (product)
-47136901000001119,13383211000001105,spironolactone 8mg/5ml oral suspension 1 ml
-47137001000001115,13382911000001108,spironolactone 8.3mg/5ml oral solution 1 ml (product)
-47137101000001119,13382911000001108,spironolactone 8.3mg/5ml oral solution 1 ml
-47137201000001114,13382611000001102,spironolactone 8.3mg/5ml oral suspension 1 ml (product)
-47137301000001117,13382611000001102,spironolactone 8.3mg/5ml oral suspension 1 ml
-47137401000001113,13382211000001104,spironolactone 7mg/5ml oral solution 1 ml (product)
-47137501000001112,13382211000001104,spironolactone 7mg/5ml oral solution 1 ml
-47137601000001111,13381911000001102,spironolactone 7mg/5ml oral suspension 1 ml (product)
-47137701000001118,13381911000001102,spironolactone 7mg/5ml oral suspension 1 ml
-47137801000001110,13381611000001108,spironolactone 75mg/5ml oral solution 1 ml (product)
-47137901000001116,13381611000001108,spironolactone 75mg/5ml oral solution 1 ml
-47138001000001119,13381011000001101,spironolactone 75mg/5ml oral suspension 1 ml (product)
-47138101000001118,13381011000001101,spironolactone 75mg/5ml oral suspension 1 ml
-47138201000001113,13380611000001103,spironolactone 7.5mg/5ml oral solution 1 ml (product)
-47138301000001116,13380611000001103,spironolactone 7.5mg/5ml oral solution 1 ml
-47138401000001112,13380311000001108,spironolactone 7.5mg/5ml oral suspension 1 ml (product)
-47138501000001111,13380311000001108,spironolactone 7.5mg/5ml oral suspension 1 ml
-47138601000001110,13380011000001105,spironolactone 6mg/5ml oral solution 1 ml (product)
-47138701000001117,13380011000001105,spironolactone 6mg/5ml oral solution 1 ml
-47138801000001114,13379711000001107,spironolactone 6mg/5ml oral suspension 1 ml (product)
-47138901000001115,13379711000001107,spironolactone 6mg/5ml oral suspension 1 ml
-47145201000001118,13362711000001109,spironolactone 6.25mg/5ml oral solution 1 ml (product)
-47145301000001110,13362711000001109,spironolactone 6.25mg/5ml oral solution 1 ml
-47145801000001117,13361811000001105,spironolactone 6.25mg/5ml oral suspension 1 ml (product)
-47145901000001111,13361811000001105,spironolactone 6.25mg/5ml oral suspension 1 ml
-47146401000001112,13361011000001104,spironolactone 4mg/5ml oral solution 1 ml (product)
-47146501000001111,13361011000001104,spironolactone 4mg/5ml oral solution 1 ml
-47146601000001110,13360711000001105,spironolactone 4mg/5ml oral suspension 1 ml (product)
-47146701000001117,13360711000001105,spironolactone 4mg/5ml oral suspension 1 ml
-47146801000001114,13357511000001106,spironolactone 40mg/5ml oral solution 1 ml (product)
-47146901000001115,13357511000001106,spironolactone 40mg/5ml oral solution 1 ml
-47147001000001116,13356211000001106,spironolactone 40mg/5ml oral suspension 1 ml (product)
-47147101000001115,13356211000001106,spironolactone 40mg/5ml oral suspension 1 ml
-47147201000001110,13355111000001106,spironolactone 4.5mg/5ml oral solution 1 ml (product)
-47147301000001118,13355111000001106,spironolactone 4.5mg/5ml oral solution 1 ml
-47147401000001114,13352511000001108,spironolactone 4.5mg/5ml oral suspension 1 ml (product)
-47147501000001113,13352511000001108,spironolactone 4.5mg/5ml oral suspension 1 ml
-47147801000001111,13351511000001100,spironolactone 3mg/5ml oral solution 1 ml (product)
-47147901000001117,13351511000001100,spironolactone 3mg/5ml oral solution 1 ml
-47148001000001115,13351211000001103,spironolactone 3mg/5ml oral suspension 1 ml (product)
-47148101000001119,13351211000001103,spironolactone 3mg/5ml oral suspension 1 ml
-47148201000001114,13350911000001100,spironolactone 35mg/5ml oral solution 1 ml (product)
-47148301000001117,13350911000001100,spironolactone 35mg/5ml oral solution 1 ml
-47148401000001113,13350611000001106,spironolactone 35mg/5ml oral suspension 1 ml (product)
-47148501000001112,13350611000001106,spironolactone 35mg/5ml oral suspension 1 ml
-47148601000001111,13350311000001101,spironolactone 30mg/5ml oral solution 1 ml (product)
-47148701000001118,13350311000001101,spironolactone 30mg/5ml oral solution 1 ml
-47149001000001114,13349711000001106,spironolactone 30mg/5ml oral suspension 1 ml (product)
-47149101000001110,13349711000001106,spironolactone 30mg/5ml oral suspension 1 ml
-47149401000001116,13349111000001105,spironolactone 3.5mg/5ml oral solution 1 ml (product)
-47149501000001117,13349111000001105,spironolactone 3.5mg/5ml oral solution 1 ml
-47149801000001119,13348511000001107,spironolactone 3.5mg/5ml oral suspension 1 ml (product)
-47149901000001113,13348511000001107,spironolactone 3.5mg/5ml oral suspension 1 ml
-47150201000001114,13347811000001106,spironolactone 3.3mg/5ml oral solution 1 ml (product)
-47150301000001117,13347811000001106,spironolactone 3.3mg/5ml oral solution 1 ml
-47150601000001111,13347311000001102,spironolactone 3.3mg/5ml oral suspension 1 ml (product)
-47150701000001118,13347311000001102,spironolactone 3.3mg/5ml oral suspension 1 ml
-47155201000001116,13340111000001100,spironolactone 2mg/5ml oral solution 1 ml (product)
-47155301000001113,13340111000001100,spironolactone 2mg/5ml oral solution 1 ml
-47156801000001112,13337711000001102,spironolactone 2mg/5ml oral suspension 1 ml (product)
-47156901000001118,13337711000001102,spironolactone 2mg/5ml oral suspension 1 ml
-47157601000001110,13336411000001106,spironolactone 250mg/5ml oral solution 1 ml (product)
-47157701000001117,13336411000001106,spironolactone 250mg/5ml oral solution 1 ml
-47158001000001118,13335811000001100,spironolactone 250mg/5ml oral suspension 1 ml (product)
-47158101000001117,13335811000001100,spironolactone 250mg/5ml oral suspension 1 ml
-47165801000001113,13336111000001101,spironolactone 250mg/5ml oral suspension (special order) 1 ml (product)
-47165901000001119,13336111000001101,spironolactone 250mg/5ml oral suspension (special order) 1 ml
-47166201000001117,13336711000001100,spironolactone 250mg/5ml oral solution (special order) 1 ml (product)
-47166301000001114,13336711000001100,spironolactone 250mg/5ml oral solution (special order) 1 ml
-47168001000001110,13339411000001104,spironolactone 2mg/5ml oral suspension (special order) 1 ml (product)
-47168101000001111,13339411000001104,spironolactone 2mg/5ml oral suspension (special order) 1 ml
-47168801000001115,13340611000001108,spironolactone 2mg/5ml oral solution (special order) 1 ml (product)
-47168901000001114,13340611000001108,spironolactone 2mg/5ml oral solution (special order) 1 ml
-47173401000001119,13347511000001108,spironolactone 3.3mg/5ml oral suspension (special order) 1 ml (product)
-47173501000001115,13347511000001108,spironolactone 3.3mg/5ml oral suspension (special order) 1 ml
-47173801000001117,13348211000001109,spironolactone 3.3mg/5ml oral solution (special order) 1 ml (product)
-47173901000001111,13348211000001109,spironolactone 3.3mg/5ml oral solution (special order) 1 ml
-47174201000001115,13348911000001100,spironolactone 3.5mg/5ml oral suspension (special order) 1 ml (product)
-47174301000001112,13348911000001100,spironolactone 3.5mg/5ml oral suspension (special order) 1 ml
-47174601000001118,13349311000001107,spironolactone 3.5mg/5ml oral solution (special order) 1 ml (product)
-47174701000001111,13349311000001107,spironolactone 3.5mg/5ml oral solution (special order) 1 ml
-47175001000001113,13350111000001103,spironolactone 30mg/5ml oral suspension (special order) 1 ml (product)
-47175101000001114,13350111000001103,spironolactone 30mg/5ml oral suspension (special order) 1 ml
-47175401000001115,13350511000001107,spironolactone 30mg/5ml oral solution (special order) 1 ml (product)
-47175501000001116,13350511000001107,spironolactone 30mg/5ml oral solution (special order) 1 ml
-47175601000001117,13350811000001105,spironolactone 35mg/5ml oral suspension (special order) 1 ml (product)
-47175701000001110,13350811000001105,spironolactone 35mg/5ml oral suspension (special order) 1 ml
-47175801000001118,13351111000001109,spironolactone 35mg/5ml oral solution (special order) 1 ml (product)
-47175901000001112,13351111000001109,spironolactone 35mg/5ml oral solution (special order) 1 ml
-47176001000001115,13351411000001104,spironolactone 3mg/5ml oral suspension (special order) 1 ml (product)
-47176101000001119,13351411000001104,spironolactone 3mg/5ml oral suspension (special order) 1 ml
-47176201000001114,13351711000001105,spironolactone 3mg/5ml oral solution (special order) 1 ml (product)
-47176301000001117,13351711000001105,spironolactone 3mg/5ml oral solution (special order) 1 ml
-47176601000001111,13352911000001101,spironolactone 4.5mg/5ml oral suspension (special order) 1 ml (product)
-47176701000001118,13352911000001101,spironolactone 4.5mg/5ml oral suspension (special order) 1 ml
-47176801000001110,13355811000001104,spironolactone 4.5mg/5ml oral solution (special order) 1 ml (product)
-47176901000001116,13355811000001104,spironolactone 4.5mg/5ml oral solution (special order) 1 ml
-47177001000001117,13356511000001109,spironolactone 40mg/5ml oral suspension (special order) 1 ml (product)
-47177101000001116,13356511000001109,spironolactone 40mg/5ml oral suspension (special order) 1 ml
-47177201000001111,13358611000001109,spironolactone 40mg/5ml oral solution (special order) 1 ml (product)
-47177301000001119,13358611000001109,spironolactone 40mg/5ml oral solution (special order) 1 ml
-47177401000001110,13360911000001107,spironolactone 4mg/5ml oral suspension (special order) 1 ml (product)
-47177501000001114,13360911000001107,spironolactone 4mg/5ml oral suspension (special order) 1 ml
-47177601000001113,13361411000001108,spironolactone 4mg/5ml oral solution (special order) 1 ml (product)
-47177701000001115,13361411000001108,spironolactone 4mg/5ml oral solution (special order) 1 ml
-47178201000001110,13362111000001108,spironolactone 6.25mg/5ml oral suspension (special order) 1 ml (product)
-47178301000001118,13362111000001108,spironolactone 6.25mg/5ml oral suspension (special order) 1 ml
-47178801000001111,13363011000001103,spironolactone 6.25mg/5ml oral solution (special order) 1 ml (product)
-47178901000001117,13363011000001103,spironolactone 6.25mg/5ml oral solution (special order) 1 ml
-47187401000001118,13379911000001109,spironolactone 6mg/5ml oral suspension (special order) 1 ml (product)
-47187501000001119,13379911000001109,spironolactone 6mg/5ml oral suspension (special order) 1 ml
-47187601000001115,13380211000001100,spironolactone 6mg/5ml oral solution (special order) 1 ml (product)
-47187701000001113,13380211000001100,spironolactone 6mg/5ml oral solution (special order) 1 ml
-47187801000001116,13380511000001102,spironolactone 7.5mg/5ml oral suspension (special order) 1 ml (product)
-47187901000001110,13380511000001102,spironolactone 7.5mg/5ml oral suspension (special order) 1 ml
-47188001000001112,13380811000001104,spironolactone 7.5mg/5ml oral solution (special order) 1 ml (product)
-47188101000001113,13380811000001104,spironolactone 7.5mg/5ml oral solution (special order) 1 ml
-47188601000001116,13381411000001105,spironolactone 75mg/5ml oral suspension (special order) 1 ml (product)
-47188701000001114,13381411000001105,spironolactone 75mg/5ml oral suspension (special order) 1 ml
-47189001000001118,13381811000001107,spironolactone 75mg/5ml oral solution (special order) 1 ml (product)
-47189101000001117,13381811000001107,spironolactone 75mg/5ml oral solution (special order) 1 ml
-47189201000001112,13382111000001105,spironolactone 7mg/5ml oral suspension (special order) 1 ml (product)
-47189301000001115,13382111000001105,spironolactone 7mg/5ml oral suspension (special order) 1 ml
-47189601000001114,13382511000001101,spironolactone 7mg/5ml oral solution (special order) 1 ml (product)
-47189701000001116,13382511000001101,spironolactone 7mg/5ml oral solution (special order) 1 ml
-47189801000001113,13382811000001103,spironolactone 8.3mg/5ml oral suspension (special order) 1 ml (product)
-47189901000001119,13382811000001103,spironolactone 8.3mg/5ml oral suspension (special order) 1 ml
-47190001000001111,13383111000001104,spironolactone 8.3mg/5ml oral solution (special order) 1 ml (product)
-47190101000001112,13383111000001104,spironolactone 8.3mg/5ml oral solution (special order) 1 ml
-47190201000001117,13383411000001109,spironolactone 8mg/5ml oral suspension (special order) 1 ml (product)
-47190301000001114,13383411000001109,spironolactone 8mg/5ml oral suspension (special order) 1 ml
-47190401000001118,13383711000001103,spironolactone 8mg/5ml oral solution (special order) 1 ml (product)
-47190501000001119,13383711000001103,spironolactone 8mg/5ml oral solution (special order) 1 ml
-48438901000001114,13583411000001106,spironolactone 25mg tablets (doncaster pharmaceuticals ltd) (product)
-48450501000001117,13583511000001105,spironolactone 25mg tablets (doncaster pharmaceuticals ltd) 28 tablet (product)
-49778901000001119,13894811000001108,spironolactone 25mg/5ml oral solution (product)
-49779001000001112,13894811000001108,spironolactone 25mg/5ml oral solution
-49780101000001113,13895011000001103,spironolactone 5mg/5ml oral solution (product)
-49780201000001118,13895011000001103,spironolactone 5mg/5ml oral solution
-49780701000001114,13894711000001100,spironolactone 10mg/5ml oral solution (product)
-49780801000001117,13894711000001100,spironolactone 10mg/5ml oral solution
-49781301000001116,13894611000001109,spironolactone 100mg/5ml oral solution (product)
-49781401000001112,13894611000001109,spironolactone 100mg/5ml oral solution
-49782101000001112,13894911000001103,spironolactone 50mg/5ml oral solution (product)
-49782201000001117,13894911000001103,spironolactone 50mg/5ml oral solution
-49786301000001113,13889311000001102,spironolactone 100mg/5ml oral solution (special order) (product)
-49786401000001117,13889311000001102,spironolactone 100mg/5ml oral solution (special order)
-49795701000001116,13887511000001101,spironolactone 5mg/5ml oral solution (special order) (product)
-49795801000001113,13887511000001101,spironolactone 5mg/5ml oral solution (special order)
-49806301000001114,13888011000001105,spironolactone 10mg/5ml oral solution (special order) (product)
-49806401000001118,13888011000001105,spironolactone 10mg/5ml oral solution (special order)
-49810301000001114,13889211000001105,spironolactone 100mg/5ml oral solution 1 ml (product)
-49810401000001118,13889211000001105,spironolactone 100mg/5ml oral solution 1 ml
-49810501000001119,13888911000001109,spironolactone 50mg/5ml oral solution 1 ml (product)
-49810601000001115,13888911000001109,spironolactone 50mg/5ml oral solution 1 ml
-49810701000001113,13888611000001103,spironolactone 25mg/5ml oral solution 1 ml (product)
-49810801000001116,13888611000001103,spironolactone 25mg/5ml oral solution 1 ml
-49810901000001110,13887911000001108,spironolactone 10mg/5ml oral solution 1 ml (product)
-49811001000001118,13887911000001108,spironolactone 10mg/5ml oral solution 1 ml
-49811101000001117,13887411000001100,spironolactone 5mg/5ml oral solution 1 ml (product)
-49811201000001112,13887411000001100,spironolactone 5mg/5ml oral solution 1 ml
-49837501000001111,13887611000001102,spironolactone 5mg/5ml oral solution (special order) 1 ml (product)
-49837601000001110,13887611000001102,spironolactone 5mg/5ml oral solution (special order) 1 ml
-49837701000001117,13889411000001109,spironolactone 100mg/5ml oral solution (special order) 1 ml (product)
-49837801000001114,13889411000001109,spironolactone 100mg/5ml oral solution (special order) 1 ml
-49841501000001117,13888111000001106,spironolactone 10mg/5ml oral solution (special order) 1 ml (product)
-49841601000001118,13888111000001106,spironolactone 10mg/5ml oral solution (special order) 1 ml
-51702101000001112,14764111000001104,spironolactone 50mg / furosemide 20mg capsules 50 capsule (product)
-51702201000001117,14764111000001104,spironolactone 50mg / furosemide 20mg capsules 50 capsule
-54407801000001118,333811000001106,spironolactone 100mg tablets (alliance healthcare (distribution) ltd)
-54528101000001111,481711000001104,spironolactone 50mg tablets (alliance healthcare (distribution) ltd)
-54530401000001118,1348211000001101,spironolactone 25mg tablets (alliance healthcare (distribution) ltd) 500 tablet
-54530501000001119,1350011000001106,spironolactone 100mg tablets (alliance healthcare (distribution) ltd) 28 tablet 2 x 14 tablets
-54530601000001115,1350911000001105,spironolactone 50mg tablets (alliance healthcare (distribution) ltd) 30 tablet
-54567701000001116,508011000001102,spironolactone 25mg tablets (alliance healthcare (distribution) ltd)
-54647301000001119,1348111000001107,spironolactone 25mg tablets (alliance healthcare (distribution) ltd) 28 tablet 2 x 14 tablets
-54647401000001110,1350811000001100,spironolactone 50mg tablets (alliance healthcare (distribution) ltd) 28 tablet 2 x 14 tablets
-56610201000001110,16072811000001103,chlorothiazide 30mg / spironolactone 3mg capsules (product)
-56637401000001115,16071911000001102,chlorothiazide 30mg / spironolactone 3mg capsules (special order) (product)
-56638001000001114,16071811000001107,chlorothiazide 30mg / spironolactone 3mg capsules 1 capsule (product)
-56669801000001117,16072011000001109,chlorothiazide 30mg / spironolactone 3mg capsules (special order) 1 capsule (product)
-57013901000001117,16129611000001104,chlorothiazide 100mg / spironolactone 10mg capsules (product)
-57021701000001112,16127911000001103,chlorothiazide 100mg / spironolactone 10mg capsules (special order) (product)
-57023301000001114,16127811000001108,chlorothiazide 100mg / spironolactone 10mg capsules 1 capsule (product)
-57030901000001115,16128011000001101,chlorothiazide 100mg / spironolactone 10mg capsules (special order) 1 capsule (product)
-59865001000001114,12408911000001105,spironolactone 10mg/5ml / chlorothiazide 100mg/5ml oral suspension (special order) 1 ml
-59865201000001115,12417511000001100,spironolactone 20mg/5ml / chlorothiazide 200mg/5ml oral suspension (special order)
-59865301000001112,12419811000001105,spironolactone 10mg/5ml / chlorothiazide 250mg/5ml oral suspension 1 ml
-59865401000001116,12420011000001103,spironolactone 10mg/5ml / chlorothiazide 250mg/5ml oral suspension (special order) 1 ml
-59865501000001117,12420211000001108,spironolactone 10mg/5ml / chlorothiazide 250mg/5ml oral solution (special order)
-59865601000001118,12424211000001100,spironolactone 20mg/5ml / chlorothiazide 200mg/5ml oral solution
-59865701000001111,12424311000001108,spironolactone 20mg/5ml / chlorothiazide 200mg/5ml oral suspension
-59867301000001115,8808111000001105,spironolactone 1mg / chlorothiazide 10mg oral powder sachets (special order) 1 sachet
-59868901000001118,12420511000001106,spironolactone 5mg/5ml / chlorothiazide 50mg/5ml oral suspension (special order)
-59869001000001111,12424011000001105,spironolactone 10mg/5ml / chlorothiazide 100mg/5ml oral suspension
-59872801000001118,12419011000001104,spironolactone 20mg/5ml / chlorothiazide 200mg/5ml oral solution (special order)
-59872901000001112,12421811000001101,spironolactone 5mg/5ml / chlorothiazide 50mg/5ml oral solution (special order) 1 ml
-59874101000001117,8745611000001101,spironolactone 1mg / chlorothiazide 10mg capsules 1 capsule
-59875701000001117,12408511000001103,spironolactone 10mg/5ml / chlorothiazide 100mg/5ml oral suspension (special order)
-59875801000001114,12417611000001101,spironolactone 20mg/5ml / chlorothiazide 200mg/5ml oral suspension (special order) 1 ml
-59875901000001115,12420311000001100,spironolactone 10mg/5ml / chlorothiazide 250mg/5ml oral solution (special order) 1 ml
-59876001000001112,12424511000001102,spironolactone 10mg/5ml / chlorothiazide 250mg/5ml oral solution
-59877801000001115,8816211000001103,spironolactone 1mg / chlorothiazide 10mg oral powder sachets
-59879401000001110,12408111000001107,spironolactone 10mg/5ml / chlorothiazide 100mg/5ml oral suspension 1 ml
-59879501000001114,12419211000001109,spironolactone 20mg/5ml / chlorothiazide 200mg/5ml oral solution (special order) 1 ml
-59879601000001113,12419911000001100,spironolactone 10mg/5ml / chlorothiazide 250mg/5ml oral suspension (special order)
-59881801000001115,8807911000001107,spironolactone 1mg / chlorothiazide 10mg oral powder sachets 1 sachet
-59883701000001113,12417211000001103,spironolactone 20mg/5ml / chlorothiazide 200mg/5ml oral suspension 1 ml
-59883801000001116,12418911000001108,spironolactone 20mg/5ml / chlorothiazide 200mg/5ml oral solution 1 ml
-59883901000001110,12420711000001101,spironolactone 5mg/5ml / chlorothiazide 50mg/5ml oral suspension (special order) 1 ml
-59884001000001113,12421411000001103,spironolactone 5mg/5ml / chlorothiazide 50mg/5ml oral solution 1 ml
-59885601000001116,8746211000001109,spironolactone 1mg / chlorothiazide 10mg capsules (special order)
-59885701000001114,8746311000001101,spironolactone 1mg / chlorothiazide 10mg capsules (special order) 1 capsule
-59885801000001117,8792111000001107,spironolactone 1mg / chlorothiazide 10mg capsules
-59887201000001110,12414011000001100,spironolactone 10mg/5ml / chlorothiazide 100mg/5ml oral solution 1 ml
-59887301000001118,12420411000001107,spironolactone 5mg/5ml / chlorothiazide 50mg/5ml oral suspension 1 ml
-59887401000001114,12423911000001107,spironolactone 10mg/5ml / chlorothiazide 100mg/5ml oral solution
-59887501000001113,12424611000001103,spironolactone 10mg/5ml / chlorothiazide 250mg/5ml oral suspension
-59887601000001112,12424811000001104,spironolactone 5mg/5ml / chlorothiazide 50mg/5ml oral suspension
-59889101000001110,8808011000001109,spironolactone 1mg / chlorothiazide 10mg oral powder sachets (special order)
-59890401000001114,12420111000001102,spironolactone 10mg/5ml / chlorothiazide 250mg/5ml oral solution 1 ml
-59890501000001113,12421611000001100,spironolactone 5mg/5ml / chlorothiazide 50mg/5ml oral solution (special order)
-59890601000001112,12424711000001107,spironolactone 5mg/5ml / chlorothiazide 50mg/5ml oral solution
-59923701000001111,12414811000001106,spironolactone 10mg/5ml / chlorothiazide 100mg/5ml oral solution (special order)
-59923801000001119,12415111000001100,spironolactone 10mg/5ml / chlorothiazide 100mg/5ml oral solution (special order) 1 ml
-61201601000001116,320201000001104,spironolactone+furosemide 50mg/20mg capsule
-61337601000001114,17801111000001105,spironolactone 25mg tablets (phoenix healthcare distribution ltd) (product)
-61337701000001116,17801111000001105,spironolactone 25mg tablets (phoenix healthcare distribution ltd)
-61375201000001117,17801411000001100,spironolactone 25mg tablets (phoenix healthcare distribution ltd) 28 tablet (product)
-61375301000001114,17801411000001100,spironolactone 25mg tablets (phoenix healthcare distribution ltd) 28 tablet
-62045201000001119,16127811000001108,spironolactone 10mg / chlorothiazide 100mg capsules 1 capsule
-62048801000001111,16072811000001103,spironolactone 3mg / chlorothiazide 30mg capsules
-62052201000001111,16071811000001107,spironolactone 3mg / chlorothiazide 30mg capsules 1 capsule
-62053801000001115,11011011000001107,spironolactone 25mg tablets (dr reddy's laboratories (uk) ltd) 500 tablet
-62053901000001114,11011211000001102,spironolactone 25mg tablets (dr reddy's laboratories (uk) ltd) 100 tablet
-62055301000001114,16128011000001101,spironolactone 10mg / chlorothiazide 100mg capsules (special order) 1 capsule
-62055401000001118,16129611000001104,spironolactone 10mg / chlorothiazide 100mg capsules
-62061701000001119,16072011000001109,spironolactone 3mg / chlorothiazide 30mg capsules (special order) 1 capsule
-62063301000001117,11010711000001101,spironolactone 100mg tablets (dr reddy's laboratories (uk) ltd)
-62065701000001117,11010811000001109,spironolactone 100mg tablets (dr reddy's laboratories (uk) ltd) 100 tablet
-62065801000001114,11010911000001104,spironolactone 25mg tablets (dr reddy's laboratories (uk) ltd)
-62067301000001113,16071911000001102,spironolactone 3mg / chlorothiazide 30mg capsules (special order)
-62067401000001117,16127911000001103,spironolactone 10mg / chlorothiazide 100mg capsules (special order)
-63392101000001117,18479811000001105,spironolactone 25mg tablets (dr reddy's laboratories (uk) ltd) 28 tablet (product)
-63392201000001112,18479811000001105,spironolactone 25mg tablets (dr reddy's laboratories (uk) ltd) 28 tablet
-63392301000001115,18479911000001100,spironolactone 100mg tablets (dr reddy's laboratories (uk) ltd) 28 tablet (product)
-63392401000001111,18479911000001100,spironolactone 100mg tablets (dr reddy's laboratories (uk) ltd) 28 tablet
-63591001000001113,18520511000001107,spironolactone 4mg / chlorothiazide 40mg capsules (product)
-63591101000001114,18520511000001107,spironolactone 4mg / chlorothiazide 40mg capsules
-63598601000001114,18515111000001101,spironolactone 4mg / chlorothiazide 40mg capsules (special order) (product)
-63598701000001116,18515111000001101,spironolactone 4mg / chlorothiazide 40mg capsules (special order)
-63607201000001116,18515011000001102,spironolactone 4mg / chlorothiazide 40mg capsules 1 capsule (product)
-63607301000001113,18515011000001102,spironolactone 4mg / chlorothiazide 40mg capsules 1 capsule
-63618401000001116,18515211000001107,spironolactone 4mg / chlorothiazide 40mg capsules (special order) 1 capsule (product)
-63618501000001117,18515211000001107,spironolactone 4mg / chlorothiazide 40mg capsules (special order) 1 capsule
-66348801000001111,19600411000001109,spironolactone 50mg/5ml oral suspension 125 ml (product)
-66348901000001117,19600411000001109,spironolactone 50mg/5ml oral suspension 125 ml
-66349201000001116,19600111000001104,spironolactone 25mg/5ml oral suspension 125 ml (product)
-66349301000001113,19600111000001104,spironolactone 25mg/5ml oral suspension 125 ml
-66383801000001112,19600311000001102,spironolactone 25mg/5ml oral suspension (drug tariff special order) 125 ml (product)
-66383901000001118,19600311000001102,spironolactone 25mg/5ml oral suspension (drug tariff special order) 125 ml
-66384201000001114,19600611000001107,spironolactone 50mg/5ml oral suspension (drug tariff special order) 125 ml (product)
-66384301000001117,19600611000001107,spironolactone 50mg/5ml oral suspension (drug tariff special order) 125 ml
-66449201000001112,8707211000001101,spironolactone 25mg/5ml oral suspension (drug tariff special order) 1 ml
-66479801000001112,8705811000001105,spironolactone 50mg/5ml oral suspension (drug tariff special order)
-66494601000001116,8706011000001108,spironolactone 50mg/5ml oral suspension (drug tariff special order) 1 ml
-66494701000001114,8707011000001106,spironolactone 25mg/5ml oral suspension (drug tariff special order)
-68541201000001111,20326811000001106,spironolactone 25mg tablets (genesis pharmaceuticals ltd) (product)
-68541301000001119,20326811000001106,spironolactone 25mg tablets (genesis pharmaceuticals ltd)
-68541401000001110,20327011000001102,spironolactone 100mg tablets (genesis pharmaceuticals ltd) (product)
-68541501000001114,20327011000001102,spironolactone 100mg tablets (genesis pharmaceuticals ltd)
-69002101000001118,20433011000001100,spironolactone 5mg/5ml oral suspension 125 ml (product)
-69002201000001113,20433011000001100,spironolactone 5mg/5ml oral suspension 125 ml
-69044501000001111,20433111000001104,spironolactone 5mg/5ml oral suspension (drug tariff special order) 125 ml (product)
-69044601000001110,20433111000001104,spironolactone 5mg/5ml oral suspension (drug tariff special order) 125 ml
-69068101000001116,8707311000001109,spironolactone 5mg/5ml oral suspension (drug tariff special order)
-69090201000001110,8707411000001102,spironolactone 5mg/5ml oral suspension (drug tariff special order) 1 ml
-71337501000001111,21313411000001102,spironolactone 10mg/5ml oral suspension 125 ml (product)
-71337601000001110,21313411000001102,spironolactone 10mg/5ml oral suspension 125 ml
-72774601000001117,21901811000001106,spironolactone 25mg tablets (waymade healthcare plc) (product)
-72774701000001110,21901811000001106,spironolactone 25mg tablets (waymade healthcare plc)
-72774801000001118,21902011000001108,spironolactone 100mg tablets (waymade healthcare plc) (product)
-72774901000001112,21902011000001108,spironolactone 100mg tablets (waymade healthcare plc)
-72957201000001119,21901911000001101,spironolactone 25mg tablets (waymade healthcare plc) 28 tablet (product)
-72957301000001111,21901911000001101,spironolactone 25mg tablets (waymade healthcare plc) 28 tablet
-72957401000001115,21902111000001109,spironolactone 100mg tablets (waymade healthcare plc) 28 tablet (product)
-72957501000001116,21902111000001109,spironolactone 100mg tablets (waymade healthcare plc) 28 tablet
-74046901000001112,22453211000001103,spironolactone 50mg tablets (waymade healthcare plc) (product)
-74047001000001111,22453211000001103,spironolactone 50mg tablets (waymade healthcare plc)
-74079901000001118,22453411000001104,spironolactone 50mg tablets (waymade healthcare plc) 28 tablet (product)
-74080001000001117,22453411000001104,spironolactone 50mg tablets (waymade healthcare plc) 28 tablet
-76807201000001116,23395511000001107,spironolactone 100mg/5ml oral suspension 125 ml (product)
-76807301000001113,23395511000001107,spironolactone 100mg/5ml oral suspension 125 ml
-78079601000001112,13583411000001106,spironolactone 25mg tablets (de pharmaceuticals)
-78257901000001115,13583511000001105,spironolactone 25mg tablets (de pharmaceuticals) 28 tablet
-79025601000001110,24390711000001105,spironolactone 100mg tablets (bristol laboratories ltd) (product)
-79025701000001117,24390711000001105,spironolactone 100mg tablets (bristol laboratories ltd)
-79025801000001114,24390911000001107,spironolactone 25mg tablets (bristol laboratories ltd) (product)
-79025901000001115,24390911000001107,spironolactone 25mg tablets (bristol laboratories ltd)
-79123801000001118,24390811000001102,spironolactone 100mg tablets (bristol laboratories ltd) 28 tablet (product)
-79123901000001112,24390811000001102,spironolactone 100mg tablets (bristol laboratories ltd) 28 tablet
-79124001000001110,24391011000001104,spironolactone 25mg tablets (bristol laboratories ltd) 28 tablet (product)
-79124101000001111,24391011000001104,spironolactone 25mg tablets (bristol laboratories ltd) 28 tablet
-83814601000001115,27810911000001102,spironolactone 5mg / chlorothiazide 50mg capsules (product)
-83814701000001113,27810911000001102,spironolactone 5mg / chlorothiazide 50mg capsules
-85630601000001117,27749111000001100,spironolactone 5mg / chlorothiazide 50mg capsules (special order) (product)
-85630701000001110,27749111000001100,spironolactone 5mg / chlorothiazide 50mg capsules (special order)
-85634601000001113,27749011000001101,spironolactone 5mg / chlorothiazide 50mg capsules 1 capsule (product)
-85634701000001115,27749011000001101,spironolactone 5mg / chlorothiazide 50mg capsules 1 capsule
-87459801000001111,27749211000001106,spironolactone 5mg / chlorothiazide 50mg capsules (special order) 1 capsule (product)
-87459901000001117,27749211000001106,spironolactone 5mg / chlorothiazide 50mg capsules (special order) 1 capsule
-90738001000001110,28882011000001105,spironolactone 16mg / chlorothiazide 160mg capsules (product)
-90738101000001111,28882011000001105,spironolactone 16mg / chlorothiazide 160mg capsules
-90745601000001113,28875111000001105,spironolactone 16mg / chlorothiazide 160mg capsules (special order) (product)
-90745701000001115,28875111000001105,spironolactone 16mg / chlorothiazide 160mg capsules (special order)
-90748401000001116,28875011000001109,spironolactone 16mg / chlorothiazide 160mg capsules 1 capsule (product)
-90748501000001117,28875011000001109,spironolactone 16mg / chlorothiazide 160mg capsules 1 capsule
-90762201000001111,28875211000001104,spironolactone 16mg / chlorothiazide 160mg capsules (special order) 1 capsule (product)
-90762301000001119,28875211000001104,spironolactone 16mg / chlorothiazide 160mg capsules (special order) 1 capsule
-93887901000001118,30117211000001107,spironolactone 50mg tablets (de pharmaceuticals) (product)
-93888001000001116,30117211000001107,spironolactone 50mg tablets (de pharmaceuticals)
-93888101000001115,30117411000001106,spironolactone 100mg tablets (de pharmaceuticals) (product)
-93888201000001110,30117411000001106,spironolactone 100mg tablets (de pharmaceuticals)
-93919701000001115,30117311000001104,spironolactone 50mg tablets (de pharmaceuticals) 28 tablet (product)
-93919801000001112,30117311000001104,spironolactone 50mg tablets (de pharmaceuticals) 28 tablet
-93919901000001118,30117511000001105,spironolactone 100mg tablets (de pharmaceuticals) 28 tablet (product)
-93920001000001116,30117511000001105,spironolactone 100mg tablets (de pharmaceuticals) 28 tablet
-93920101000001115,30117611000001109,spironolactone 100mg tablets (de pharmaceuticals) 30 tablet (product)
-93920201000001110,30117611000001109,spironolactone 100mg tablets (de pharmaceuticals) 30 tablet
-95499701000001111,30917011000001104,spironolactone 50mg tablets (mawdsley-brooks & company ltd) (product)
-95499801000001119,30917011000001104,spironolactone 50mg tablets (mawdsley-brooks & company ltd)
-95534301000001114,30917111000001103,spironolactone 50mg tablets (mawdsley-brooks & company ltd) 28 tablet (product)
-95534401000001118,30917111000001103,spironolactone 50mg tablets (mawdsley-brooks & company ltd) 28 tablet
-100136901000001118,32880211000001105,spironolactone 6mg / chlorothiazide 60mg capsules (product)
-100137001000001119,32880211000001105,spironolactone 6mg / chlorothiazide 60mg capsules
-100155501000001117,32872611000001100,spironolactone 6mg / chlorothiazide 60mg capsules (special order) (product)
-100155601000001118,32872611000001100,spironolactone 6mg / chlorothiazide 60mg capsules (special order)
-100159101000001112,32872511000001104,spironolactone 6mg / chlorothiazide 60mg capsules 1 capsule (product)
-100159201000001117,32872511000001104,spironolactone 6mg / chlorothiazide 60mg capsules 1 capsule
-100194501000001111,32872711000001109,spironolactone 6mg / chlorothiazide 60mg capsules (special order) 1 capsule (product)
-100194601000001110,32872711000001109,spironolactone 6mg / chlorothiazide 60mg capsules (special order) 1 capsule
-106084901000001119,1349011000001101,spironolactone 100mg tablets (a a h pharmaceuticals ltd) 28 tablet 2 x 14 tablets
-106091201000001111,1345611000001105,spironolactone 25mg tablets (a a h pharmaceuticals ltd) 28 tablet 2 x 14 tablets
-109423501000001115,35597011000001102,spironolactone 100mg tablets (northstar healthcare unlimited company) (product)
-109423601000001116,35597011000001102,spironolactone 100mg tablets (northstar healthcare unlimited company)
-109423701000001114,35597311000001104,spironolactone 50mg tablets (northstar healthcare unlimited company) (product)
-109423801000001117,35597311000001104,spironolactone 50mg tablets (northstar healthcare unlimited company)
-109423901000001111,35598911000001102,spironolactone 25mg tablets (northstar healthcare unlimited company) (product)
-109424001000001114,35598911000001102,spironolactone 25mg tablets (northstar healthcare unlimited company)
-109426701000001118,35597111000001101,spironolactone 100mg tablets (northstar healthcare unlimited company) 28 tablet 2 x 14 tablets (product)
-109426801000001110,35597111000001101,spironolactone 100mg tablets (northstar healthcare unlimited company) 28 tablet 2 x 14 tablets
-109426901000001116,35597511000001105,spironolactone 50mg tablets (northstar healthcare unlimited company) 28 tablet 2 x 14 tablets (product)
-109427001000001117,35597511000001105,spironolactone 50mg tablets (northstar healthcare unlimited company) 28 tablet 2 x 14 tablets
-109427101000001116,35599011000001106,spironolactone 25mg tablets (northstar healthcare unlimited company) 28 tablet 2 x 14 tablets (product)
-109427201000001111,35599011000001106,spironolactone 25mg tablets (northstar healthcare unlimited company) 28 tablet 2 x 14 tablets
+snomedctdescriptionid,snomedctconceptid
+462152017,318076002
+462153010,318077006
+462154016,318078001
+462155015,318079009
+470807011,346684003
+470808018,346685002
+1188290010,318076002
+1188291014,318077006
+1188292019,318078001
+1188293012,318079009
+1193636011,346684003
+1193637019,346685002
+1200572011,375267001
+1213604014,375267001
+1461256018,387078006
+1481192019,387078006
+2159236018,407636000
+3483155014,13929005
+3485074019,354276001
+3490583016,398666006
+3490590014,398688006
+3500157014,318056008
+3500158016,318057004
+3500159012,318058009
+3500165012,318127005
+3500166013,318128000
+3501726012,377483004
+3501793014,395514005
+3667964018,420285008
+3679578016,377483004
+3679599018,395514005
+3679623017,318127005
+3679624011,318128000
+3683127015,318058009
+3683128013,318056008
+3683130010,318102003
+3683131014,318102003
+3683134018,318057004
+3690494010,766570000
+3690496012,766570000
+3690497015,766571001
+3690498013,766571001
+3690501013,766572008
+3690502018,766572008
+3690503011,766573003
+3690505016,766573003
+3710333010,768704000
+3710334016,768704000
+3711962010,714448001
+3711963017,714448001
+3713937017,420285008
+3714962011,398666006
+3715168015,398688006
+3715206010,354276001
+3716639014,13929005
+3718515018,772477001
+3718516017,772477001
+3718579019,772508007
+3718580016,772508007
+3730447016,775191008
+3730448014,775191008
+3732299012,776055009
+3732300016,776055009
+3732674016,776238000
+3732675015,776238000
+3732724010,776262005
+3732725011,776262005
+3735513015,777603002
+3735514014,777603002
+3740351016,779334002
+3740352011,779334002
+3740650012,779476009
+3740651011,779476009
+3740695017,779498000
+3740696016,779498000
+3742818013,780515004
+3742819017,780515004
+4596262015,407636000
+4674210012,1187576009
+4674211011,1187576009
+4674212016,1187576009
+4674213014,1187577000
+4674214015,1187577000
+4674215019,1187577000
+4674216018,1187578005
+4674217010,1187578005
+4674218017,1187578005
+4674219013,1187579002
+4674220019,1187579002
+4674221015,1187579002
+4674247012,1187588006
+4674248019,1187588006
+4674249010,1187588006
+4675784019,1187575008
+4675785018,1187575008
+4675786017,1187575008
+92271000001116,39356011000001101
+92281000001119,39356011000001101
+92371000001112,39297711000001100
+92381000001114,39297711000001100
+92491000001116,39322711000001102
+92501000001113,39322711000001102
+92591000001115,39297811000001108
+92601000001112,39297811000001108
+94371000001115,39322811000001105
+94381000001118,39322811000001105
+94471000001112,39297911000001103
+94481000001114,39297911000001103
+108241000001115,40329011000001109
+108251000001117,40329011000001109
+111941000001118,40329111000001105
+111951000001115,40329111000001105
+133721000001118,39366211000001101
+133741000001111,39366211000001101
+134921000001117,39366311000001109
+134941000001110,39366311000001109
+135051000001113,39365311000001104
+135061000001111,39365311000001104
+135151000001114,39365511000001105
+135161000001112,39365511000001105
+149401000000116,101891000000102
+151691000000112,104551000000109
+152141000000117,105081000000108
+153831000000113,107101000000109
+156541000000114,109981000000107
+177621000000118,101891000000102
+179631000000113,104551000000109
+181521000000119,107101000000109
+186351000000114,105081000000108
+219791000001114,37146211000001107
+219801000001113,37146211000001107
+219851000001114,37146011000001102
+219861000001112,37146011000001102
+220121000001111,37141111000001105
+220141000001118,37141111000001105
+220951000001117,37141311000001107
+220961000001119,37141311000001107
+222391000001113,37141211000001104
+222401000001111,37141211000001104
+222551000001111,37141411000001100
+222561000001114,37141411000001100
+465941000000117,109981000000107
+478801000001113,37802411000001108
+478821000001118,37802411000001108
+481841000000113,280411000000101
+481851000000111,280411000000101
+1118261000001117,40328911000001100
+1118271000001110,40328911000001100
+1543721000000114,706661000000107
+1548791000000119,706661000000107
+1721251000001110,39257511000001103
+1721261000001113,39257511000001103
+1721721000001113,39257811000001100
+1721741000001115,39257811000001100
+1722471000001113,39257111000001107
+1722481000001110,39257111000001107
+1723321000001111,39259511000001105
+1723341000001118,39259511000001105
+1724021000001112,39257911000001105
+1724041000001119,39257911000001105
+1724351000001118,39257711000001108
+1724361000001115,39257711000001108
+1849441000001112,606411000001101
+1849451000001110,606411000001101
+1856801000001118,235211000001102
+1856821000001113,235211000001102
+1857101000001112,840311000001109
+1857121000001117,840311000001109
+1872961000001114,1347711000001107
+1872971000001116,1347711000001107
+1880441000001111,1349611000001108
+1880451000001114,1349611000001108
+1883901000001113,4327411000001105
+1883921000001118,4327411000001105
+1891441000001116,1347311000001108
+1891451000001118,1347311000001108
+1891461000001115,1349711000001104
+1891471000001113,1349711000001104
+1893581000001112,4327511000001109
+1893591000001114,4327511000001109
+1895241000001117,1350611000001104
+1895251000001119,1350611000001104
+1896681000001116,1347611000001103
+1896691000001119,1347611000001103
+1916161000001114,40369011000001103
+1916171000001116,40369011000001103
+1917841000001119,40367811000001101
+1917851000001116,40367811000001101
+1917901000001111,40369211000001108
+1917921000001116,40369211000001108
+2112891000000112,809601000000100
+2112901000000113,809601000000100
+2112911000000110,809611000000103
+2112921000000116,809611000000103
+2169201000001112,40454211000001107
+2169221000001117,40454211000001107
+2177941000001117,13889011000001100
+2177951000001119,13889011000001100
+2182571000001113,40454311000001104
+2182581000001110,40454311000001104
+2186981000001118,13889111000001104
+2186991000001116,13889111000001104
+2405021000001112,8706411000001104
+2405441000001113,8706711000001105
+2406061000001114,13888711000001107
+2406071000001116,13888711000001107
+2506821000001115,8706911000001107
+2507061000001118,21313711000001108
+2507071000001111,21313711000001108
+2507161000001117,13888811000001104
+2507171000001110,13888811000001104
+2508181000001111,8706511000001100
+2508221000001115,37802511000001107
+2508241000001113,37802511000001107
+2508751000001118,23395611000001106
+2508761000001115,23395611000001106
+2626751000001119,41436611000001105
+2626761000001116,41436611000001105
+2634491000001113,41436711000001101
+2634501000001116,41436711000001101
+2821791000001110,775191008
+2821801000001114,775191008
+2823591000001117,776055009
+2823601000001114,776055009
+2849891000001119,777603002
+2849901000001118,777603002
+2888691000001117,20326911000001101
+2888701000001117,20326911000001101
+2892751000001118,20327111000001101
+2892761000001115,20327111000001101
+3150181000001115,34937811000001104
+3150191000001118,34937811000001104
+3153741000001116,34937611000001103
+3153751000001118,34937611000001103
+3159701000001116,34941711000001102
+3159721000001111,34941711000001102
+3174761000001115,34937711000001107
+3174771000001113,34937711000001107
+3179241000001112,34941811000001105
+3179251000001110,34941811000001105
+3187001000001119,37146311000001104
+3187021000001114,37146311000001104
+3191701000001114,34937911000001109
+3191721000001119,34937911000001109
+3192081000001111,36464211000001105
+3192091000001113,36464211000001105
+3192561000001111,37146111000001101
+3192571000001118,37146111000001101
+3282151000001117,42216411000001104
+3282161000001119,42216411000001104
+3282721000001112,42216611000001101
+3282741000001119,42216611000001101
+3284271000001114,42216511000001100
+3284281000001111,42216511000001100
+4364201000001112,249601000001100
+7846101000001110,249601000001100
+11570901000001111,320201000001104
+11602201000001118,406501000001101
+11626901000001116,476101000001100
+11650801000001114,546601000001100
+11671201000001116,610201000001102
+11674101000001114,616201000001100
+11695501000001112,680801000001104
+11721901000001115,750801000001101
+11990601000001118,610201000001102
+11990701000001111,680801000001104
+11990801000001119,750801000001101
+11990901000001113,406501000001101
+11991001000001116,476101000001100
+11991101000001115,546601000001100
+11991201000001110,616201000001100
+11992001000001113,320201000001104
+14821901000001114,3581311000001101
+14822001000001118,3581311000001101
+15426701000001119,8816211000001103
+15503301000001112,8792111000001107
+15544901000001117,8726411000001105
+15545001000001117,8726411000001105
+15545101000001116,8727011000001103
+15545201000001111,8727011000001103
+15545301000001119,8727611000001105
+15545401000001110,8727611000001105
+15545501000001114,8727311000001100
+15545601000001113,8727311000001100
+15545701000001115,8726511000001109
+15545801000001112,8726511000001109
+15545901000001118,8726311000001103
+15546001000001110,8726311000001103
+16131901000001110,63111000001106
+16132001000001119,63111000001106
+16163301000001118,672411000001105
+16164701000001117,82311000001101
+16164901000001115,474611000001102
+16165001000001115,474611000001102
+16166101000001114,508011000001102
+16167701000001113,670811000001106
+16167801000001116,670811000001106
+16167901000001110,38611000001103
+16168101000001113,610611000001103
+16168501000001115,874911000001104
+16168601000001116,874911000001104
+16169101000001117,333811000001106
+16169301000001115,481811000001107
+16169401000001111,481811000001107
+16169501000001110,46011000001105
+16169701000001116,330511000001102
+16169901000001119,121211000001101
+16170001000001115,121211000001101
+16170501000001112,481711000001104
+20993101000001110,8705811000001105
+20993301000001112,8706111000001109
+20993401000001116,8706111000001109
+20993501000001117,8706411000001104
+20993701000001111,8706711000001105
+20993901000001113,8707011000001106
+20994101000001112,8707311000001109
+21067901000001119,8746211000001109
+21242501000001111,8808011000001109
+22297301000001112,3645711000001104
+22297401000001116,3645711000001104
+22422901000001117,1291611000001105
+22423001000001114,1291611000001105
+22423101000001110,1266311000001105
+22423201000001115,1266311000001105
+22423301000001112,951511000001102
+22423401000001116,951511000001102
+22423501000001117,1033711000001104
+22423601000001118,1033711000001104
+22423701000001111,1323911000001103
+22423801000001119,1323911000001103
+22423901000001113,1043911000001101
+22424001000001111,1043911000001101
+22424301000001114,1048011000001107
+22424401000001118,1048011000001107
+22424501000001119,1261411000001109
+22424601000001115,1261411000001109
+22424701000001113,1301111000001106
+22424801000001116,1301111000001106
+22424901000001110,1042111000001105
+22425001000001110,1042111000001105
+22951301000001114,8807911000001107
+23014501000001113,8745611000001101
+23023701000001110,8707111000001107
+23023801000001118,8707111000001107
+23023901000001112,8706811000001102
+23024001000001110,8706811000001102
+23024101000001111,8706611000001101
+23024201000001116,8706611000001101
+23024301000001113,8706311000001106
+23024401000001117,8706311000001106
+23024501000001118,8705911000001100
+23024601000001119,8705911000001100
+23024701000001112,8705711000001102
+23024801000001115,8705711000001102
+23984501000001119,8706011000001108
+23984701000001113,8706211000001103
+23984801000001116,8706211000001103
+23984901000001110,8706511000001100
+23985101000001111,8706911000001107
+23985301000001113,8707211000001101
+23985501000001118,8707411000001102
+24006901000001114,8746311000001101
+24042501000001113,8808111000001105
+24364101000001115,1345611000001105
+24364301000001118,1345711000001101
+24364401000001114,1345711000001101
+24364501000001113,1345811000001109
+24364601000001112,1345811000001109
+24366701000001112,1346911000001106
+24367101000001114,1347111000001106
+24367301000001111,1347211000001100
+24367401000001115,1347211000001100
+24369101000001119,1348111000001107
+24369301000001117,1348211000001101
+24370901000001118,1349011000001101
+24371101000001111,1349111000001100
+24371201000001116,1349111000001100
+24371301000001113,1349211000001106
+24371501000001118,1349311000001103
+24371901000001114,1349511000001109
+24372001000001118,1349511000001109
+24372901000001119,1350011000001106
+24373101000001112,1350111000001107
+24373201000001117,1350111000001107
+24373301000001114,1350211000001101
+24373401000001118,1350211000001101
+24408901000001115,1350311000001109
+24409101000001114,1350411000001102
+24409301000001111,1350511000001103
+24409401000001115,1350511000001103
+24409901000001112,1350811000001100
+24410101000001117,1350911000001105
+31594101000001114,9802811000001103
+31594501000001116,9803311000001102
+31594901000001112,9803611000001107
+31611701000001119,9803811000001106
+31673101000001110,9803211000001105
+31673301000001112,9803411000001109
+31866501000001113,10036311000001104
+31866601000001112,10036311000001104
+35857701000001114,10480211000001106
+35857801000001117,10480211000001106
+36277801000001114,10649411000001108
+36277901000001115,10649411000001108
+36278001000001118,10649511000001107
+36278101000001117,10649511000001107
+36278201000001112,10649611000001106
+36278301000001115,10649611000001106
+37052001000001113,10766511000001100
+37052101000001114,10766511000001100
+37503301000001114,11010711000001101
+37503501000001119,11010911000001104
+37518501000001114,11010811000001109
+37518701000001115,11011011000001107
+37518901000001118,11011211000001102
+37563101000001113,11030811000001104
+37563201000001118,11030811000001104
+37700201000001112,38611000001103
+37702001000001119,46011000001105
+37708301000001118,82311000001101
+37752301000001114,330511000001102
+37801101000001110,610611000001103
+37812401000001112,672411000001105
+37891901000001111,1346911000001106
+37892001000001115,1347111000001106
+37892301000001117,1349211000001106
+37892401000001113,1349311000001103
+37892501000001112,1350311000001109
+37892601000001111,1350411000001102
+41000201000001110,9802811000001103
+41000601000001112,9803211000001105
+41000701000001119,9803311000001102
+41000801000001111,9803411000001109
+41001001000001114,9803611000001107
+41001201000001115,9803811000001106
+42400901000001112,11613511000001107
+42401001000001115,11613511000001107
+42428701000001119,11606311000001107
+42428801000001111,11606311000001107
+42428901000001117,11606511000001101
+42429001000001110,11606511000001101
+42429101000001111,11606911000001108
+42429201000001116,11606911000001108
+42429301000001113,11607111000001108
+42429401000001117,11607111000001108
+42429501000001118,11607511000001104
+42429601000001119,11607511000001104
+42429701000001112,11607711000001109
+42429801000001115,11607711000001109
+42429901000001114,11608111000001109
+42430001000001115,11608111000001109
+42430101000001119,11608311000001106
+42430201000001114,11608311000001106
+42430301000001117,11608711000001105
+42430401000001113,11608711000001105
+42430501000001112,11608911000001107
+42430601000001111,11608911000001107
+42433901000001113,11608611000001101
+42434001000001111,11608611000001101
+42434101000001112,11608511000001100
+42434201000001117,11608511000001100
+42434301000001114,11608011000001108
+42434401000001118,11608011000001108
+42434501000001119,11607911000001106
+42434601000001115,11607911000001106
+42434701000001113,11607411000001103
+42434801000001116,11607411000001103
+42434901000001110,11607311000001105
+42435001000001110,11607311000001105
+42435101000001111,11606811000001103
+42435201000001116,11606811000001103
+42435301000001113,11606711000001106
+42435401000001117,11606711000001106
+42435501000001118,11606211000001104
+42435601000001119,11606211000001104
+42435701000001112,11606111000001105
+42435801000001115,11606111000001105
+42473301000001114,11606411000001100
+42473401000001118,11606411000001100
+42473501000001119,11606611000001102
+42473601000001115,11606611000001102
+42473701000001113,11607011000001107
+42473801000001116,11607011000001107
+42473901000001110,11607211000001102
+42474001000001113,11607211000001102
+42474101000001114,11607611000001100
+42474201000001119,11607611000001100
+42474301000001111,11607811000001101
+42474401000001115,11607811000001101
+42474501000001116,11608211000001103
+42474601000001117,11608211000001103
+42474701000001110,11608411000001104
+42474801000001118,11608411000001104
+42474901000001112,11608811000001102
+42475001000001112,11608811000001102
+42475101000001113,11609011000001103
+42475201000001118,11609011000001103
+44219401000001119,12423911000001107
+44219601000001116,12424011000001105
+44219801000001117,12424211000001100
+44220001000001113,12424311000001108
+44220201000001119,12424511000001102
+44220401000001115,12424611000001103
+44220601000001117,12424711000001107
+44220801000001118,12424811000001104
+44241201000001111,12408511000001103
+44241401000001110,12414811000001106
+44241601000001113,12417511000001100
+44241801000001112,12419011000001104
+44242001000001114,12419911000001100
+44242201000001115,12420211000001108
+44242401000001116,12420511000001106
+44242801000001119,12421611000001100
+44250001000001112,12421411000001103
+44250801000001117,12420411000001107
+44251001000001119,12420111000001102
+44251201000001113,12419811000001105
+44251401000001112,12418911000001108
+44251601000001110,12417211000001103
+44251801000001114,12414011000001100
+44252001000001111,12408111000001107
+44284001000001113,12408911000001105
+44284201000001119,12415111000001100
+44284401000001115,12417611000001101
+44284601000001117,12419211000001109
+44284801000001118,12420011000001103
+44285001000001112,12420311000001100
+44285201000001118,12420711000001101
+44286001000001119,12421811000001101
+46603201000001112,318076002
+46603301000001115,318077006
+46603401000001111,318078001
+46603501000001110,318079009
+46604001000001116,318102003
+47064101000001112,13325011000001109
+47064201000001117,13325011000001109
+47064301000001114,13325111000001105
+47064401000001118,13325111000001105
+47064501000001119,13325211000001104
+47064601000001115,13325211000001104
+47064701000001113,13325311000001107
+47064801000001116,13325311000001107
+47064901000001110,13325411000001100
+47065001000001110,13325411000001100
+47065101000001111,13325511000001101
+47065201000001116,13325511000001101
+47065301000001113,13325611000001102
+47065401000001117,13325611000001102
+47065501000001118,13325711000001106
+47065601000001119,13325711000001106
+47065701000001112,13325811000001103
+47065801000001115,13325811000001103
+47065901000001114,13325911000001108
+47066001000001117,13325911000001108
+47066101000001116,13326011000001100
+47066201000001111,13326011000001100
+47066301000001119,13326111000001104
+47066401000001110,13326111000001104
+47066501000001114,13326211000001105
+47066601000001113,13326211000001105
+47066701000001115,13326311000001102
+47066801000001112,13326311000001102
+47066901000001118,13326411000001109
+47067001000001119,13326411000001109
+47067101000001118,13326511000001108
+47067201000001113,13326511000001108
+47068501000001110,13316811000001104
+47068601000001114,13316811000001104
+47068701000001116,13317111000001109
+47068801000001113,13317111000001109
+47069101000001113,13317711000001105
+47069201000001118,13317711000001105
+47069501000001115,13318411000001100
+47069601000001116,13318411000001100
+47070301000001113,13319511000001107
+47070401000001117,13319511000001107
+47070701000001112,13320111000001102
+47070801000001115,13320111000001102
+47070901000001114,13320411000001107
+47071001000001117,13320411000001107
+47071101000001116,13320711000001101
+47071201000001111,13320711000001101
+47071301000001119,13321111000001108
+47071401000001110,13321111000001108
+47071501000001114,13321411000001103
+47071601000001113,13321411000001103
+47071701000001115,13321711000001109
+47071801000001112,13321711000001109
+47071901000001118,13322011000001104
+47072001000001114,13322011000001104
+47072101000001110,13322411000001108
+47072201000001115,13322411000001108
+47072301000001112,13322911000001100
+47072401000001116,13322911000001100
+47072501000001117,13323211000001103
+47072601000001118,13323211000001103
+47072701000001111,13323511000001100
+47072801000001119,13323511000001100
+47072901000001113,13323411000001104
+47073001000001116,13323411000001104
+47073101000001115,13323111000001109
+47073201000001110,13323111000001109
+47073301000001118,13322811000001105
+47073401000001114,13322811000001105
+47073501000001113,13322211000001109
+47073601000001112,13322211000001109
+47073701000001119,13321911000001106
+47073801000001111,13321911000001106
+47073901000001117,13321611000001100
+47074001000001119,13321611000001100
+47074101000001118,13321311000001105
+47074201000001113,13321311000001105
+47074301000001116,13321011000001107
+47074401000001112,13321011000001107
+47074501000001111,13320611000001105
+47074601000001110,13320611000001105
+47074701000001117,13320311000001100
+47074801000001114,13320311000001100
+47074901000001115,13319911000001100
+47075001000001115,13319911000001100
+47075501000001112,13318911000001108
+47075601000001111,13318911000001108
+47076101000001114,13318211000001104
+47076201000001119,13318211000001104
+47076701000001110,13317311000001106
+47076801000001118,13317311000001106
+47076901000001112,13317011000001108
+47077001000001111,13317011000001108
+47077101000001112,13316711000001107
+47077201000001117,13316711000001107
+47079701000001116,13316911000001109
+47079801000001113,13316911000001109
+47079901000001119,13317211000001103
+47080001000001118,13317211000001103
+47080301000001115,13317811000001102
+47080401000001111,13317811000001102
+47080701000001116,13318611000001102
+47080801000001113,13318611000001102
+47081501000001119,13319611000001106
+47081601000001115,13319611000001106
+47081901000001110,13320211000001108
+47082001000001119,13320211000001108
+47082101000001118,13320511000001106
+47082201000001113,13320511000001106
+47082301000001116,13320811000001109
+47082401000001112,13320811000001109
+47082501000001111,13321211000001102
+47082601000001110,13321211000001102
+47082701000001117,13321511000001104
+47082801000001114,13321511000001104
+47082901000001115,13321811000001101
+47083001000001112,13321811000001101
+47083101000001113,13322111000001103
+47083201000001118,13322111000001103
+47083301000001110,13322511000001107
+47083401000001119,13322511000001107
+47083501000001115,13323011000001108
+47083601000001116,13323011000001108
+47083701000001114,13323311000001106
+47083801000001117,13323311000001106
+47083901000001111,13323611000001101
+47084001000001114,13323611000001101
+47086401000001113,13353511000001101
+47086501000001112,13353511000001101
+47086601000001111,13353611000001102
+47086701000001118,13353611000001102
+47086801000001110,13353711000001106
+47086901000001116,13353711000001106
+47087001000001117,13353811000001103
+47087101000001116,13353811000001103
+47087201000001111,13353911000001108
+47087301000001119,13353911000001108
+47087401000001110,13354011000001106
+47087501000001114,13354011000001106
+47087601000001113,13354111000001107
+47087701000001115,13354111000001107
+47087801000001112,13354211000001101
+47087901000001118,13354211000001101
+47088001000001116,13354311000001109
+47088101000001115,13354311000001109
+47088201000001110,13354411000001102
+47088301000001118,13354411000001102
+47088401000001114,13354511000001103
+47088501000001113,13354511000001103
+47088601000001112,13354611000001104
+47088701000001119,13354611000001104
+47088801000001111,13354711000001108
+47088901000001117,13354711000001108
+47089001000001110,13354811000001100
+47089101000001111,13354811000001100
+47089201000001116,13354911000001105
+47089301000001113,13354911000001105
+47089401000001117,13355011000001105
+47089501000001118,13355011000001105
+47102401000001115,13373911000001106
+47102501000001116,13373911000001106
+47102601000001117,13374011000001109
+47102701000001110,13374011000001109
+47102801000001118,13374111000001105
+47102901000001112,13374111000001105
+47103001000001115,13374211000001104
+47103101000001119,13374211000001104
+47103201000001114,13374311000001107
+47103301000001117,13374311000001107
+47103401000001113,13374411000001100
+47103501000001112,13374411000001100
+47106801000001117,13384711000001101
+47106901000001111,13384711000001101
+47107001000001110,13384811000001109
+47107101000001111,13384811000001109
+47107201000001116,13384911000001104
+47107301000001113,13384911000001104
+47107401000001117,13385011000001104
+47107501000001118,13385011000001104
+47107601000001119,13385111000001103
+47107701000001112,13385111000001103
+47107801000001115,13385211000001109
+47107901000001114,13385211000001109
+47108001000001111,13385311000001101
+47108101000001112,13385311000001101
+47108201000001117,13385411000001108
+47108301000001114,13385411000001108
+47108401000001118,13385511000001107
+47108501000001119,13385511000001107
+47108601000001115,13385611000001106
+47108701000001113,13385611000001106
+47108801000001116,13385711000001102
+47108901000001110,13385711000001102
+47109001000001117,13385811000001105
+47109101000001116,13385811000001105
+47112801000001116,13336011000001102
+47112901000001110,13336011000001102
+47113201000001112,13336611000001109
+47113301000001115,13336611000001109
+47115001000001117,13339211000001103
+47115101000001116,13339211000001103
+47115801000001112,13340511000001109
+47115901000001118,13340511000001109
+47120401000001112,13347411000001109
+47120501000001111,13347411000001109
+47120801000001114,13348011000001104
+47120901000001115,13348011000001104
+47121201000001118,13348711000001102
+47121301000001110,13348711000001102
+47121601000001116,13349211000001104
+47121701000001114,13349211000001104
+47122001000001115,13349911000001108
+47122101000001119,13349911000001108
+47122401000001113,13350411000001108
+47122501000001112,13350411000001108
+47122601000001111,13350711000001102
+47122701000001118,13350711000001102
+47122801000001110,13351011000001108
+47122901000001116,13351011000001108
+47123001000001113,13351311000001106
+47123101000001114,13351311000001106
+47123201000001119,13351611000001101
+47123301000001111,13351611000001101
+47123601000001117,13352611000001107
+47123701000001110,13352611000001107
+47123801000001118,13355311000001108
+47123901000001112,13355311000001108
+47124001000001110,13356311000001103
+47124101000001111,13356311000001103
+47124201000001116,13358411000001106
+47124301000001113,13358411000001106
+47124401000001117,13360811000001102
+47124501000001118,13360811000001102
+47124601000001119,13361211000001109
+47124701000001112,13361211000001109
+47125201000001115,13362011000001107
+47125301000001112,13362011000001107
+47125801000001119,13362811000001101
+47125901000001113,13362811000001101
+47134001000001112,13379811000001104
+47134101000001113,13379811000001104
+47134201000001118,13380111000001106
+47134301000001110,13380111000001106
+47134401000001119,13380411000001101
+47134501000001115,13380411000001101
+47134601000001116,13380711000001107
+47134701000001114,13380711000001107
+47135001000001111,13381211000001106
+47135101000001112,13381211000001106
+47135201000001117,13381711000001104
+47135301000001114,13381711000001104
+47135401000001118,13382011000001109
+47135501000001119,13382011000001109
+47135601000001115,13382411000001100
+47135701000001113,13382411000001100
+47135801000001116,13382711000001106
+47135901000001110,13382711000001106
+47136001000001118,13383011000001100
+47136101000001117,13383011000001100
+47136201000001112,13383311000001102
+47136301000001115,13383311000001102
+47136401000001111,13383611000001107
+47136501000001110,13383611000001107
+47136601000001114,13383511000001108
+47136701000001116,13383511000001108
+47136801000001113,13383211000001105
+47136901000001119,13383211000001105
+47137001000001115,13382911000001108
+47137101000001119,13382911000001108
+47137201000001114,13382611000001102
+47137301000001117,13382611000001102
+47137401000001113,13382211000001104
+47137501000001112,13382211000001104
+47137601000001111,13381911000001102
+47137701000001118,13381911000001102
+47137801000001110,13381611000001108
+47137901000001116,13381611000001108
+47138001000001119,13381011000001101
+47138101000001118,13381011000001101
+47138201000001113,13380611000001103
+47138301000001116,13380611000001103
+47138401000001112,13380311000001108
+47138501000001111,13380311000001108
+47138601000001110,13380011000001105
+47138701000001117,13380011000001105
+47138801000001114,13379711000001107
+47138901000001115,13379711000001107
+47145201000001118,13362711000001109
+47145301000001110,13362711000001109
+47145801000001117,13361811000001105
+47145901000001111,13361811000001105
+47146401000001112,13361011000001104
+47146501000001111,13361011000001104
+47146601000001110,13360711000001105
+47146701000001117,13360711000001105
+47146801000001114,13357511000001106
+47146901000001115,13357511000001106
+47147001000001116,13356211000001106
+47147101000001115,13356211000001106
+47147201000001110,13355111000001106
+47147301000001118,13355111000001106
+47147401000001114,13352511000001108
+47147501000001113,13352511000001108
+47147801000001111,13351511000001100
+47147901000001117,13351511000001100
+47148001000001115,13351211000001103
+47148101000001119,13351211000001103
+47148201000001114,13350911000001100
+47148301000001117,13350911000001100
+47148401000001113,13350611000001106
+47148501000001112,13350611000001106
+47148601000001111,13350311000001101
+47148701000001118,13350311000001101
+47149001000001114,13349711000001106
+47149101000001110,13349711000001106
+47149401000001116,13349111000001105
+47149501000001117,13349111000001105
+47149801000001119,13348511000001107
+47149901000001113,13348511000001107
+47150201000001114,13347811000001106
+47150301000001117,13347811000001106
+47150601000001111,13347311000001102
+47150701000001118,13347311000001102
+47155201000001116,13340111000001100
+47155301000001113,13340111000001100
+47156801000001112,13337711000001102
+47156901000001118,13337711000001102
+47157601000001110,13336411000001106
+47157701000001117,13336411000001106
+47158001000001118,13335811000001100
+47158101000001117,13335811000001100
+47165801000001113,13336111000001101
+47165901000001119,13336111000001101
+47166201000001117,13336711000001100
+47166301000001114,13336711000001100
+47168001000001110,13339411000001104
+47168101000001111,13339411000001104
+47168801000001115,13340611000001108
+47168901000001114,13340611000001108
+47173401000001119,13347511000001108
+47173501000001115,13347511000001108
+47173801000001117,13348211000001109
+47173901000001111,13348211000001109
+47174201000001115,13348911000001100
+47174301000001112,13348911000001100
+47174601000001118,13349311000001107
+47174701000001111,13349311000001107
+47175001000001113,13350111000001103
+47175101000001114,13350111000001103
+47175401000001115,13350511000001107
+47175501000001116,13350511000001107
+47175601000001117,13350811000001105
+47175701000001110,13350811000001105
+47175801000001118,13351111000001109
+47175901000001112,13351111000001109
+47176001000001115,13351411000001104
+47176101000001119,13351411000001104
+47176201000001114,13351711000001105
+47176301000001117,13351711000001105
+47176601000001111,13352911000001101
+47176701000001118,13352911000001101
+47176801000001110,13355811000001104
+47176901000001116,13355811000001104
+47177001000001117,13356511000001109
+47177101000001116,13356511000001109
+47177201000001111,13358611000001109
+47177301000001119,13358611000001109
+47177401000001110,13360911000001107
+47177501000001114,13360911000001107
+47177601000001113,13361411000001108
+47177701000001115,13361411000001108
+47178201000001110,13362111000001108
+47178301000001118,13362111000001108
+47178801000001111,13363011000001103
+47178901000001117,13363011000001103
+47187401000001118,13379911000001109
+47187501000001119,13379911000001109
+47187601000001115,13380211000001100
+47187701000001113,13380211000001100
+47187801000001116,13380511000001102
+47187901000001110,13380511000001102
+47188001000001112,13380811000001104
+47188101000001113,13380811000001104
+47188601000001116,13381411000001105
+47188701000001114,13381411000001105
+47189001000001118,13381811000001107
+47189101000001117,13381811000001107
+47189201000001112,13382111000001105
+47189301000001115,13382111000001105
+47189601000001114,13382511000001101
+47189701000001116,13382511000001101
+47189801000001113,13382811000001103
+47189901000001119,13382811000001103
+47190001000001111,13383111000001104
+47190101000001112,13383111000001104
+47190201000001117,13383411000001109
+47190301000001114,13383411000001109
+47190401000001118,13383711000001103
+47190501000001119,13383711000001103
+48438901000001114,13583411000001106
+48450501000001117,13583511000001105
+49778901000001119,13894811000001108
+49779001000001112,13894811000001108
+49780101000001113,13895011000001103
+49780201000001118,13895011000001103
+49780701000001114,13894711000001100
+49780801000001117,13894711000001100
+49781301000001116,13894611000001109
+49781401000001112,13894611000001109
+49782101000001112,13894911000001103
+49782201000001117,13894911000001103
+49786301000001113,13889311000001102
+49786401000001117,13889311000001102
+49795701000001116,13887511000001101
+49795801000001113,13887511000001101
+49806301000001114,13888011000001105
+49806401000001118,13888011000001105
+49810301000001114,13889211000001105
+49810401000001118,13889211000001105
+49810501000001119,13888911000001109
+49810601000001115,13888911000001109
+49810701000001113,13888611000001103
+49810801000001116,13888611000001103
+49810901000001110,13887911000001108
+49811001000001118,13887911000001108
+49811101000001117,13887411000001100
+49811201000001112,13887411000001100
+49837501000001111,13887611000001102
+49837601000001110,13887611000001102
+49837701000001117,13889411000001109
+49837801000001114,13889411000001109
+49841501000001117,13888111000001106
+49841601000001118,13888111000001106
+51702101000001112,14764111000001104
+51702201000001117,14764111000001104
+54407801000001118,333811000001106
+54528101000001111,481711000001104
+54530401000001118,1348211000001101
+54530501000001119,1350011000001106
+54530601000001115,1350911000001105
+54567701000001116,508011000001102
+54647301000001119,1348111000001107
+54647401000001110,1350811000001100
+56610201000001110,16072811000001103
+56637401000001115,16071911000001102
+56638001000001114,16071811000001107
+56669801000001117,16072011000001109
+57013901000001117,16129611000001104
+57021701000001112,16127911000001103
+57023301000001114,16127811000001108
+57030901000001115,16128011000001101
+59865001000001114,12408911000001105
+59865201000001115,12417511000001100
+59865301000001112,12419811000001105
+59865401000001116,12420011000001103
+59865501000001117,12420211000001108
+59865601000001118,12424211000001100
+59865701000001111,12424311000001108
+59867301000001115,8808111000001105
+59868901000001118,12420511000001106
+59869001000001111,12424011000001105
+59872801000001118,12419011000001104
+59872901000001112,12421811000001101
+59874101000001117,8745611000001101
+59875701000001117,12408511000001103
+59875801000001114,12417611000001101
+59875901000001115,12420311000001100
+59876001000001112,12424511000001102
+59877801000001115,8816211000001103
+59879401000001110,12408111000001107
+59879501000001114,12419211000001109
+59879601000001113,12419911000001100
+59881801000001115,8807911000001107
+59883701000001113,12417211000001103
+59883801000001116,12418911000001108
+59883901000001110,12420711000001101
+59884001000001113,12421411000001103
+59885601000001116,8746211000001109
+59885701000001114,8746311000001101
+59885801000001117,8792111000001107
+59887201000001110,12414011000001100
+59887301000001118,12420411000001107
+59887401000001114,12423911000001107
+59887501000001113,12424611000001103
+59887601000001112,12424811000001104
+59889101000001110,8808011000001109
+59890401000001114,12420111000001102
+59890501000001113,12421611000001100
+59890601000001112,12424711000001107
+59923701000001111,12414811000001106
+59923801000001119,12415111000001100
+61201601000001116,320201000001104
+61337601000001114,17801111000001105
+61337701000001116,17801111000001105
+61375201000001117,17801411000001100
+61375301000001114,17801411000001100
+62045201000001119,16127811000001108
+62048801000001111,16072811000001103
+62052201000001111,16071811000001107
+62053801000001115,11011011000001107
+62053901000001114,11011211000001102
+62055301000001114,16128011000001101
+62055401000001118,16129611000001104
+62061701000001119,16072011000001109
+62063301000001117,11010711000001101
+62065701000001117,11010811000001109
+62065801000001114,11010911000001104
+62067301000001113,16071911000001102
+62067401000001117,16127911000001103
+63392101000001117,18479811000001105
+63392201000001112,18479811000001105
+63392301000001115,18479911000001100
+63392401000001111,18479911000001100
+63591001000001113,18520511000001107
+63591101000001114,18520511000001107
+63598601000001114,18515111000001101
+63598701000001116,18515111000001101
+63607201000001116,18515011000001102
+63607301000001113,18515011000001102
+63618401000001116,18515211000001107
+63618501000001117,18515211000001107
+66348801000001111,19600411000001109
+66348901000001117,19600411000001109
+66349201000001116,19600111000001104
+66349301000001113,19600111000001104
+66383801000001112,19600311000001102
+66383901000001118,19600311000001102
+66384201000001114,19600611000001107
+66384301000001117,19600611000001107
+66449201000001112,8707211000001101
+66479801000001112,8705811000001105
+66494601000001116,8706011000001108
+66494701000001114,8707011000001106
+68541201000001111,20326811000001106
+68541301000001119,20326811000001106
+68541401000001110,20327011000001102
+68541501000001114,20327011000001102
+69002101000001118,20433011000001100
+69002201000001113,20433011000001100
+69044501000001111,20433111000001104
+69044601000001110,20433111000001104
+69068101000001116,8707311000001109
+69090201000001110,8707411000001102
+71337501000001111,21313411000001102
+71337601000001110,21313411000001102
+72774601000001117,21901811000001106
+72774701000001110,21901811000001106
+72774801000001118,21902011000001108
+72774901000001112,21902011000001108
+72957201000001119,21901911000001101
+72957301000001111,21901911000001101
+72957401000001115,21902111000001109
+72957501000001116,21902111000001109
+74046901000001112,22453211000001103
+74047001000001111,22453211000001103
+74079901000001118,22453411000001104
+74080001000001117,22453411000001104
+76807201000001116,23395511000001107
+76807301000001113,23395511000001107
+78079601000001112,13583411000001106
+78257901000001115,13583511000001105
+79025601000001110,24390711000001105
+79025701000001117,24390711000001105
+79025801000001114,24390911000001107
+79025901000001115,24390911000001107
+79123801000001118,24390811000001102
+79123901000001112,24390811000001102
+79124001000001110,24391011000001104
+79124101000001111,24391011000001104
+83814601000001115,27810911000001102
+83814701000001113,27810911000001102
+85630601000001117,27749111000001100
+85630701000001110,27749111000001100
+85634601000001113,27749011000001101
+85634701000001115,27749011000001101
+87459801000001111,27749211000001106
+87459901000001117,27749211000001106
+90738001000001110,28882011000001105
+90738101000001111,28882011000001105
+90745601000001113,28875111000001105
+90745701000001115,28875111000001105
+90748401000001116,28875011000001109
+90748501000001117,28875011000001109
+90762201000001111,28875211000001104
+90762301000001119,28875211000001104
+93887901000001118,30117211000001107
+93888001000001116,30117211000001107
+93888101000001115,30117411000001106
+93888201000001110,30117411000001106
+93919701000001115,30117311000001104
+93919801000001112,30117311000001104
+93919901000001118,30117511000001105
+93920001000001116,30117511000001105
+93920101000001115,30117611000001109
+93920201000001110,30117611000001109
+95499701000001111,30917011000001104
+95499801000001119,30917011000001104
+95534301000001114,30917111000001103
+95534401000001118,30917111000001103
+100136901000001118,32880211000001105
+100137001000001119,32880211000001105
+100155501000001117,32872611000001100
+100155601000001118,32872611000001100
+100159101000001112,32872511000001104
+100159201000001117,32872511000001104
+100194501000001111,32872711000001109
+100194601000001110,32872711000001109
+106084901000001119,1349011000001101
+106091201000001111,1345611000001105
+109423501000001115,35597011000001102
+109423601000001116,35597011000001102
+109423701000001114,35597311000001104
+109423801000001117,35597311000001104
+109423901000001111,35598911000001102
+109424001000001114,35598911000001102
+109426701000001118,35597111000001101
+109426801000001110,35597111000001101
+109426901000001116,35597511000001105
+109427001000001117,35597511000001105
+109427101000001116,35599011000001106
+109427201000001111,35599011000001106

@@ -1,1348 +1,1348 @@
-snomedctdescriptionid,snomedctconceptid,term
-85782019,51505001,prazosin hydrochloride
-173091019,108557002,doxazosin mesylate
-216262018,134456001,doxazosin 4mg m/r tablet
-216688013,135921004,doxazosin 8mg m/r tablet
-462473014,318735001,indoramin hydrochloride
-462481010,318752002,prazosin hydrochloride
-462489012,318771000,terazosin hydrochloride
-462499019,318780000,doxazosin mesylate
-466405017,326510000,terazosin hydrochloride [see chap b for generic preps]
-466410018,326515005,terazosin 1mg+2mg+5mg tablet starter pack
-471874013,349914007,terazosin
-1186278019,134456001,doxazosin 4mg m/r tablet (product)
-1186415014,135921004,doxazosin 8mg m/r tablet (product)
-1188504013,318735001,indoramin hydrochloride (product)
-1188518018,318771000,terazosin hydrochloride (product)
-1191094019,326510000,terazosin hydrochloride [see chap b for generic preps] (product)
-1197801014,372508002,doxazosin (substance)
-1200441010,375137004,doxazosin mesylate 1mg tablet (product)
-1200442015,375138009,doxazosin mesylate 2mg tablet (product)
-1200446017,375141000,doxazosin mesylate 4mg tablet (product)
-1200448016,375143002,doxazosin mesylate 8mg tablet (product)
-1201265019,375957001,terazosin hydrochloride 2mg tablet (product)
-1201266018,375958006,terazosin hydrochloride 5mg tablet (product)
-1201267010,375959003,terazosin hydrochloride 10mg tablet (product)
-1201382019,376073002,prazosin hydrochloride 1mg (product)
-1201950012,376637008,terazosin hydrochloride 5mg (product)
-1201952016,376639006,terazosin hydrochloride 1mg (product)
-1201953014,376640008,terazosin hydrochloride 10mg (product)
-1211043016,372508002,doxazosin
-1213480014,375137004,doxazosin mesylate 1mg tablet
-1213481013,375138009,doxazosin mesylate 2mg tablet
-1213484017,375141000,doxazosin mesylate 4mg tablet
-1213486015,375143002,doxazosin mesylate 8mg tablet
-1214264011,375957001,terazosin hydrochloride 2mg tablet
-1214265012,375958006,terazosin hydrochloride 5mg tablet
-1214266013,375959003,terazosin hydrochloride 10mg tablet
-1214375013,376073002,prazosin hydrochloride 1mg
-1214900014,376637008,terazosin hydrochloride 5mg
-1214902018,376639006,terazosin hydrochloride 1mg
-1214903011,376640008,terazosin hydrochloride 10mg
-1461246017,387068008,terazosin (substance)
-1461461018,387283005,prazosin hydrochloride (substance)
-1461611017,387433003,prazosin (substance)
-1469688018,395748009,indoramin (substance)
-1481182010,387068008,terazosin
-1481384017,387283005,prazosin hydrochloride
-1481524019,387433003,prazosin
-1489390016,395748009,indoramin
-2153212014,318766007,prazosin hydrochloride 500micrograms + 1mg tablet (product)
-2153213016,318778006,terazosin 1mg+2mg tablet (product)
-2153242012,326515005,terazosin 1mg tablet and 2mg tablet and 5mg tablet starter pack (product)
-2160843013,318766007,prazosin hydrochloride 500micrograms + 1mg tablet
-2160844019,318778006,terazosin 1mg+2mg tablet
-2160868010,326515005,terazosin 1mg tablet and 2mg tablet and 5mg tablet starter pack
-2476756016,375143002,doxazosin 8mg tablet
-2692000012,108557002,doxazosin mesilate
-2693243019,412519000,terazosin hydrochloride
-2693992019,135921004,doxazosin 8mg modified-release tablet
-2695693011,134456001,doxazosin 4mg modified-release tablet
-2710275014,349914007,terazosin (substance)
-2742155012,318780000,doxazosin mesylate (substance)
-2751069016,51505001,prazosin hydrochloride (substance)
-2786976019,439233008,polythiazide + prazosin hydrochloride (product)
-2794613019,439233008,polythiazide + prazosin hydrochloride
-2816741019,441534002,indoramin hydrochloride
-2816742014,441534002,indoramin hydrochloride (substance)
-3047090017,412519000,terazosin hydrochloride (substance)
-3482524017,108556006,product containing doxazosin (medicinal product)
-3483105018,129484001,product containing terazosin (medicinal product)
-3483447013,318752002,product containing prazosin hydrochloride (medicinal product)
-3484876012,349913001,product containing indoramin (medicinal product)
-3488857017,76058001,product containing prazosin (medicinal product)
-3492155019,318752002,product containing prazosin hydrochloride
-3500248014,318739007,indoramin 20 mg oral tablet
-3500249018,318740009,indoramin 25 mg oral tablet
-3502090018,421069003,doxazosin 8 mg oral tablet
-3674360013,765548006,doxazosin (as doxazosin mesylate) 4 mg prolonged-release oral tablet
-3674363010,765702000,doxazosin (as doxazosin mesylate) 8 mg prolonged-release oral tablet
-3678390010,318781001,doxazosin (as doxazosin mesilate) 1 mg oral tablet
-3678391014,318781001,doxazosin (as doxazosin mesylate) 1 mg oral tablet
-3678394018,318782008,doxazosin (as doxazosin mesilate) 2 mg oral tablet
-3678395017,318782008,doxazosin (as doxazosin mesylate) 2 mg oral tablet
-3678396016,318783003,doxazosin (as doxazosin mesilate) 4 mg oral tablet
-3678399011,318783003,doxazosin (as doxazosin mesylate) 4 mg oral tablet
-3678400016,421069003,product containing precisely doxazosin 8 milligram/1 each conventional release oral tablet (clinical drug)
-3679852016,318739007,product containing precisely indoramin 20 milligram/1 each conventional release oral tablet (clinical drug)
-3679853014,318740009,product containing precisely indoramin 25 milligram/1 each conventional release oral tablet (clinical drug)
-3682209017,375565008,prazosin hydrochloride 1 mg oral capsule
-3682211014,375565008,product containing precisely prazosin hydrochloride 1 milligram/1 each conventional release oral capsule (clinical drug)
-3682212019,318768008,product containing precisely prazosin (as prazosin hydrochloride) 1 milligram/1 each conventional release oral tablet (clinical drug)
-3682213012,318768008,prazosin (as prazosin hydrochloride) 1 mg oral tablet
-3682215017,374544006,product containing precisely prazosin hydrochloride 2 milligram/1 each conventional release oral capsule (clinical drug)
-3682216016,374544006,prazosin hydrochloride 2 mg oral capsule
-3682218015,318769000,product containing precisely prazosin (as prazosin hydrochloride) 2 milligram/1 each conventional release oral tablet (clinical drug)
-3682220017,318769000,prazosin (as prazosin hydrochloride) 2 mg oral tablet
-3682221018,374545007,product containing precisely prazosin hydrochloride 5 milligram/1 each conventional release oral capsule (clinical drug)
-3682223015,374545007,prazosin hydrochloride 5 mg oral capsule
-3682225010,318770004,prazosin (as prazosin hydrochloride) 5 mg oral tablet
-3682226011,318770004,product containing precisely prazosin (as prazosin hydrochloride) 5 milligram/1 each conventional release oral tablet (clinical drug)
-3683368015,318777001,terazosin (as terazosin hydrochloride) 10 mg oral tablet
-3683369011,318777001,product containing precisely terazosin (as terazosin hydrochloride) 10 milligram/1 each conventional release oral tablet (clinical drug)
-3683374015,318779003,terazosin (as terazosin hydrochloride) 2 mg oral tablet
-3683375019,318779003,product containing precisely terazosin (as terazosin hydrochloride) 2 milligram/1 each conventional release oral tablet (clinical drug)
-3683376018,318776005,terazosin (as terazosin hydrochloride) 5 mg oral tablet
-3683377010,318776005,product containing precisely terazosin (as terazosin hydrochloride) 5 milligram/1 each conventional release oral tablet (clinical drug)
-3683380011,375994005,product containing precisely terazosin 1 milligram/1 each conventional release oral capsule (clinical drug)
-3683381010,375994005,terazosin 1 mg oral capsule
-3683382015,375953002,product containing precisely terazosin 1 milligram/1 each conventional release oral tablet (clinical drug)
-3683383013,375953002,terazosin 1 mg oral tablet
-3683388016,375998008,product containing precisely terazosin 10 milligram/1 each conventional release oral capsule (clinical drug)
-3683389012,375998008,terazosin 10 mg oral capsule
-3683390015,375996007,product containing precisely terazosin 2 milligram/1 each conventional release oral capsule (clinical drug)
-3683392011,375996007,terazosin 2 mg oral capsule
-3683395013,375997003,terazosin 5 mg oral capsule
-3683396014,375997003,product containing precisely terazosin 5 milligram/1 each conventional release oral capsule (clinical drug)
-3700042019,318767003,product containing precisely prazosin (as prazosin hydrochloride) 500 microgram/1 each conventional release oral tablet (clinical drug)
-3700043012,318767003,prazosin (as prazosin hydrochloride) 500 microgram oral tablet
-3709690016,767737001,doxazosin-containing product in oral dose form
-3709691017,767737001,product containing doxazosin in oral dose form (medicinal product form)
-3711579010,768229007,prazosin-containing product in oral dose form
-3711580013,768229007,product containing prazosin in oral dose form (medicinal product form)
-3712066013,768205000,terazosin-containing product in oral dose form
-3712067016,768205000,product containing terazosin in oral dose form (medicinal product form)
-3714558011,108556006,doxazosin-containing product
-3715284010,349913001,indoramin-containing product
-3716340016,76058001,prazosin-containing product
-3716753015,129484001,terazosin-containing product
-3718613017,772525009,product containing indoramin in oral dose form (medicinal product form)
-3718614011,772525009,indoramin-containing product in oral dose form
-3722688013,773245005,product containing only doxazosin (medicinal product)
-3722689017,773245005,doxazosin only product
-3722690014,773246006,product containing only doxazosin in oral dose form (medicinal product form)
-3722691013,773246006,doxazosin only product in oral dose form
-3726095019,108557002,doxazosin mesilate (substance)
-3726096018,318781001,product containing precisely doxazosin (as doxazosin mesilate) 1 milligram/1 each conventional release oral tablet (clinical drug)
-3726097010,318783003,product containing precisely doxazosin (as doxazosin mesilate) 4 milligram/1 each conventional release oral tablet (clinical drug)
-3726098017,318782008,product containing precisely doxazosin (as doxazosin mesilate) 2 milligram/1 each conventional release oral tablet (clinical drug)
-3726099013,765702000,product containing precisely doxazosin (as doxazosin mesilate) 8 milligram/1 each prolonged-release oral tablet (clinical drug)
-3726100017,765702000,doxazosin (as doxazosin mesilate) 8 mg prolonged-release oral tablet
-3726101018,765548006,product containing precisely doxazosin (as doxazosin mesilate) 4 milligram/1 each prolonged-release oral tablet (clinical drug)
-3726102013,765548006,doxazosin (as doxazosin mesilate) 4 mg prolonged-release oral tablet
-3732868019,776330005,product containing only indoramin (medicinal product)
-3732869010,776330005,indoramin only product
-3734896014,777302001,product containing only prazosin (medicinal product)
-3734897017,777302001,prazosin only product
-3735729014,777709007,product containing only terazosin (medicinal product)
-3735730016,777709007,terazosin only product
-3740806013,779551005,indoramin only product in oral dose form
-3740807016,779551005,product containing only indoramin in oral dose form (medicinal product form)
-3742324010,780277004,product containing only prazosin in oral dose form (medicinal product form)
-3742325011,780277004,prazosin only product in oral dose form
-3742962015,780586008,terazosin only product in oral dose form
-3742963013,780586008,product containing only terazosin in oral dose form (medicinal product form)
-3757720016,783119004,product containing precisely indoramin (as indoramin hydrochloride) 20 milligram/1 each conventional release oral tablet (clinical drug)
-3757721017,783119004,indoramin (as indoramin hydrochloride) 20 mg oral tablet
-3758528012,783322005,product containing precisely indoramin (as indoramin hydrochloride) 25 milligram/1 each conventional release oral tablet (clinical drug)
-3758529016,783322005,indoramin (as indoramin hydrochloride) 25 mg oral tablet
-3762008013,441252003,polythiazide 500 microgram and prazosin (as prazosin hydrochloride) 1 mg oral capsule
-3762009017,441252003,product containing precisely polythiazide 500 microgram and prazosin (as prazosin hydrochloride) 1 milligram/1 each conventional release oral capsule (clinical drug)
-3762010010,441254002,product containing precisely polythiazide 500 microgram and prazosin (as prazosin hydrochloride) 2 milligram/1 each conventional release oral capsule (clinical drug)
-3762011014,441254002,polythiazide 500 microgram and prazosin (as prazosin hydrochloride) 2 mg oral capsule
-3762012019,441251005,product containing precisely polythiazide 500 microgram and prazosin (as prazosin hydrochloride) 5 milligram/1 each conventional release oral capsule (clinical drug)
-3762013012,441251005,polythiazide 500 microgram and prazosin (as prazosin hydrochloride) 5 mg oral capsule
-3762255011,784251003,product containing polythiazide and prazosin (medicinal product)
-3762256012,784251003,polythiazide- and prazosin-containing product
-3762257015,784252005,polythiazide and prazosin only product
-3762258013,784252005,product containing only polythiazide and prazosin (medicinal product)
-3762265017,784254006,product containing polythiazide and prazosin in oral dose form (medicinal product form)
-3762266016,784254006,polythiazide- and prazosin-containing product in oral dose form
-3762267013,784255007,product containing only polythiazide and prazosin in oral dose form (medicinal product form)
-3762268015,784255007,polythiazide and prazosin only product in oral dose form
-4570951011,1155964008,doxazosin (as doxazosin mesilate) 8 mg oral tablet
-4570952016,1155964008,product containing precisely doxazosin (as doxazosin mesilate) 8 milligram/1 each conventional release oral tablet (clinical drug)
-4570955019,1155964008,doxazosin (as doxazosin mesylate) 8 mg oral tablet
-4965174014,1208585006,terazosin (as terazosin hydrochloride) 1 mg oral tablet
-4965175010,1208585006,product containing precisely terazosin (as terazosin hydrochloride) 1 milligram/1 each conventional release oral tablet (clinical drug)
-4965176011,1208586007,terazosin (as terazosin hydrochloride) 1 mg oral capsule
-4965177019,1208586007,product containing precisely terazosin (as terazosin hydrochloride) 1 milligram/1 each conventional release oral capsule (clinical drug)
-4965178012,1208587003,product containing precisely terazosin (as terazosin hydrochloride) 2 milligram/1 each conventional release oral capsule (clinical drug)
-4965179016,1208587003,terazosin (as terazosin hydrochloride) 2 mg oral capsule
-4965180018,1208588008,terazosin (as terazosin hydrochloride) 5 mg oral capsule
-4965181019,1208588008,product containing precisely terazosin (as terazosin hydrochloride) 5 milligram/1 each conventional release oral capsule (clinical drug)
-4965182014,1208589000,terazosin (as terazosin hydrochloride) 10 mg oral capsule
-4965183016,1208589000,product containing precisely terazosin (as terazosin hydrochloride) 10 milligram/1 each conventional release oral capsule (clinical drug)
-5036735012,1217567006,terazosin hydrochloride dihydrate
-5036736013,1217567006,terazosin hydrochloride dihydrate (substance)
-5089535014,1236879000,prazosin (as prazosin hydrochloride) 5 mg prolonged-release oral tablet
-5089536010,1236879000,product containing precisely prazosin (as prazosin hydrochloride) 5 milligram/1 each prolonged-release oral tablet (clinical drug)
-5182635018,1269092006,terazosin hydrochloride anhydrous (substance)
-5182636017,1269092006,terazosin hydrochloride anhydrous
-114291000001118,39362011000001107,indoramin 20mg tablets 56 tablet
-114301000001119,39362011000001107,indoramin 20mg tablets 56 tablet (product)
-116051000001112,39362111000001108,indoramin 20mg tablets (brown & burk uk ltd)
-116061000001110,39362111000001108,indoramin 20mg tablets (brown & burk uk ltd) (product)
-123481000001112,39362211000001102,indoramin 20mg tablets (brown & burk uk ltd) 56 tablet 4 x 14 tablets
-123491000001114,39362211000001102,indoramin 20mg tablets (brown & burk uk ltd) 56 tablet 4 x 14 tablets (product)
-142061000001115,18072211000001106,doxazosin 4mg tablets (fannin (uk) ltd)
-142071000001113,18072211000001106,doxazosin 4mg tablets (fannin (uk) ltd) (product)
-142681000001119,18072011000001101,doxazosin 2mg tablets (fannin (uk) ltd)
-142691000001117,18072011000001101,doxazosin 2mg tablets (fannin (uk) ltd) (product)
-150161000001116,18071811000001103,doxazosin 1mg tablets (fannin (uk) ltd)
-150171000001114,18071811000001103,doxazosin 1mg tablets (fannin (uk) ltd) (product)
-220191000001114,37143011000001105,terazosin 2mg tablets (mawdsley-brooks & company ltd)
-220201000001111,37143011000001105,terazosin 2mg tablets (mawdsley-brooks & company ltd) (product)
-220991000001111,37143411000001101,terazosin 5mg tablets (mawdsley-brooks & company ltd)
-221001000001110,37143411000001101,terazosin 5mg tablets (mawdsley-brooks & company ltd) (product)
-222621000001119,37143111000001106,terazosin 2mg tablets (mawdsley-brooks & company ltd) 28 tablet
-222641000001112,37143111000001106,terazosin 2mg tablets (mawdsley-brooks & company ltd) 28 tablet (product)
-222651000001110,37143611000001103,terazosin 5mg tablets (mawdsley-brooks & company ltd) 28 tablet
-222661000001113,37143611000001103,terazosin 5mg tablets (mawdsley-brooks & company ltd) 28 tablet (product)
-224991000001119,37180711000001106,doxazosin 8mg tablets (a a h pharmaceuticals ltd)
-225001000001112,37180711000001106,doxazosin 8mg tablets (a a h pharmaceuticals ltd) (product)
-228451000001114,37180811000001103,doxazosin 8mg tablets (a a h pharmaceuticals ltd) 28 tablet
-228461000001112,37180811000001103,doxazosin 8mg tablets (a a h pharmaceuticals ltd) 28 tablet (product)
-250901000001119,18071911000001108,doxazosin 1mg tablets (fannin (uk) ltd) 28 tablet 2 x 14 tablets
-250921000001114,18071911000001108,doxazosin 1mg tablets (fannin (uk) ltd) 28 tablet 2 x 14 tablets (product)
-254681000001114,18072311000001103,doxazosin 4mg tablets (fannin (uk) ltd) 28 tablet 2 x 14 tablets
-254691000001111,18072311000001103,doxazosin 4mg tablets (fannin (uk) ltd) 28 tablet 2 x 14 tablets (product)
-344941000001118,37489611000001109,doxazosin 8mg tablets (alliance healthcare (distribution) ltd)
-344951000001115,37489611000001109,doxazosin 8mg tablets (alliance healthcare (distribution) ltd) (product)
-347901000001111,37489711000001100,doxazosin 8mg tablets (alliance healthcare (distribution) ltd) 28 tablet
-347921000001116,37489711000001100,doxazosin 8mg tablets (alliance healthcare (distribution) ltd) 28 tablet (product)
-418091000001118,37717511000001109,doxazosin 8mg modified-release tablets 30 tablet
-418101000001112,37717511000001109,doxazosin 8mg modified-release tablets 30 tablet (product)
-450051000001116,37823011000001104,terazosin 10mg tablets (de pharmaceuticals)
-450061000001118,37823011000001104,terazosin 10mg tablets (de pharmaceuticals) (product)
-451121000001116,37822811000001102,terazosin 5mg tablets (de pharmaceuticals)
-451141000001114,37822811000001102,terazosin 5mg tablets (de pharmaceuticals) (product)
-451221000001111,37822611000001101,terazosin 2mg tablets (de pharmaceuticals)
-451241000001118,37822611000001101,terazosin 2mg tablets (de pharmaceuticals) (product)
-452071000001112,37822911000001107,terazosin 5mg tablets (de pharmaceuticals) 28 tablet
-452081000001114,37822911000001107,terazosin 5mg tablets (de pharmaceuticals) 28 tablet (product)
-452771000001110,37822711000001105,terazosin 2mg tablets (de pharmaceuticals) 28 tablet
-452781000001112,37822711000001105,terazosin 2mg tablets (de pharmaceuticals) 28 tablet (product)
-453191000001119,37823111000001103,terazosin 10mg tablets (de pharmaceuticals) 28 tablet
-453201000001117,37823111000001103,terazosin 10mg tablets (de pharmaceuticals) 28 tablet (product)
-555681000001116,18072111000001100,doxazosin 2mg tablets (fannin (uk) ltd) 28 tablet 2 x 14 tablets
-555691000001119,18072111000001100,doxazosin 2mg tablets (fannin (uk) ltd) 28 tablet 2 x 14 tablets (product)
-1124891000001114,39459111000001102,indoramin 20mg tablets (alliance healthcare (distribution) ltd) 56 tablet 4 x 14 tablets
-1124901000001110,39459111000001102,indoramin 20mg tablets (alliance healthcare (distribution) ltd) 56 tablet 4 x 14 tablets (product)
-1140151000001116,112751000001106,indoramin 20mg tablets
-1140281000001116,114071000001107,indoramin 25mg tablets (product)
-1141601000001115,114071000001107,indoramin 25mg tablets
-1144691000001111,112751000001106,indoramin 20mg tablets (product)
-1237021000001113,3697011000001101,terazosin 2mg tablets (zentiva pharma uk ltd)
-1237041000001115,3697011000001101,terazosin 2mg tablets (zentiva pharma uk ltd) (product)
-1295781000001113,40355911000001107,indoramin 20mg tablets (de pharmaceuticals) 56 tablet
-1295791000001110,40355911000001107,indoramin 20mg tablets (de pharmaceuticals) 56 tablet (product)
-1514991000001116,3697411000001105,terazosin 10mg tablets (zentiva pharma uk ltd)
-1515001000001114,3697411000001105,terazosin 10mg tablets (zentiva pharma uk ltd) (product)
-1518971000001112,3697211000001106,terazosin 5mg tablets (zentiva pharma uk ltd)
-1518981000001114,3697211000001106,terazosin 5mg tablets (zentiva pharma uk ltd) (product)
-1576691000001113,38878911000001101,doxazosin 1mg tablets (medihealth (northern) ltd)
-1576701000001113,38878911000001101,doxazosin 1mg tablets (medihealth (northern) ltd) (product)
-1576721000001118,38879211000001100,doxazosin 2mg tablets (medihealth (northern) ltd)
-1576741000001111,38879211000001100,doxazosin 2mg tablets (medihealth (northern) ltd) (product)
-1577851000001118,38879611000001103,doxazosin 4mg tablets (medihealth (northern) ltd)
-1577861000001115,38879611000001103,doxazosin 4mg tablets (medihealth (northern) ltd) (product)
-1578291000001114,38879411000001101,doxazosin 2mg tablets (medihealth (northern) ltd) 28 tablet
-1578301000001113,38879411000001101,doxazosin 2mg tablets (medihealth (northern) ltd) 28 tablet (product)
-1579651000001113,38879011000001105,doxazosin 1mg tablets (medihealth (northern) ltd) 28 tablet
-1579661000001111,38879011000001105,doxazosin 1mg tablets (medihealth (northern) ltd) 28 tablet (product)
-1579791000001112,38879811000001104,doxazosin 4mg tablets (medihealth (northern) ltd) 28 tablet
-1579801000001111,38879811000001104,doxazosin 4mg tablets (medihealth (northern) ltd) 28 tablet (product)
-1605781000001113,39001111000001103,indoramin 20mg tablets (medihealth (northern) ltd)
-1605791000001110,39001111000001103,indoramin 20mg tablets (medihealth (northern) ltd) (product)
-1607181000001115,35141811000001104,doxazosin 1mg tablets (milpharm ltd)
-1607191000001118,35141811000001104,doxazosin 1mg tablets (milpharm ltd) (product)
-1607541000001115,35142011000001102,doxazosin 2mg tablets (milpharm ltd)
-1607551000001117,35142011000001102,doxazosin 2mg tablets (milpharm ltd) (product)
-1607901000001114,35142211000001107,doxazosin 4mg tablets (milpharm ltd)
-1607921000001119,35142211000001107,doxazosin 4mg tablets (milpharm ltd) (product)
-1610641000001118,39001211000001109,indoramin 20mg tablets (medihealth (northern) ltd) 60 tablet
-1610651000001115,39001211000001109,indoramin 20mg tablets (medihealth (northern) ltd) 60 tablet (product)
-1611871000001115,35141911000001109,doxazosin 1mg tablets (milpharm ltd) 28 tablet
-1611881000001118,35141911000001109,doxazosin 1mg tablets (milpharm ltd) 28 tablet (product)
-1612551000001118,35142311000001104,doxazosin 4mg tablets (milpharm ltd) 28 tablet
-1612561000001115,35142311000001104,doxazosin 4mg tablets (milpharm ltd) 28 tablet (product)
-1613081000001114,35142111000001101,doxazosin 2mg tablets (milpharm ltd) 28 tablet
-1613091000001111,35142111000001101,doxazosin 2mg tablets (milpharm ltd) 28 tablet (product)
-1614551000001114,39020411000001106,doxazosin 4mg modified-release tablets
-1614561000001112,39020411000001106,doxazosin 4mg modified-release tablets (product)
-1614651000001113,39021111000001107,doxazosin 8mg modified-release tablets
-1614661000001111,39021111000001107,doxazosin 8mg modified-release tablets (product)
-1758391000001119,3697511000001109,terazosin 10mg tablets (zentiva pharma uk ltd) 28 tablet 2 x 14 tablets
-1758401000001116,3697511000001109,terazosin 10mg tablets (zentiva pharma uk ltd) 28 tablet 2 x 14 tablets (product)
-1760921000001110,3697111000001100,terazosin 2mg tablets (zentiva pharma uk ltd) 28 tablet 2 x 14 tablets
-1760941000001117,3697111000001100,terazosin 2mg tablets (zentiva pharma uk ltd) 28 tablet 2 x 14 tablets (product)
-1762071000001114,3697311000001103,terazosin 5mg tablets (zentiva pharma uk ltd) 28 tablet 2 x 14 tablets
-1762081000001111,3697311000001103,terazosin 5mg tablets (zentiva pharma uk ltd) 28 tablet 2 x 14 tablets (product)
-1816871000001116,39696711000001101,indoramin 25mg tablets
-1816881000001119,39696711000001101,indoramin 25mg tablets (product)
-1818661000001111,39696511000001106,indoramin 20mg tablets
-1818671000001118,39696511000001106,indoramin 20mg tablets (product)
-1856241000001116,3152511000001104,terazosin 10mg tablets (kent pharma (uk) ltd)
-1856251000001118,3152511000001104,terazosin 10mg tablets (kent pharma (uk) ltd) (product)
-1857401000001118,3150011000001108,terazosin 2mg tablets (kent pharma (uk) ltd)
-1857421000001113,3150011000001108,terazosin 2mg tablets (kent pharma (uk) ltd) (product)
-1859501000001110,7976711000001102,indoramin 20mg tablets (kent pharma (uk) ltd)
-1859521000001115,7976711000001102,indoramin 20mg tablets (kent pharma (uk) ltd) (product)
-1859881000001117,252111000001100,doxazosin 1mg tablets (kent pharma (uk) ltd)
-1859891000001115,252111000001100,doxazosin 1mg tablets (kent pharma (uk) ltd) (product)
-1861101000001111,3156811000001100,terazosin 5mg tablets (kent pharma (uk) ltd)
-1861121000001116,3156811000001100,terazosin 5mg tablets (kent pharma (uk) ltd) (product)
-1863801000001116,225411000001101,doxazosin 2mg tablets (kent pharma (uk) ltd)
-1863821000001111,225411000001101,doxazosin 2mg tablets (kent pharma (uk) ltd) (product)
-1865281000001114,210011000001108,doxazosin 4mg tablets (kent pharma (uk) ltd)
-1865291000001111,210011000001108,doxazosin 4mg tablets (kent pharma (uk) ltd) (product)
-1874241000001113,3150111000001109,terazosin 2mg tablets (kent pharma (uk) ltd) 28 tablet 2 x 14 tablets
-1874251000001111,3150111000001109,terazosin 2mg tablets (kent pharma (uk) ltd) 28 tablet 2 x 14 tablets (product)
-1875261000001110,3157311000001107,terazosin 5mg tablets (kent pharma (uk) ltd) 28 tablet
-1875271000001117,3157311000001107,terazosin 5mg tablets (kent pharma (uk) ltd) 28 tablet (product)
-1875281000001115,7976811000001105,indoramin 20mg tablets (kent pharma (uk) ltd) 60 tablet
-1875291000001118,7976811000001105,indoramin 20mg tablets (kent pharma (uk) ltd) 60 tablet (product)
-1877341000001114,1593211000001102,doxazosin 2mg tablets (kent pharma (uk) ltd) 28 tablet
-1877351000001112,1593211000001102,doxazosin 2mg tablets (kent pharma (uk) ltd) 28 tablet (product)
-1878081000001118,3152811000001101,terazosin 10mg tablets (kent pharma (uk) ltd) 28 tablet
-1878091000001116,3152811000001101,terazosin 10mg tablets (kent pharma (uk) ltd) 28 tablet (product)
-1879641000001114,1593311000001105,doxazosin 4mg tablets (kent pharma (uk) ltd) 28 tablet
-1879651000001112,1593311000001105,doxazosin 4mg tablets (kent pharma (uk) ltd) 28 tablet (product)
-1889041000001110,1593111000001108,doxazosin 1mg tablets (kent pharma (uk) ltd) 28 tablet 2 x 14 tablets
-1889051000001113,1593111000001108,doxazosin 1mg tablets (kent pharma (uk) ltd) 28 tablet 2 x 14 tablets (product)
-1965501000001114,39853911000001106,doxazosin 8mg tablets (medihealth (northern) ltd)
-1965521000001119,39853911000001106,doxazosin 8mg tablets (medihealth (northern) ltd) (product)
-1967881000001114,39854011000001109,doxazosin 8mg tablets (medihealth (northern) ltd) 28 tablet
-1967891000001111,39854011000001109,doxazosin 8mg tablets (medihealth (northern) ltd) 28 tablet (product)
-1971441000001119,39900811000001105,terazosin 2mg tablets (medihealth (northern) ltd)
-1971451000001116,39900811000001105,terazosin 2mg tablets (medihealth (northern) ltd) (product)
-1972101000001117,39897511000001102,terazosin 10mg tablets (medihealth (northern) ltd)
-1972121000001112,39897511000001102,terazosin 10mg tablets (medihealth (northern) ltd) (product)
-1972501000001110,39901011000001108,terazosin 5mg tablets (medihealth (northern) ltd)
-1972521000001115,39901011000001108,terazosin 5mg tablets (medihealth (northern) ltd) (product)
-1975001000001112,39901111000001109,terazosin 5mg tablets (medihealth (northern) ltd) 28 tablet
-1975021000001117,39901111000001109,terazosin 5mg tablets (medihealth (northern) ltd) 28 tablet (product)
-1976941000001117,39900911000001100,terazosin 2mg tablets (medihealth (northern) ltd) 28 tablet
-1976951000001119,39900911000001100,terazosin 2mg tablets (medihealth (northern) ltd) 28 tablet (product)
-1977701000001119,39897611000001103,terazosin 10mg tablets (medihealth (northern) ltd) 28 tablet
-1977721000001114,39897611000001103,terazosin 10mg tablets (medihealth (northern) ltd) 28 tablet (product)
-2027191000001115,40532811000001107,prazosin 2mg tablets 28 tablet
-2027201000001118,40532811000001107,prazosin 2mg tablets 28 tablet (product)
-2031071000001110,24661311000001108,prazosin 2mg tablets (part viiid drug tariff special order)
-2031081000001112,24661311000001108,prazosin 2mg tablets (part viiid drug tariff special order) (product)
-2105061000001117,3149011000001103,terazosin 2mg tablets (viatris uk healthcare ltd)
-2105071000001110,3149011000001103,terazosin 2mg tablets (viatris uk healthcare ltd) (product)
-2105101000001115,674011000001107,doxazosin 2mg tablets (viatris uk healthcare ltd)
-2105121000001110,674011000001107,doxazosin 2mg tablets (viatris uk healthcare ltd) (product)
-2105341000001115,3152011000001107,terazosin 10mg tablets (viatris uk healthcare ltd)
-2105351000001117,3152011000001107,terazosin 10mg tablets (viatris uk healthcare ltd) (product)
-2109661000001114,7814111000001106,indoramin 20mg tablets (viatris uk healthcare ltd)
-2109671000001116,7814111000001106,indoramin 20mg tablets (viatris uk healthcare ltd) (product)
-2112361000001110,221311000001106,doxazosin 4mg tablets (viatris uk healthcare ltd)
-2112371000001117,221311000001106,doxazosin 4mg tablets (viatris uk healthcare ltd) (product)
-2112801000001118,3156311000001109,terazosin 5mg tablets (viatris uk healthcare ltd)
-2112821000001113,3156311000001109,terazosin 5mg tablets (viatris uk healthcare ltd) (product)
-2123841000001117,565111000001107,doxazosin 1mg tablets (viatris uk healthcare ltd)
-2123851000001119,565111000001107,doxazosin 1mg tablets (viatris uk healthcare ltd) (product)
-2137701000001115,3152211000001102,terazosin 10mg tablets (viatris uk healthcare ltd) 28 tablet
-2137721000001110,3152211000001102,terazosin 10mg tablets (viatris uk healthcare ltd) 28 tablet (product)
-2141561000001116,1469711000001103,doxazosin 2mg tablets (viatris uk healthcare ltd) 28 tablet
-2141571000001114,1469711000001103,doxazosin 2mg tablets (viatris uk healthcare ltd) 28 tablet (product)
-2144481000001113,3149111000001102,terazosin 2mg tablets (viatris uk healthcare ltd) 28 tablet 2 x 14 tablets
-2144491000001110,3149111000001102,terazosin 2mg tablets (viatris uk healthcare ltd) 28 tablet 2 x 14 tablets (product)
-2144501000001118,3156511000001103,terazosin 5mg tablets (viatris uk healthcare ltd) 28 tablet
-2144521000001113,3156511000001103,terazosin 5mg tablets (viatris uk healthcare ltd) 28 tablet (product)
-2154241000001116,1472311000001100,doxazosin 4mg tablets (viatris uk healthcare ltd) 28 tablet
-2154251000001118,1472311000001100,doxazosin 4mg tablets (viatris uk healthcare ltd) 28 tablet (product)
-2155501000001115,1468011000001105,doxazosin 1mg tablets (viatris uk healthcare ltd) 28 tablet
-2155521000001110,1468011000001105,doxazosin 1mg tablets (viatris uk healthcare ltd) 28 tablet (product)
-2156401000001112,7814511000001102,indoramin 20mg tablets (viatris uk healthcare ltd) 60 tablet
-2156421000001117,7814511000001102,indoramin 20mg tablets (viatris uk healthcare ltd) 60 tablet (product)
-2219941000001117,40533011000001105,prazosin 2mg tablets (part viiid drug tariff special order) 100 tablet
-2219951000001119,40533011000001105,prazosin 2mg tablets (part viiid drug tariff special order) 100 tablet (product)
-2220041000001115,40532911000001102,prazosin 2mg tablets (part viiid drug tariff special order) 28 tablet
-2220051000001117,40532911000001102,prazosin 2mg tablets (part viiid drug tariff special order) 28 tablet (product)
-2225841000001115,24661411000001101,prazosin 2mg tablets (part viiid drug tariff special order) 1 tablet
-2225851000001117,24661411000001101,prazosin 2mg tablets (part viiid drug tariff special order) 1 tablet (product)
-2239461000001115,1155964008,doxazosin 8mg tablets
-2421101000001111,40928511000001102,indoramin 20mg tablets (brown & burk uk ltd) 60 tablet 6 x 10 tablets
-2421121000001116,40928511000001102,indoramin 20mg tablets (brown & burk uk ltd) 60 tablet 6 x 10 tablets (product)
-2546891000001111,41290211000001103,doxazosin 1mg tablets (relonchem ltd)
-2546901000001112,41290211000001103,doxazosin 1mg tablets (relonchem ltd) (product)
-2547871000001110,41290511000001100,doxazosin 2mg tablets (relonchem ltd)
-2547881000001112,41290511000001100,doxazosin 2mg tablets (relonchem ltd) (product)
-2548051000001113,41290711000001105,doxazosin 4mg tablets (relonchem ltd)
-2548061000001111,41290711000001105,doxazosin 4mg tablets (relonchem ltd) (product)
-2549721000001111,41290611000001101,doxazosin 2mg tablets (relonchem ltd) 28 tablet 2 x 14 tablets
-2549741000001118,41290611000001101,doxazosin 2mg tablets (relonchem ltd) 28 tablet 2 x 14 tablets (product)
-2551171000001112,41290411000001104,doxazosin 1mg tablets (relonchem ltd) 28 tablet 2 x 14 tablets
-2551181000001114,41290411000001104,doxazosin 1mg tablets (relonchem ltd) 28 tablet 2 x 14 tablets (product)
-2553971000001113,41290811000001102,doxazosin 4mg tablets (relonchem ltd) 28 tablet 2 x 14 tablets
-2553981000001110,41290811000001102,doxazosin 4mg tablets (relonchem ltd) 28 tablet 2 x 14 tablets (product)
-2830991000001116,777709007,terazosin (product)
-2831001000001117,777709007,terazosin
-2848151000001113,776330005,indoramin (product)
-2848161000001111,776330005,indoramin
-2865621000001112,773245005,doxazosin (product)
-2865641000001119,773245005,doxazosin
-2872251000001117,777302001,prazosin (product)
-2872261000001119,777302001,prazosin
-3031051000001112,8094611000001105,indoramin 20mg tablets (alliance healthcare (distribution) ltd) 60 tablet 6 x 10 tablets
-3031061000001110,8094611000001105,indoramin 20mg tablets (alliance healthcare (distribution) ltd) 60 tablet 6 x 10 tablets (product)
-3102001000001117,41976711000001100,terazosin 5mg tablets (medley pharma ltd)
-3102021000001112,41976711000001100,terazosin 5mg tablets (medley pharma ltd) (product)
-3102281000001115,41976511000001105,terazosin 2mg tablets (medley pharma ltd)
-3102291000001118,41976511000001105,terazosin 2mg tablets (medley pharma ltd) (product)
-3102581000001118,41976911000001103,terazosin 10mg tablets (medley pharma ltd)
-3102591000001116,41976911000001103,terazosin 10mg tablets (medley pharma ltd) (product)
-3103141000001114,41977011000001104,terazosin 10mg tablets (medley pharma ltd) 28 tablet 2 x 14 tablets
-3103151000001112,41977011000001104,terazosin 10mg tablets (medley pharma ltd) 28 tablet 2 x 14 tablets (product)
-3103501000001118,41976811000001108,terazosin 5mg tablets (medley pharma ltd) 28 tablet 2 x 14 tablets
-3103521000001113,41976811000001108,terazosin 5mg tablets (medley pharma ltd) 28 tablet 2 x 14 tablets (product)
-3103881000001111,41976611000001109,terazosin 2mg tablets (medley pharma ltd) 28 tablet 2 x 14 tablets
-3103891000001113,41976611000001109,terazosin 2mg tablets (medley pharma ltd) 28 tablet 2 x 14 tablets (product)
-3143761000001118,4250511000001101,doxazosin 4mg tablets (accord-uk ltd)
-3143771000001111,4250511000001101,doxazosin 4mg tablets (accord-uk ltd) (product)
-3146141000001110,4250311000001107,doxazosin 2mg tablets (accord-uk ltd)
-3146151000001113,4250311000001107,doxazosin 2mg tablets (accord-uk ltd) (product)
-3158501000001115,18468911000001100,terazosin 2mg tablets (accord-uk ltd)
-3158521000001110,18468911000001100,terazosin 2mg tablets (accord-uk ltd) (product)
-3161541000001115,20170111000001105,terazosin 5mg tablets (accord-uk ltd)
-3161551000001117,20170111000001105,terazosin 5mg tablets (accord-uk ltd) (product)
-3169201000001115,20170911000001108,terazosin 5mg tablets (accord-uk ltd) 28 tablet
-3169221000001110,20170911000001108,terazosin 5mg tablets (accord-uk ltd) 28 tablet (product)
-3180881000001119,4250611000001102,doxazosin 4mg tablets (accord-uk ltd) 28 tablet 2 x 14 tablets
-3180891000001117,4250611000001102,doxazosin 4mg tablets (accord-uk ltd) 28 tablet 2 x 14 tablets (product)
-3188141000001119,4250411000001100,doxazosin 2mg tablets (accord-uk ltd) 28 tablet 2 x 14 tablets
-3188151000001116,4250411000001100,doxazosin 2mg tablets (accord-uk ltd) 28 tablet 2 x 14 tablets (product)
-3188981000001110,18469011000001109,terazosin 2mg tablets (accord-uk ltd) 28 tablet
-3188991000001112,18469011000001109,terazosin 2mg tablets (accord-uk ltd) 28 tablet (product)
-3214641000001118,42043111000001101,terazosin 2mg tablets
-3214651000001115,42043111000001101,terazosin 2mg tablets (product)
-3215441000001115,42043011000001102,terazosin 10mg tablets
-3215451000001117,42043011000001102,terazosin 10mg tablets (product)
-3216541000001113,42043211000001107,terazosin 5mg tablets
-3216551000001111,42043211000001107,terazosin 5mg tablets (product)
-3281691000001113,42209411000001108,doxazosin 8mg tablets
-3281701000001113,42209411000001108,doxazosin 8mg tablets (product)
-3282051000001118,42215811000001105,prazosin 2mg tablets
-3282061000001115,42215811000001105,prazosin 2mg tablets (product)
-3282421000001117,42216011000001108,prazosin 5mg tablets
-3282441000001110,42216011000001108,prazosin 5mg tablets (product)
-3282771000001111,42215911000001100,prazosin 500microgram tablets
-3282781000001113,42215911000001100,prazosin 500microgram tablets (product)
-3283051000001113,42209211000001109,doxazosin 2mg tablets
-3283061000001111,42209211000001109,doxazosin 2mg tablets (product)
-3283671000001110,42209311000001101,doxazosin 4mg tablets
-3283681000001112,42209311000001101,doxazosin 4mg tablets (product)
-3283771000001115,42209111000001103,doxazosin 1mg tablets
-3283781000001118,42209111000001103,doxazosin 1mg tablets (product)
-3284091000001116,42215711000001102,prazosin 1mg tablets
-3284101000001110,42215711000001102,prazosin 1mg tablets (product)
-4310801000001118,164201000001108,indoramin 50mg tablet
-4441801000001112,372001000001105,doxazosin 4mg tablet - product
-7887601000001113,164201000001108,indoramin 50mg tablet
-7889901000001114,372001000001105,doxazosin 4mg tablet - product
-11458901000001115,16401000001105,indoramin 20mg tablet - product
-11468201000001117,41001000001100,terazosin 2mg tablet - product
-11476301000001118,60001000001102,prazosin hydrochloride 500micrograms+1mg tablet starter pack - product
-11486401000001116,87101000001103,indoramin 25mg tablet - product
-11518801000001111,182301000001109,prazosin hydrochloride 1mg tablet - product
-11546401000001118,253801000001101,prazosin hydrochloride 2mg tablet - product
-11572301000001114,324401000001107,prazosin hydrochloride 5mg tablet - product
-11576401000001117,335001000001101,prazosin hydrochloride 500micrograms tablet - product
-11615701000001119,441301000001106,doxazosin 1mg tablet - product
-11639101000001113,510901000001104,doxazosin 2mg tablet - product
-11651801000001117,549701000001104,terazosin 1mg+2mg tablet starter pack - product
-11722601000001115,753101000001101,terazosin 5mg tablet - product
-11739801000001113,801201000001104,terazosin 10mg tablet - product
-11930401000001112,3642801000001102,terazosin 1mg+2mg+5mg tablet starter pack - product
-11952601000001110,3874201000001100,doxazosin 4mg m/r tablet - product
-11952701000001117,3874301000001109,doxazosin 8mg m/r tablet - product
-12010401000001110,16401000001105,indoramin 20mg tablet - product
-12010501000001114,87101000001103,indoramin 25mg tablet - product
-12010901000001118,60001000001102,prazosin hydrochloride 500micrograms+1mg tablet starter pack - product
-12011001000001110,335001000001101,prazosin hydrochloride 500micrograms tablet - product
-12011101000001111,182301000001109,prazosin hydrochloride 1mg tablet - product
-12011201000001116,253801000001101,prazosin hydrochloride 2mg tablet - product
-12011301000001113,324401000001107,prazosin hydrochloride 5mg tablet - product
-12011401000001117,753101000001101,terazosin 5mg tablet - product
-12011501000001118,801201000001104,terazosin 10mg tablet - product
-12011601000001119,549701000001104,terazosin 1mg+2mg tablet starter pack - product
-12011701000001112,41001000001100,terazosin 2mg tablet - product
-12011801000001115,441301000001106,doxazosin 1mg tablet - product
-12011901000001114,510901000001104,doxazosin 2mg tablet - product
-12012001000001118,3874301000001109,doxazosin 8mg m/r tablet - product
-12012101000001117,3874201000001100,doxazosin 4mg m/r tablet - product
-12230801000001114,3642801000001102,terazosin 1mg+2mg+5mg tablet starter pack - product
-14632501000001119,3561011000001102,indoramin hydrochloride (substance)
-14632601000001115,3561011000001102,indoramin hydrochloride
-14810101000001111,3560911000001105,indoramin (substance)
-14810201000001116,3560911000001105,indoramin
-14814501000001111,3576411000001106,prazosin (substance)
-14814601000001110,3576411000001106,prazosin
-14817501000001119,3582911000001106,terazosin (substance)
-14817601000001115,3582911000001106,terazosin
-14835501000001117,3576511000001105,prazosin hydrochloride (substance)
-14835601000001118,3576511000001105,prazosin hydrochloride
-14918701000001118,3583011000001103,terazosin hydrochloride (substance)
-14918801000001110,3583011000001103,terazosin hydrochloride
-15010301000001117,3909211000001103,terazosin 1mg tablets (product)
-15010401000001113,3909211000001103,terazosin 1mg tablets
-15010501000001112,3909311000001106,terazosin 2mg tablets and terazosin 1mg tablets (product)
-15010601000001111,3909311000001106,terazosin 2mg tablets and terazosin 1mg tablets
-15053701000001116,4078311000001100,prazosin 1mg tablets and prazosin 500microgram tablets (product)
-15053801000001113,4078311000001100,prazosin 1mg tablets and prazosin 500microgram tablets
-15601901000001115,8671611000001108,prazosin 1mg/5ml oral solution (product)
-15602001000001111,8671611000001108,prazosin 1mg/5ml oral solution
-15602101000001112,8671811000001107,prazosin 2mg/5ml oral solution (product)
-15602201000001117,8671811000001107,prazosin 2mg/5ml oral solution
-15602301000001114,8671711000001104,prazosin 1mg/5ml oral suspension (product)
-15602401000001118,8671711000001104,prazosin 1mg/5ml oral suspension
-15602501000001119,8671911000001102,prazosin 2mg/5ml oral suspension (product)
-15602601000001115,8671911000001102,prazosin 2mg/5ml oral suspension
-15787501000001111,8483511000001102,doxazosin 4mg/5ml oral suspension (product)
-15787601000001110,8483511000001102,doxazosin 4mg/5ml oral suspension
-15787901000001115,8483311000001108,doxazosin 16mg/5ml oral suspension (product)
-15788001000001118,8483311000001108,doxazosin 16mg/5ml oral suspension
-15788901000001119,8483411000001101,doxazosin 1mg/5ml oral suspension (product)
-15789001000001112,8483411000001101,doxazosin 1mg/5ml oral suspension
-16259301000001114,647711000001101,doxazosin 1mg tablets (approved prescription services) (product)
-16260101000001113,462611000001100,doxazosin 1mg tablets (sandoz ltd) (product)
-16260201000001118,462611000001100,doxazosin 1mg tablets (sandoz ltd)
-16260301000001110,870611000001103,doxazosin 1mg tablets (unichem plc) (product)
-16260501000001115,228711000001100,doxazosin 1mg tablets (a a h pharmaceuticals ltd) (product)
-16260601000001116,228711000001100,doxazosin 1mg tablets (a a h pharmaceuticals ltd)
-16260701000001114,854611000001108,doxazosin 1mg tablets (ivax pharmaceuticals uk ltd) (product)
-16260801000001117,854611000001108,doxazosin 1mg tablets (ivax pharmaceuticals uk ltd)
-16262101000001112,481211000001106,doxazosin 2mg tablets (approved prescription services) (product)
-16262501000001119,464711000001104,doxazosin 2mg tablets (sandoz ltd) (product)
-16262601000001115,464711000001104,doxazosin 2mg tablets (sandoz ltd)
-16262701000001113,559911000001102,doxazosin 2mg tablets (sterwin medicines) (product)
-16262801000001116,559911000001102,doxazosin 2mg tablets (sterwin medicines)
-16263301000001115,430311000001102,doxazosin 2mg tablets (unichem plc) (product)
-16263501000001110,554711000001100,doxazosin 2mg tablets (a a h pharmaceuticals ltd) (product)
-16263601000001114,554711000001100,doxazosin 2mg tablets (a a h pharmaceuticals ltd)
-16263901000001119,840911000001105,doxazosin 2mg tablets (ivax pharmaceuticals uk ltd) (product)
-16264001000001116,840911000001105,doxazosin 2mg tablets (ivax pharmaceuticals uk ltd)
-16264101000001115,664711000001102,doxazosin 2mg tablets (ranbaxy (uk) ltd) (product)
-16264201000001110,664711000001102,doxazosin 2mg tablets (ranbaxy (uk) ltd)
-16266701000001112,653011000001107,doxazosin 4mg tablets (approved prescription services) (product)
-16298701000001114,761311000001108,doxazosin 4mg tablets (sandoz ltd) (product)
-16298801000001117,761311000001108,doxazosin 4mg tablets (sandoz ltd)
-16298901000001111,709511000001100,doxazosin 4mg tablets (sterwin medicines) (product)
-16299001000001118,709511000001100,doxazosin 4mg tablets (sterwin medicines)
-16299101000001117,578111000001109,doxazosin 4mg tablets (unichem plc) (product)
-16299701000001116,588211000001106,doxazosin 4mg tablets (a a h pharmaceuticals ltd) (product)
-16299801000001113,588211000001106,doxazosin 4mg tablets (a a h pharmaceuticals ltd)
-16301301000001111,525011000001104,doxazosin 4mg tablets (ivax pharmaceuticals uk ltd) (product)
-16301401000001115,525011000001104,doxazosin 4mg tablets (ivax pharmaceuticals uk ltd)
-16301501000001116,857111000001105,doxazosin 4mg tablets (ranbaxy (uk) ltd) (product)
-16301601000001117,857111000001105,doxazosin 4mg tablets (ranbaxy (uk) ltd)
-16501701000001113,89711000001108,prazosin 500microgram tablets (a a h pharmaceuticals ltd) (product)
-16501801000001116,89711000001108,prazosin 500microgram tablets (a a h pharmaceuticals ltd)
-16502301000001116,259311000001106,prazosin 500microgram tablets (the boots company) (product)
-16503301000001110,898711000001102,prazosin 500microgram tablets (ivax pharmaceuticals uk ltd) (product)
-16503401000001119,898711000001102,prazosin 500microgram tablets (ivax pharmaceuticals uk ltd)
-16536101000001110,778311000001107,prazosin 1mg tablets (a a h pharmaceuticals ltd) (product)
-16536201000001115,778311000001107,prazosin 1mg tablets (a a h pharmaceuticals ltd)
-16537101000001113,83811000001102,prazosin 1mg tablets (the boots company) (product)
-16537501000001115,559411000001105,prazosin 1mg tablets (ivax pharmaceuticals uk ltd) (product)
-16537601000001116,559411000001105,prazosin 1mg tablets (ivax pharmaceuticals uk ltd)
-16538701000001110,739211000001106,prazosin 5mg tablets (a a h pharmaceuticals ltd) (product)
-16538801000001118,739211000001106,prazosin 5mg tablets (a a h pharmaceuticals ltd)
-16539101000001118,342511000001100,prazosin 5mg tablets (the boots company) (product)
-16539301000001116,849411000001107,prazosin 5mg tablets (ivax pharmaceuticals uk ltd) (product)
-16539401000001112,849411000001107,prazosin 5mg tablets (ivax pharmaceuticals uk ltd)
-16539901000001115,603711000001100,prazosin 2mg tablets (a a h pharmaceuticals ltd) (product)
-16540001000001110,603711000001100,prazosin 2mg tablets (a a h pharmaceuticals ltd)
-16541101000001116,171211000001100,prazosin 2mg tablets (the boots company) (product)
-16541501000001114,703511000001102,prazosin 2mg tablets (ivax pharmaceuticals uk ltd) (product)
-16541601000001113,703511000001102,prazosin 2mg tablets (ivax pharmaceuticals uk ltd)
-17271901000001110,3147311000001105,terazosin 2mg tablets (a a h pharmaceuticals ltd) (product)
-17272001000001119,3147311000001105,terazosin 2mg tablets (a a h pharmaceuticals ltd)
-17272501000001111,3148211000001103,terazosin 2mg tablets (approved prescription services) (product)
-17273301000001110,3149511000001106,terazosin 2mg tablets (unichem plc) (product)
-17274101000001110,3150511000001100,terazosin 10mg tablets (a a h pharmaceuticals ltd) (product)
-17274201000001115,3150511000001100,terazosin 10mg tablets (a a h pharmaceuticals ltd)
-17274701000001111,3151411000001108,terazosin 10mg tablets (approved prescription services) (product)
-17275901000001112,3153011000001103,terazosin 10mg tablets (unichem plc) (product)
-17276301000001117,3153511000001106,terazosin 5mg tablets (a a h pharmaceuticals ltd) (product)
-17276401000001113,3153511000001106,terazosin 5mg tablets (a a h pharmaceuticals ltd)
-17278101000001115,3155911000001103,terazosin 5mg tablets (approved prescription services) (product)
-17279501000001118,3157711000001106,terazosin 5mg tablets (unichem plc) (product)
-17747101000001114,4250111000001105,doxazosin 1mg tablets (alpharma limited) (product)
-17947901000001118,4576811000001106,terazosin 2mg tablets (ivax pharmaceuticals uk ltd) (product)
-17948001000001116,4576811000001106,terazosin 2mg tablets (ivax pharmaceuticals uk ltd)
-17948101000001115,4577111000001101,terazosin 5mg tablets (ivax pharmaceuticals uk ltd) (product)
-17948201000001110,4577111000001101,terazosin 5mg tablets (ivax pharmaceuticals uk ltd)
-17948301000001118,4577311000001104,terazosin 10mg tablets (ivax pharmaceuticals uk ltd) (product)
-17948401000001114,4577311000001104,terazosin 10mg tablets (ivax pharmaceuticals uk ltd)
-18109101000001112,3960511000001109,terazosin 2mg tablets (alpharma limited) (product)
-18109501000001119,3960911000001102,terazosin 5mg tablets (alpharma limited) (product)
-18109901000001110,3961411000001101,terazosin 10mg tablets (alpharma limited) (product)
-18153301000001116,4469911000001108,doxazosin 1mg tablets (sterwin medicines) (product)
-18153401000001112,4469911000001108,doxazosin 1mg tablets (sterwin medicines)
-18568301000001111,5456811000001106,terazosin 5mg tablets (pi) (dowelhurst ltd) (product)
-18592501000001116,5467311000001106,terazosin 2mg tablets (pi) (dowelhurst ltd) (product)
-20763901000001118,8094511000001106,indoramin 20mg tablets (unichem plc) (product)
-20884501000001111,8648411000001104,prazosin 1mg/5ml oral solution (special order) (product)
-20884601000001110,8648411000001104,prazosin 1mg/5ml oral solution (special order)
-20884701000001117,8648711000001105,prazosin 2mg/5ml oral solution (special order) (product)
-20884801000001114,8648711000001105,prazosin 2mg/5ml oral solution (special order)
-20884901000001115,8649011000001103,prazosin 1mg/5ml oral suspension (special order) (product)
-20885001000001115,8649011000001103,prazosin 1mg/5ml oral suspension (special order)
-20885301000001117,8649311000001100,prazosin 2mg/5ml oral suspension (special order) (product)
-20885401000001113,8649311000001100,prazosin 2mg/5ml oral suspension (special order)
-21014101000001112,8457811000001101,doxazosin 4mg/5ml oral suspension (special order) (product)
-21014501000001119,8458411000001104,doxazosin 16mg/5ml oral suspension (special order) (product)
-21014601000001115,8458411000001104,doxazosin 16mg/5ml oral suspension (special order)
-21015501000001118,8459911000001104,doxazosin 1mg/5ml oral suspension (special order) (product)
-21712901000001115,3957511000001103,terazosin 5mg tablets 7 tablet (product)
-21713001000001112,3957511000001103,terazosin 5mg tablets 7 tablet
-21713301000001110,3956811000001102,terazosin 2mg tablets 14 tablet (product)
-21713401000001119,3956811000001102,terazosin 2mg tablets 14 tablet
-21739101000001116,3902811000001107,terazosin 2mg tablets and terazosin 1mg tablets 28 tablet (product)
-21739201000001111,3902811000001107,terazosin 2mg tablets and terazosin 1mg tablets 28 tablet
-21739301000001119,3902611000001108,terazosin 2mg tablets 21 tablet (product)
-21739401000001110,3902611000001108,terazosin 2mg tablets 21 tablet
-21739501000001114,3902311000001103,terazosin 1mg tablets 7 tablet (product)
-21739601000001113,3902311000001103,terazosin 1mg tablets 7 tablet
-21888301000001118,4073311000001108,prazosin 1mg tablets and prazosin 500microgram tablets 40 tablet (product)
-21888401000001114,4073311000001108,prazosin 1mg tablets and prazosin 500microgram tablets 40 tablet
-21888501000001113,4073111000001106,prazosin 1mg tablets 32 tablet (product)
-21888601000001112,4073111000001106,prazosin 1mg tablets 32 tablet
-21888701000001119,4072911000001102,prazosin 500microgram tablets 8 tablet (product)
-21888801000001111,4072911000001102,prazosin 500microgram tablets 8 tablet
-21980501000001115,965411000001108,prazosin 2mg tablets 56 tablet (product)
-21980601000001116,965411000001108,prazosin 2mg tablets 56 tablet
-21980901000001111,1318011000001101,prazosin 5mg tablets 56 tablet (product)
-21981001000001119,1318011000001101,prazosin 5mg tablets 56 tablet
-21981101000001118,1217311000001107,prazosin 1mg tablets 56 tablet (product)
-21981201000001113,1217311000001107,prazosin 1mg tablets 56 tablet
-21983901000001119,1161811000001109,prazosin 500microgram tablets 56 tablet (product)
-21984001000001116,1161811000001109,prazosin 500microgram tablets 56 tablet
-21998901000001114,1048711000001109,doxazosin 4mg tablets 28 tablet (product)
-21999001000001116,1048711000001109,doxazosin 4mg tablets 28 tablet
-21999501000001113,1213511000001106,doxazosin 2mg tablets 28 tablet (product)
-21999601000001112,1213511000001106,doxazosin 2mg tablets 28 tablet
-22000301000001116,1097511000001107,doxazosin 1mg tablets 28 tablet (product)
-22000401000001112,1097511000001107,doxazosin 1mg tablets 28 tablet
-22033301000001115,1256111000001101,doxazosin 8mg modified-release tablets 28 tablet (product)
-22033401000001111,1256111000001101,doxazosin 8mg modified-release tablets 28 tablet
-22061501000001116,1288111000001109,doxazosin 4mg modified-release tablets 28 tablet (product)
-22061601000001117,1288111000001109,doxazosin 4mg modified-release tablets 28 tablet
-22088701000001119,3689011000001106,indoramin 25mg tablets 84 tablet (product)
-22088801000001111,3689011000001106,indoramin 25mg tablets 84 tablet
-22213301000001117,3153411000001107,terazosin 5mg tablets 28 tablet (product)
-22213401000001113,3153411000001107,terazosin 5mg tablets 28 tablet
-22214701000001116,3150411000001104,terazosin 10mg tablets 28 tablet (product)
-22214801000001113,3150411000001104,terazosin 10mg tablets 28 tablet
-22216301000001110,3146811000001103,terazosin 2mg tablets 28 tablet (product)
-22216401000001119,3146811000001103,terazosin 2mg tablets 28 tablet
-22357101000001114,3354311000001105,indoramin 20mg tablets 60 tablet (product)
-22357201000001119,3354311000001105,indoramin 20mg tablets 60 tablet
-22942901000001117,5456611000001107,terazosin 5mg tablets 30 tablet (product)
-22943001000001114,5456611000001107,terazosin 5mg tablets 30 tablet
-23058901000001119,5346511000001103,doxazosin 2mg tablets 30 tablet (product)
-23059001000001112,5346511000001103,doxazosin 2mg tablets 30 tablet
-23138101000001110,8649211000001108,prazosin 2mg/5ml oral suspension 1 ml (product)
-23138201000001115,8649211000001108,prazosin 2mg/5ml oral suspension 1 ml
-23138301000001112,8648911000001107,prazosin 1mg/5ml oral suspension 1 ml (product)
-23138401000001116,8648911000001107,prazosin 1mg/5ml oral suspension 1 ml
-23138501000001117,8648611000001101,prazosin 2mg/5ml oral solution 1 ml (product)
-23138601000001118,8648611000001101,prazosin 2mg/5ml oral solution 1 ml
-23138701000001111,8648311000001106,prazosin 1mg/5ml oral solution 1 ml (product)
-23138801000001119,8648311000001106,prazosin 1mg/5ml oral solution 1 ml
-23451101000001118,8459611000001105,doxazosin 1mg/5ml oral suspension 1 ml (product)
-23451201000001113,8459611000001105,doxazosin 1mg/5ml oral suspension 1 ml
-23452101000001112,8458211000001103,doxazosin 16mg/5ml oral suspension 1 ml (product)
-23452201000001117,8458211000001103,doxazosin 16mg/5ml oral suspension 1 ml
-23452501000001119,8457711000001109,doxazosin 4mg/5ml oral suspension 1 ml (product)
-23452601000001115,8457711000001109,doxazosin 4mg/5ml oral suspension 1 ml
-23689701000001113,8457911000001106,doxazosin 4mg/5ml oral suspension (special order) 1 ml (product)
-23690101000001117,8458711000001105,doxazosin 16mg/5ml oral suspension (special order) 1 ml (product)
-23690201000001112,8458711000001105,doxazosin 16mg/5ml oral suspension (special order) 1 ml
-23691101000001112,8460011000001102,doxazosin 1mg/5ml oral suspension (special order) 1 ml (product)
-23863701000001116,8648511000001100,prazosin 1mg/5ml oral solution (special order) 1 ml (product)
-23863801000001113,8648511000001100,prazosin 1mg/5ml oral solution (special order) 1 ml
-23863901000001119,8648811000001102,prazosin 2mg/5ml oral solution (special order) 1 ml (product)
-23864001000001116,8648811000001102,prazosin 2mg/5ml oral solution (special order) 1 ml
-23864101000001115,8649411000001107,prazosin 1mg/5ml oral suspension (special order) 1 ml (product)
-23864201000001110,8649411000001107,prazosin 1mg/5ml oral suspension (special order) 1 ml
-23864301000001118,8649511000001106,prazosin 2mg/5ml oral suspension (special order) 1 ml (product)
-23864401000001114,8649511000001106,prazosin 2mg/5ml oral suspension (special order) 1 ml
-24159301000001116,1504811000001100,prazosin 500microgram tablets (a a h pharmaceuticals ltd) 56 tablet 4 x 14 tablets (product)
-24159401000001112,1504811000001100,prazosin 500microgram tablets (a a h pharmaceuticals ltd) 56 tablet 4 x 14 tablets
-24160701000001116,1505511000001102,prazosin 500microgram tablets (the boots company) 56 tablet (product)
-24161101000001112,1505711000001107,prazosin 500microgram tablets (ivax pharmaceuticals uk ltd) 56 tablet 4 x 14 tablets (product)
-24161201000001117,1505711000001107,prazosin 500microgram tablets (ivax pharmaceuticals uk ltd) 56 tablet 4 x 14 tablets
-24203901000001113,1509011000001107,prazosin 1mg tablets (a a h pharmaceuticals ltd) 56 tablet 4 x 14 tablets (product)
-24204001000001111,1509011000001107,prazosin 1mg tablets (a a h pharmaceuticals ltd) 56 tablet 4 x 14 tablets
-24204701000001113,1509411000001103,prazosin 1mg tablets (the boots company) 56 tablet (product)
-24205301000001113,1509711000001109,prazosin 1mg tablets (ivax pharmaceuticals uk ltd) 56 tablet 4 x 14 tablets (product)
-24205401000001117,1509711000001109,prazosin 1mg tablets (ivax pharmaceuticals uk ltd) 56 tablet 4 x 14 tablets
-24207301000001116,1510711000001104,prazosin 5mg tablets (a a h pharmaceuticals ltd) 56 tablet 4 x 14 tablets (product)
-24207401000001112,1510711000001104,prazosin 5mg tablets (a a h pharmaceuticals ltd) 56 tablet 4 x 14 tablets
-24207701000001117,1510911000001102,prazosin 5mg tablets (the boots company) 56 tablet (product)
-24207901000001115,1511011000001105,prazosin 5mg tablets (ivax pharmaceuticals uk ltd) 56 tablet 4 x 14 tablets (product)
-24208001000001118,1511011000001105,prazosin 5mg tablets (ivax pharmaceuticals uk ltd) 56 tablet 4 x 14 tablets
-24208501000001110,1511311000001108,prazosin 2mg tablets (a a h pharmaceuticals ltd) 56 tablet 4 x 14 tablets (product)
-24208601000001114,1511311000001108,prazosin 2mg tablets (a a h pharmaceuticals ltd) 56 tablet 4 x 14 tablets
-24209701000001114,1511911000001109,prazosin 2mg tablets (the boots company) 56 tablet (product)
-24210101000001116,1512111000001101,prazosin 2mg tablets (ivax pharmaceuticals uk ltd) 56 tablet 4 x 14 tablets (product)
-24210201000001111,1512111000001101,prazosin 2mg tablets (ivax pharmaceuticals uk ltd) 56 tablet 4 x 14 tablets
-24619101000001113,1467911000001108,doxazosin 1mg tablets (approved prescription services) 28 tablet 2 x 14 tablets (product)
-24619901000001111,1468311000001108,doxazosin 1mg tablets (sandoz ltd) 28 tablet 2 x 14 tablets (product)
-24620001000001113,1468311000001108,doxazosin 1mg tablets (sandoz ltd) 28 tablet 2 x 14 tablets
-24620301000001111,1468511000001102,doxazosin 1mg tablets (unichem plc) 28 tablet 2 x 14 tablets (product)
-24620701000001110,1468711000001107,doxazosin 1mg tablets (a a h pharmaceuticals ltd) 28 tablet 2 x 14 tablets (product)
-24620801000001118,1468711000001107,doxazosin 1mg tablets (a a h pharmaceuticals ltd) 28 tablet 2 x 14 tablets
-24620901000001112,1468811000001104,doxazosin 1mg tablets (ivax pharmaceuticals uk ltd) 28 tablet 2 x 14 tablets (product)
-24621001000001115,1468811000001104,doxazosin 1mg tablets (ivax pharmaceuticals uk ltd) 28 tablet 2 x 14 tablets
-24622501000001115,1469611000001107,doxazosin 2mg tablets (approved prescription services) 28 tablet 2 x 14 tablets (product)
-24623101000001118,1469911000001101,doxazosin 2mg tablets (sandoz ltd) 28 tablet 2 x 14 tablets (product)
-24623201000001113,1469911000001101,doxazosin 2mg tablets (sandoz ltd) 28 tablet 2 x 14 tablets
-24623301000001116,1470011000001102,doxazosin 2mg tablets (sterwin medicines) 28 tablet (product)
-24623401000001112,1470011000001102,doxazosin 2mg tablets (sterwin medicines) 28 tablet
-24659701000001118,1470311000001104,doxazosin 2mg tablets (unichem plc) 28 tablet 2 x 14 tablets (product)
-24660101000001118,1470511000001105,doxazosin 2mg tablets (a a h pharmaceuticals ltd) 28 tablet (product)
-24660301000001116,1470611000001109,doxazosin 2mg tablets (ivax pharmaceuticals uk ltd) 28 tablet 4 x 7 tablets (product)
-24660401000001112,1470611000001109,doxazosin 2mg tablets (ivax pharmaceuticals uk ltd) 28 tablet 4 x 7 tablets
-24660701000001117,1470811000001108,doxazosin 2mg tablets (ranbaxy (uk) ltd) 28 tablet 2 x 14 tablets (product)
-24660801000001114,1470811000001108,doxazosin 2mg tablets (ranbaxy (uk) ltd) 28 tablet 2 x 14 tablets
-24663501000001116,1472211000001108,doxazosin 4mg tablets (approved prescription services) 28 tablet 2 x 14 tablets (product)
-24663901000001112,1472411000001107,doxazosin 4mg tablets (sandoz ltd) 28 tablet 2 x 14 tablets (product)
-24664001000001110,1472411000001107,doxazosin 4mg tablets (sandoz ltd) 28 tablet 2 x 14 tablets
-24664501000001118,1472711000001101,doxazosin 4mg tablets (sterwin medicines) 28 tablet 2 x 14 tablets (product)
-24664601000001119,1472711000001101,doxazosin 4mg tablets (sterwin medicines) 28 tablet 2 x 14 tablets
-24664901000001114,1472911000001104,doxazosin 4mg tablets (unichem plc) 28 tablet 2 x 14 tablets (product)
-24665101000001110,1473011000001107,doxazosin 4mg tablets (a a h pharmaceuticals ltd) 28 tablet (product)
-24667101000001117,1474011000001109,doxazosin 4mg tablets (ivax pharmaceuticals uk ltd) 28 tablet 4 x 7 tablets (product)
-24667201000001112,1474011000001109,doxazosin 4mg tablets (ivax pharmaceuticals uk ltd) 28 tablet 4 x 7 tablets
-24667501000001110,1474211000001104,doxazosin 4mg tablets (ranbaxy (uk) ltd) 28 tablet 2 x 14 tablets (product)
-24667601000001114,1474211000001104,doxazosin 4mg tablets (ranbaxy (uk) ltd) 28 tablet 2 x 14 tablets
-25653301000001114,3147511000001104,terazosin 2mg tablets (a a h pharmaceuticals ltd) 28 tablet 2 x 14 tablets (product)
-25653401000001118,3147511000001104,terazosin 2mg tablets (a a h pharmaceuticals ltd) 28 tablet 2 x 14 tablets
-25653901000001110,3148311000001106,terazosin 2mg tablets (approved prescription services) 28 tablet 2 x 14 tablets (product)
-25654901000001112,3149711000001101,terazosin 2mg tablets (unichem plc) 28 tablet (product)
-25655901000001111,3150711000001105,terazosin 10mg tablets (a a h pharmaceuticals ltd) 28 tablet 2 x 14 tablets (product)
-25656001000001119,3150711000001105,terazosin 10mg tablets (a a h pharmaceuticals ltd) 28 tablet 2 x 14 tablets
-25656501000001111,3151711000001102,terazosin 10mg tablets (approved prescription services) 28 tablet 2 x 14 tablets (product)
-25657901000001117,3153211000001108,terazosin 10mg tablets (unichem plc) 28 tablet (product)
-25658301000001117,3153711000001101,terazosin 5mg tablets (a a h pharmaceuticals ltd) 28 tablet 2 x 14 tablets (product)
-25658401000001113,3153711000001101,terazosin 5mg tablets (a a h pharmaceuticals ltd) 28 tablet 2 x 14 tablets
-25660501000001118,3156211000001101,terazosin 5mg tablets (approved prescription services) 28 tablet 2 x 14 tablets (product)
-25661901000001118,3158011000001105,terazosin 5mg tablets (unichem plc) 28 tablet (product)
-26454501000001116,4470011000001107,doxazosin 1mg tablets (sterwin medicines) 28 tablet 4 x 7 tablets (product)
-26454601000001117,4470011000001107,doxazosin 1mg tablets (sterwin medicines) 28 tablet 4 x 7 tablets
-26645701000001114,3960711000001104,terazosin 2mg tablets (alpharma limited) 28 tablet 2 x 14 tablets (product)
-26646101000001118,3961111000001106,terazosin 5mg tablets (alpharma limited) 28 tablet 2 x 14 tablets (product)
-26646501000001111,3961711000001107,terazosin 10mg tablets (alpharma limited) 28 tablet 2 x 14 tablets (product)
-26657501000001111,4250211000001104,doxazosin 1mg tablets (alpharma limited) 28 tablet 2 x 14 tablets (product)
-26758301000001112,4577011000001102,terazosin 2mg tablets (ivax pharmaceuticals uk ltd) 28 tablet 2 x 14 tablets (product)
-26758401000001116,4577011000001102,terazosin 2mg tablets (ivax pharmaceuticals uk ltd) 28 tablet 2 x 14 tablets
-26758501000001117,4577211000001107,terazosin 5mg tablets (ivax pharmaceuticals uk ltd) 28 tablet 2 x 14 tablets (product)
-26758601000001118,4577211000001107,terazosin 5mg tablets (ivax pharmaceuticals uk ltd) 28 tablet 2 x 14 tablets
-26758701000001111,4577411000001106,terazosin 10mg tablets (ivax pharmaceuticals uk ltd) 28 tablet 2 x 14 tablets (product)
-26758801000001119,4577411000001106,terazosin 10mg tablets (ivax pharmaceuticals uk ltd) 28 tablet 2 x 14 tablets
-27634301000001111,5456911000001101,terazosin 5mg tablets (pi) (dowelhurst ltd) 30 tablet 2 x 15 tablets (product)
-27643701000001114,5467411000001104,terazosin 2mg tablets (pi) (dowelhurst ltd) 28 tablet 2 x 14 tablets (product)
-27643901000001111,5467511000001100,terazosin 2mg tablets (pi) (dowelhurst ltd) 14 tablet (product)
-27644101000001110,5467611000001101,terazosin 2mg tablets (pi) (dowelhurst ltd) 28 tablet 2 x 14 tablets (product)
-27644201000001115,5467611000001101,terazosin 2mg tablets (pi) (dowelhurst ltd) 28 tablet 2 x 14 tablets
-29903301000001110,9050311000001103,indoramin 20mg tablets (a a h pharmaceuticals ltd) (product)
-29903401000001119,9050311000001103,indoramin 20mg tablets (a a h pharmaceuticals ltd)
-29926301000001114,9050411000001105,indoramin 20mg tablets (a a h pharmaceuticals ltd) 60 tablet (product)
-29926401000001118,9050411000001105,indoramin 20mg tablets (a a h pharmaceuticals ltd) 60 tablet
-31303301000001113,9696911000001102,terazosin 2mg tablets (sandoz ltd) (product)
-31303401000001117,9696911000001102,terazosin 2mg tablets (sandoz ltd)
-31303501000001118,9698111000001101,terazosin 5mg tablets (sandoz ltd) (product)
-31303601000001119,9698111000001101,terazosin 5mg tablets (sandoz ltd)
-31303701000001112,9698511000001105,terazosin 10mg tablets (sandoz ltd) (product)
-31303801000001115,9698511000001105,terazosin 10mg tablets (sandoz ltd)
-31310501000001110,9697111000001102,terazosin 2mg tablets (sandoz ltd) 28 tablet 2 x 14 tablets (product)
-31310601000001114,9697111000001102,terazosin 2mg tablets (sandoz ltd) 28 tablet 2 x 14 tablets
-31310701000001116,9698311000001104,terazosin 5mg tablets (sandoz ltd) 28 tablet 2 x 14 tablets (product)
-31310801000001113,9698311000001104,terazosin 5mg tablets (sandoz ltd) 28 tablet 2 x 14 tablets
-31310901000001119,9698611000001109,terazosin 10mg tablets (sandoz ltd) 28 tablet 2 x 14 tablets (product)
-31311001000001111,9698611000001109,terazosin 10mg tablets (sandoz ltd) 28 tablet 2 x 14 tablets
-31584501000001117,9792611000001102,doxazosin 1mg tablets (almus pharmaceutical ltd) (product)
-31584901000001113,9792911000001108,doxazosin 2mg tablets (almus pharmaceutical ltd) (product)
-31585301000001111,9793211000001105,doxazosin 4mg tablets (almus pharmaceutical ltd) (product)
-31662301000001112,9792711000001106,doxazosin 1mg tablets (almus pharmaceutical ltd) 28 tablet 2 x 14 tablets (product)
-31662501000001117,9793011000001100,doxazosin 2mg tablets (almus pharmaceutical ltd) 28 tablet 2 x 14 tablets (product)
-31662701000001111,9793311000001102,doxazosin 4mg tablets (almus pharmaceutical ltd) 28 tablet 2 x 14 tablets (product)
-35488701000001112,10292911000001101,terazosin 5mg tablets (focus pharmaceuticals ltd) 28 tablet (product)
-35488801000001115,10292911000001101,terazosin 5mg tablets (focus pharmaceuticals ltd) 28 tablet
-35489501000001113,10293411000001100,terazosin 2mg tablets (focus pharmaceuticals ltd) 28 tablet (product)
-35489601000001112,10293411000001100,terazosin 2mg tablets (focus pharmaceuticals ltd) 28 tablet
-35490501000001117,10294211000001101,terazosin 10mg tablets (focus pharmaceuticals ltd) 28 tablet (product)
-35490601000001118,10294211000001101,terazosin 10mg tablets (focus pharmaceuticals ltd) 28 tablet
-35507101000001116,10292711000001103,terazosin 5mg tablets (focus pharmaceuticals ltd) (product)
-35507201000001111,10292711000001103,terazosin 5mg tablets (focus pharmaceuticals ltd)
-35507501000001114,10293311000001107,terazosin 2mg tablets (focus pharmaceuticals ltd) (product)
-35507601000001113,10293311000001107,terazosin 2mg tablets (focus pharmaceuticals ltd)
-35508101000001115,10294011000001106,terazosin 10mg tablets (focus pharmaceuticals ltd) (product)
-35508201000001110,10294011000001106,terazosin 10mg tablets (focus pharmaceuticals ltd)
-35664701000001116,10402811000001109,doxazosin 1mg tablets (arrow generics ltd) (product)
-35664801000001113,10402811000001109,doxazosin 1mg tablets (arrow generics ltd)
-35664901000001119,10403011000001107,doxazosin 2mg tablets (arrow generics ltd) (product)
-35665001000001119,10403011000001107,doxazosin 2mg tablets (arrow generics ltd)
-35665301000001116,10403311000001105,doxazosin 4mg tablets (arrow generics ltd) (product)
-35665401000001112,10403311000001105,doxazosin 4mg tablets (arrow generics ltd)
-35695301000001119,10402911000001104,doxazosin 1mg tablets (arrow generics ltd) 28 tablet (product)
-35695401000001110,10402911000001104,doxazosin 1mg tablets (arrow generics ltd) 28 tablet
-35695501000001114,10403111000001108,doxazosin 2mg tablets (arrow generics ltd) 28 tablet (product)
-35695601000001113,10403111000001108,doxazosin 2mg tablets (arrow generics ltd) 28 tablet
-35695901000001118,10403511000001104,doxazosin 4mg tablets (arrow generics ltd) 28 tablet (product)
-35696001000001110,10403511000001104,doxazosin 4mg tablets (arrow generics ltd) 28 tablet
-35720501000001117,10412611000001107,terazosin 2mg tablets (arrow generics ltd) (product)
-35720601000001118,10412611000001107,terazosin 2mg tablets (arrow generics ltd)
-35720901000001113,10413011000001109,terazosin 5mg tablets (arrow generics ltd) (product)
-35721001000001116,10413011000001109,terazosin 5mg tablets (arrow generics ltd)
-35721101000001115,10413211000001104,terazosin 10mg tablets (arrow generics ltd) (product)
-35721201000001110,10413211000001104,terazosin 10mg tablets (arrow generics ltd)
-35775301000001117,10412811000001106,terazosin 2mg tablets (arrow generics ltd) 28 tablet (product)
-35775401000001113,10412811000001106,terazosin 2mg tablets (arrow generics ltd) 28 tablet
-35775701000001118,10413111000001105,terazosin 5mg tablets (arrow generics ltd) 28 tablet (product)
-35775801000001110,10413111000001105,terazosin 5mg tablets (arrow generics ltd) 28 tablet
-35775901000001116,10413311000001107,terazosin 10mg tablets (arrow generics ltd) 28 tablet (product)
-35776001000001113,10413311000001107,terazosin 10mg tablets (arrow generics ltd) 28 tablet
-37779901000001118,481211000001106,doxazosin 2mg tablets (teva uk ltd)
-37807801000001110,647711000001101,doxazosin 1mg tablets (teva uk ltd)
-37808801000001114,653011000001107,doxazosin 4mg tablets (teva uk ltd)
-37924501000001117,1467911000001108,doxazosin 1mg tablets (teva uk ltd) 28 tablet 2 x 14 tablets
-37924901000001113,1469611000001107,doxazosin 2mg tablets (teva uk ltd) 28 tablet 2 x 14 tablets
-37925801000001118,1472211000001108,doxazosin 4mg tablets (teva uk ltd) 28 tablet 2 x 14 tablets
-38161801000001116,3148211000001103,terazosin 2mg tablets (teva uk ltd)
-38161901000001110,3148311000001106,terazosin 2mg tablets (teva uk ltd) 28 tablet 2 x 14 tablets
-38162601000001110,3151411000001108,terazosin 10mg tablets (teva uk ltd)
-38162701000001117,3151711000001102,terazosin 10mg tablets (teva uk ltd) 28 tablet 2 x 14 tablets
-38163201000001118,3155911000001103,terazosin 5mg tablets (teva uk ltd)
-38163301000001110,3156211000001101,terazosin 5mg tablets (teva uk ltd) 28 tablet 2 x 14 tablets
-38315401000001114,3960511000001109,terazosin 2mg tablets (actavis uk ltd)
-38315501000001113,3960711000001104,terazosin 2mg tablets (actavis uk ltd) 28 tablet 2 x 14 tablets
-38315701000001119,3960911000001102,terazosin 5mg tablets (actavis uk ltd)
-38315801000001111,3961111000001106,terazosin 5mg tablets (actavis uk ltd) 28 tablet 2 x 14 tablets
-38315901000001117,3961411000001101,terazosin 10mg tablets (actavis uk ltd)
-38316001000001114,3961711000001107,terazosin 10mg tablets (actavis uk ltd) 28 tablet 2 x 14 tablets
-38380901000001113,4250111000001105,doxazosin 1mg tablets (actavis uk ltd)
-38381001000001116,4250211000001104,doxazosin 1mg tablets (actavis uk ltd) 28 tablet 2 x 14 tablets
-38702401000001115,5456811000001106,terazosin 5mg tablets (dowelhurst ltd)
-38710301000001110,5467311000001106,terazosin 2mg tablets (dowelhurst ltd)
-38710501000001115,5467511000001100,terazosin 2mg tablets (dowelhurst ltd) 14 tablet
-40990401000001111,9792611000001102,doxazosin 1mg tablets (almus pharmaceuticals ltd)
-40990501000001110,9792711000001106,doxazosin 1mg tablets (almus pharmaceuticals ltd) 28 tablet 2 x 14 tablets
-40990701000001116,9792911000001108,doxazosin 2mg tablets (almus pharmaceuticals ltd)
-40990801000001113,9793011000001100,doxazosin 2mg tablets (almus pharmaceuticals ltd) 28 tablet 2 x 14 tablets
-40991001000001111,9793211000001105,doxazosin 4mg tablets (almus pharmaceuticals ltd)
-40991101000001112,9793311000001102,doxazosin 4mg tablets (almus pharmaceuticals ltd) 28 tablet 2 x 14 tablets
-41107001000001112,83811000001102,prazosin 1mg tablets (the boots company plc)
-41117701000001112,171211000001100,prazosin 2mg tablets (the boots company plc)
-41126701000001116,259311000001106,prazosin 500microgram tablets (the boots company plc)
-41135601000001117,342511000001100,prazosin 5mg tablets (the boots company plc)
-41229101000001111,1505511000001102,prazosin 500microgram tablets (the boots company plc) 56 tablet
-41229901000001114,1509411000001103,prazosin 1mg tablets (the boots company plc) 56 tablet
-41230501000001112,1510911000001102,prazosin 5mg tablets (the boots company plc) 56 tablet
-41230601000001111,1511911000001109,prazosin 2mg tablets (the boots company plc) 56 tablet
-42338701000001113,11554511000001109,doxazosin 1mg tablets (dexcel-pharma ltd) (product)
-42338801000001116,11554511000001109,doxazosin 1mg tablets (dexcel-pharma ltd)
-42338901000001110,11554711000001104,doxazosin 2mg tablets (dexcel-pharma ltd) (product)
-42339001000001117,11554711000001104,doxazosin 2mg tablets (dexcel-pharma ltd)
-42339101000001116,11554911000001102,doxazosin 4mg tablets (dexcel-pharma ltd) (product)
-42339201000001111,11554911000001102,doxazosin 4mg tablets (dexcel-pharma ltd)
-42347101000001110,11554611000001108,doxazosin 1mg tablets (dexcel-pharma ltd) 28 tablet (product)
-42347301000001112,11554811000001107,doxazosin 2mg tablets (dexcel-pharma ltd) 28 tablet (product)
-42347501000001117,11555011000001102,doxazosin 4mg tablets (dexcel-pharma ltd) 28 tablet (product)
-42369901000001113,11554611000001108,doxazosin 1mg tablets (dexcel-pharma ltd) 28 tablet 2 x 14 tablets
-42370001000001112,11554811000001107,doxazosin 2mg tablets (dexcel-pharma ltd) 28 tablet 2 x 14 tablets
-42370101000001113,11555011000001102,doxazosin 4mg tablets (dexcel-pharma ltd) 28 tablet 2 x 14 tablets
-42860801000001114,11769611000001101,prazosin 500microgram tablets 60 tablet (product)
-42860901000001115,11769611000001101,prazosin 500microgram tablets 60 tablet
-42861001000001112,11769411000001104,prazosin 1mg tablets 60 tablet (product)
-42861101000001113,11769411000001104,prazosin 1mg tablets 60 tablet
-43648501000001115,12083311000001109,doxazosin 2.5mg/5ml oral solution (product)
-43648601000001116,12083311000001109,doxazosin 2.5mg/5ml oral solution
-43648701000001114,12083411000001102,doxazosin 2.5mg/5ml oral suspension (product)
-43648801000001117,12083411000001102,doxazosin 2.5mg/5ml oral suspension
-43648901000001111,12083511000001103,doxazosin 2mg/5ml oral solution (product)
-43649001000001118,12083511000001103,doxazosin 2mg/5ml oral solution
-43649101000001117,12083611000001104,doxazosin 2mg/5ml oral suspension (product)
-43649201000001112,12083611000001104,doxazosin 2mg/5ml oral suspension
-43649301000001115,12083711000001108,doxazosin 3mg/5ml oral solution (product)
-43649401000001111,12083711000001108,doxazosin 3mg/5ml oral solution
-43649501000001110,12083811000001100,doxazosin 3mg/5ml oral suspension (product)
-43649601000001114,12083811000001100,doxazosin 3mg/5ml oral suspension
-43649701000001116,12083911000001105,doxazosin 500micrograms/5ml oral solution (product)
-43649801000001113,12083911000001105,doxazosin 500micrograms/5ml oral solution
-43649901000001119,12084011000001108,doxazosin 500micrograms/5ml oral suspension (product)
-43650001000001112,12084011000001108,doxazosin 500micrograms/5ml oral suspension
-43650101000001113,12084111000001109,doxazosin 5mg/5ml oral solution (product)
-43650201000001118,12084111000001109,doxazosin 5mg/5ml oral solution
-43650301000001110,12084211000001103,doxazosin 5mg/5ml oral suspension (product)
-43650401000001119,12084211000001103,doxazosin 5mg/5ml oral suspension
-43650501000001115,12084311000001106,doxazosin 6mg/5ml oral solution (product)
-43650601000001116,12084311000001106,doxazosin 6mg/5ml oral solution
-43650701000001114,12084411000001104,doxazosin 6mg/5ml oral suspension (product)
-43650801000001117,12084411000001104,doxazosin 6mg/5ml oral suspension
-43650901000001111,12084511000001100,doxazosin 80mg/5ml oral solution (product)
-43651001000001119,12084511000001100,doxazosin 80mg/5ml oral solution
-43651101000001118,12084611000001101,doxazosin 80mg/5ml oral suspension (product)
-43651201000001113,12084611000001101,doxazosin 80mg/5ml oral suspension
-43651301000001116,12084711000001105,doxazosin 8mg/5ml oral solution (product)
-43651401000001112,12084711000001105,doxazosin 8mg/5ml oral solution
-43651501000001111,12084811000001102,doxazosin 8mg/5ml oral suspension (product)
-43651601000001110,12084811000001102,doxazosin 8mg/5ml oral suspension
-43684101000001114,12064211000001100,doxazosin 2.5mg/5ml oral suspension (special order) (product)
-43684201000001119,12064211000001100,doxazosin 2.5mg/5ml oral suspension (special order)
-43684301000001111,12064511000001102,doxazosin 2.5mg/5ml oral solution (special order) (product)
-43684401000001115,12064511000001102,doxazosin 2.5mg/5ml oral solution (special order)
-43684501000001116,12064811000001104,doxazosin 2mg/5ml oral suspension (special order) (product)
-43684601000001117,12064811000001104,doxazosin 2mg/5ml oral suspension (special order)
-43684701000001110,12065111000001105,doxazosin 2mg/5ml oral solution (special order) (product)
-43684801000001118,12065111000001105,doxazosin 2mg/5ml oral solution (special order)
-43684901000001112,12065411000001100,doxazosin 3mg/5ml oral suspension (special order) (product)
-43685001000001112,12065411000001100,doxazosin 3mg/5ml oral suspension (special order)
-43685101000001113,12065711000001106,doxazosin 3mg/5ml oral solution (special order) (product)
-43685201000001118,12065711000001106,doxazosin 3mg/5ml oral solution (special order)
-43685301000001110,12066011000001100,doxazosin 500micrograms/5ml oral suspension (special order) (product)
-43685401000001119,12066011000001100,doxazosin 500micrograms/5ml oral suspension (special order)
-43685501000001115,12066311000001102,doxazosin 500micrograms/5ml oral solution (special order) (product)
-43685601000001116,12066311000001102,doxazosin 500micrograms/5ml oral solution (special order)
-43685701000001114,12066611000001107,doxazosin 5mg/5ml oral suspension (special order) (product)
-43685801000001117,12066611000001107,doxazosin 5mg/5ml oral suspension (special order)
-43685901000001111,12067011000001102,doxazosin 5mg/5ml oral solution (special order) (product)
-43686001000001119,12067011000001102,doxazosin 5mg/5ml oral solution (special order)
-43686301000001116,12067611000001109,doxazosin 6mg/5ml oral suspension (special order) (product)
-43686401000001112,12067611000001109,doxazosin 6mg/5ml oral suspension (special order)
-43686701000001117,12068111000001100,doxazosin 6mg/5ml oral solution (special order) (product)
-43686801000001114,12068111000001100,doxazosin 6mg/5ml oral solution (special order)
-43687501000001113,12069411000001102,doxazosin 80mg/5ml oral suspension (special order) (product)
-43687601000001112,12069411000001102,doxazosin 80mg/5ml oral suspension (special order)
-43687901000001117,12070011000001109,doxazosin 80mg/5ml oral solution (special order) (product)
-43688001000001115,12070011000001109,doxazosin 80mg/5ml oral solution (special order)
-43688701000001118,12071011000001100,doxazosin 8mg/5ml oral suspension (special order) (product)
-43688801000001110,12071011000001100,doxazosin 8mg/5ml oral suspension (special order)
-43688901000001116,12071311000001102,doxazosin 8mg/5ml oral solution (special order) (product)
-43689001000001114,12071311000001102,doxazosin 8mg/5ml oral solution (special order)
-43709301000001119,12071211000001105,doxazosin 8mg/5ml oral solution 1 ml (product)
-43709401000001110,12071211000001105,doxazosin 8mg/5ml oral solution 1 ml
-43709501000001114,12070811000001103,doxazosin 8mg/5ml oral suspension 1 ml (product)
-43709601000001113,12070811000001103,doxazosin 8mg/5ml oral suspension 1 ml
-43710301000001110,12069811000001100,doxazosin 80mg/5ml oral solution 1 ml (product)
-43710401000001119,12069811000001100,doxazosin 80mg/5ml oral solution 1 ml
-43710701000001114,12069111000001107,doxazosin 80mg/5ml oral suspension 1 ml (product)
-43710801000001117,12069111000001107,doxazosin 80mg/5ml oral suspension 1 ml
-43711501000001111,12068011000001101,doxazosin 6mg/5ml oral solution 1 ml (product)
-43711601000001110,12068011000001101,doxazosin 6mg/5ml oral solution 1 ml
-43711901000001115,12067311000001104,doxazosin 6mg/5ml oral suspension 1 ml (product)
-43712001000001111,12067311000001104,doxazosin 6mg/5ml oral suspension 1 ml
-43712301000001114,12066811000001106,doxazosin 5mg/5ml oral solution 1 ml (product)
-43712401000001118,12066811000001106,doxazosin 5mg/5ml oral solution 1 ml
-43712501000001119,12066511000001108,doxazosin 5mg/5ml oral suspension 1 ml (product)
-43712601000001115,12066511000001108,doxazosin 5mg/5ml oral suspension 1 ml
-43712701000001113,12066211000001105,doxazosin 500micrograms/5ml oral solution 1 ml (product)
-43712801000001116,12066211000001105,doxazosin 500micrograms/5ml oral solution 1 ml
-43712901000001110,12065911000001108,doxazosin 500micrograms/5ml oral suspension 1 ml (product)
-43713001000001118,12065911000001108,doxazosin 500micrograms/5ml oral suspension 1 ml
-43713101000001117,12065611000001102,doxazosin 3mg/5ml oral solution 1 ml (product)
-43713201000001112,12065611000001102,doxazosin 3mg/5ml oral solution 1 ml
-43713301000001115,12065311000001107,doxazosin 3mg/5ml oral suspension 1 ml (product)
-43713401000001111,12065311000001107,doxazosin 3mg/5ml oral suspension 1 ml
-43713501000001110,12065011000001109,doxazosin 2mg/5ml oral solution 1 ml (product)
-43713601000001114,12065011000001109,doxazosin 2mg/5ml oral solution 1 ml
-43713701000001116,12064711000001107,doxazosin 2mg/5ml oral suspension 1 ml (product)
-43713801000001113,12064711000001107,doxazosin 2mg/5ml oral suspension 1 ml
-43713901000001119,12064411000001101,doxazosin 2.5mg/5ml oral solution 1 ml (product)
-43714001000001116,12064411000001101,doxazosin 2.5mg/5ml oral solution 1 ml
-43714101000001115,12064111000001106,doxazosin 2.5mg/5ml oral suspension 1 ml (product)
-43714201000001110,12064111000001106,doxazosin 2.5mg/5ml oral suspension 1 ml
-43746101000001118,12064311000001108,doxazosin 2.5mg/5ml oral suspension (special order) 1 ml (product)
-43746201000001113,12064311000001108,doxazosin 2.5mg/5ml oral suspension (special order) 1 ml
-43746301000001116,12064611000001103,doxazosin 2.5mg/5ml oral solution (special order) 1 ml (product)
-43746401000001112,12064611000001103,doxazosin 2.5mg/5ml oral solution (special order) 1 ml
-43746501000001111,12064911000001109,doxazosin 2mg/5ml oral suspension (special order) 1 ml (product)
-43746601000001110,12064911000001109,doxazosin 2mg/5ml oral suspension (special order) 1 ml
-43746701000001117,12065211000001104,doxazosin 2mg/5ml oral solution (special order) 1 ml (product)
-43746801000001114,12065211000001104,doxazosin 2mg/5ml oral solution (special order) 1 ml
-43746901000001115,12065511000001101,doxazosin 3mg/5ml oral suspension (special order) 1 ml (product)
-43747001000001116,12065511000001101,doxazosin 3mg/5ml oral suspension (special order) 1 ml
-43747101000001115,12065811000001103,doxazosin 3mg/5ml oral solution (special order) 1 ml (product)
-43747201000001110,12065811000001103,doxazosin 3mg/5ml oral solution (special order) 1 ml
-43747301000001118,12066111000001104,doxazosin 500micrograms/5ml oral suspension (special order) 1 ml (product)
-43747401000001114,12066111000001104,doxazosin 500micrograms/5ml oral suspension (special order) 1 ml
-43747501000001113,12066411000001109,doxazosin 500micrograms/5ml oral solution (special order) 1 ml (product)
-43747601000001112,12066411000001109,doxazosin 500micrograms/5ml oral solution (special order) 1 ml
-43747701000001119,12066711000001103,doxazosin 5mg/5ml oral suspension (special order) 1 ml (product)
-43747801000001111,12066711000001103,doxazosin 5mg/5ml oral suspension (special order) 1 ml
-43747901000001117,12067211000001107,doxazosin 5mg/5ml oral solution (special order) 1 ml (product)
-43748001000001115,12067211000001107,doxazosin 5mg/5ml oral solution (special order) 1 ml
-43748301000001117,12067811000001108,doxazosin 6mg/5ml oral suspension (special order) 1 ml (product)
-43748401000001113,12067811000001108,doxazosin 6mg/5ml oral suspension (special order) 1 ml
-43748701000001118,12068211000001106,doxazosin 6mg/5ml oral solution (special order) 1 ml (product)
-43748801000001110,12068211000001106,doxazosin 6mg/5ml oral solution (special order) 1 ml
-43749501000001117,12069611000001104,doxazosin 80mg/5ml oral suspension (special order) 1 ml (product)
-43749601000001118,12069611000001104,doxazosin 80mg/5ml oral suspension (special order) 1 ml
-43749901000001113,12070211000001104,doxazosin 80mg/5ml oral solution (special order) 1 ml (product)
-43750001000001115,12070211000001104,doxazosin 80mg/5ml oral solution (special order) 1 ml
-43750501000001112,12071111000001104,doxazosin 8mg/5ml oral suspension (special order) 1 ml (product)
-43750601000001111,12071111000001104,doxazosin 8mg/5ml oral suspension (special order) 1 ml
-43750701000001118,12071411000001109,doxazosin 8mg/5ml oral solution (special order) 1 ml (product)
-43750801000001110,12071411000001109,doxazosin 8mg/5ml oral solution (special order) 1 ml
-45851301000001119,13077811000001106,prazosin 250micrograms/5ml oral solution (product)
-45851401000001110,13077811000001106,prazosin 250micrograms/5ml oral solution
-45851501000001114,13077911000001101,prazosin 250micrograms/5ml oral suspension (product)
-45851601000001113,13077911000001101,prazosin 250micrograms/5ml oral suspension
-45851701000001115,13078011000001104,prazosin 500micrograms/5ml oral solution (product)
-45851801000001112,13078011000001104,prazosin 500micrograms/5ml oral solution
-45851901000001118,13078111000001103,prazosin 500micrograms/5ml oral suspension (product)
-45852001000001114,13078111000001103,prazosin 500micrograms/5ml oral suspension
-45885301000001113,13050211000001108,prazosin 250micrograms/5ml oral suspension (special order) (product)
-45885401000001117,13050211000001108,prazosin 250micrograms/5ml oral suspension (special order)
-45885701000001112,13050811000001109,prazosin 250micrograms/5ml oral solution (special order) (product)
-45885801000001115,13050811000001109,prazosin 250micrograms/5ml oral solution (special order)
-45886301000001119,13051711000001109,prazosin 500micrograms/5ml oral suspension (special order) (product)
-45886401000001110,13051711000001109,prazosin 500micrograms/5ml oral suspension (special order)
-45886701000001115,13052311000001101,prazosin 500micrograms/5ml oral solution (special order) (product)
-45886801000001112,13052311000001101,prazosin 500micrograms/5ml oral solution (special order)
-45917901000001111,13052211000001109,prazosin 500micrograms/5ml oral solution 1 ml (product)
-45918001000001113,13052211000001109,prazosin 500micrograms/5ml oral solution 1 ml
-45918301000001111,13051611000001100,prazosin 500micrograms/5ml oral suspension 1 ml (product)
-45918401000001115,13051611000001100,prazosin 500micrograms/5ml oral suspension 1 ml
-45918901000001112,13050711000001101,prazosin 250micrograms/5ml oral solution 1 ml (product)
-45919001000001119,13050711000001101,prazosin 250micrograms/5ml oral solution 1 ml
-45919301000001116,13050111000001102,prazosin 250micrograms/5ml oral suspension 1 ml (product)
-45919401000001112,13050111000001102,prazosin 250micrograms/5ml oral suspension 1 ml
-45953301000001111,13050311000001100,prazosin 250micrograms/5ml oral suspension (special order) 1 ml (product)
-45953401000001115,13050311000001100,prazosin 250micrograms/5ml oral suspension (special order) 1 ml
-45953701000001110,13050911000001104,prazosin 250micrograms/5ml oral solution (special order) 1 ml (product)
-45953801000001118,13050911000001104,prazosin 250micrograms/5ml oral solution (special order) 1 ml
-45954301000001113,13051811000001101,prazosin 500micrograms/5ml oral suspension (special order) 1 ml (product)
-45954401000001117,13051811000001101,prazosin 500micrograms/5ml oral suspension (special order) 1 ml
-45954701000001112,13052411000001108,prazosin 500micrograms/5ml oral solution (special order) 1 ml (product)
-45954801000001115,13052411000001108,prazosin 500micrograms/5ml oral solution (special order) 1 ml
-46615301000001117,318778006,terazosin 2mg tablets and terazosin 1mg tablets
-50003301000001110,14013011000001104,doxazosin 4mg capsules (product)
-50003401000001119,14013011000001104,doxazosin 4mg capsules
-50019101000001113,13975011000001100,doxazosin 4mg capsules (special order) (product)
-50019201000001118,13975011000001100,doxazosin 4mg capsules (special order)
-50049501000001110,13974911000001100,doxazosin 4mg capsules 1 capsule (product)
-50049601000001114,13974911000001100,doxazosin 4mg capsules 1 capsule
-50082301000001115,13975111000001104,doxazosin 4mg capsules (special order) 1 capsule (product)
-50082401000001111,13975111000001104,doxazosin 4mg capsules (special order) 1 capsule
-50142101000001116,14117111000001100,doxazosin 4mg tablets (consilient health ltd) (product)
-50142201000001111,14117111000001100,doxazosin 4mg tablets (consilient health ltd)
-50145901000001110,14116711000001102,doxazosin 2mg tablets (consilient health ltd) (product)
-50146001000001118,14116711000001102,doxazosin 2mg tablets (consilient health ltd)
-50169101000001119,14117011000001101,doxazosin 2mg tablets (consilient health ltd) 28 tablet (product)
-50169201000001114,14117011000001101,doxazosin 2mg tablets (consilient health ltd) 28 tablet
-50173101000001112,14117211000001106,doxazosin 4mg tablets (consilient health ltd) 28 tablet (product)
-50173201000001117,14117211000001106,doxazosin 4mg tablets (consilient health ltd) 28 tablet
-50668301000001111,14345011000001105,doxazosin 4mg modified-release tablets 98 tablet (product)
-50668401000001115,14345011000001105,doxazosin 4mg modified-release tablets 98 tablet
-50668501000001116,14341711000001105,doxazosin 2mg tablets 14 tablet (product)
-50668601000001117,14341711000001105,doxazosin 2mg tablets 14 tablet
-51860601000001117,5456911000001101,terazosin 5mg tablets (dowelhurst ltd) 30 tablet
-51897201000001118,5467411000001104,terazosin 2mg tablets (dowelhurst ltd) 28 tablet
-53275601000001119,15083211000001104,doxazosin 4mg tablets (sigma pharmaceuticals plc) (product)
-53275701000001112,15083211000001104,doxazosin 4mg tablets (sigma pharmaceuticals plc)
-53285401000001110,15082811000001106,doxazosin 1mg tablets (sigma pharmaceuticals plc) (product)
-53285501000001114,15082811000001106,doxazosin 1mg tablets (sigma pharmaceuticals plc)
-53318201000001112,15083011000001109,doxazosin 2mg tablets (sigma pharmaceuticals plc) (product)
-53318301000001115,15083011000001109,doxazosin 2mg tablets (sigma pharmaceuticals plc)
-53348601000001116,15082911000001101,doxazosin 1mg tablets (sigma pharmaceuticals plc) 28 tablet (product)
-53348701000001114,15082911000001101,doxazosin 1mg tablets (sigma pharmaceuticals plc) 28 tablet
-53348801000001117,15083311000001107,doxazosin 4mg tablets (sigma pharmaceuticals plc) 28 tablet (product)
-53348901000001111,15083311000001107,doxazosin 4mg tablets (sigma pharmaceuticals plc) 28 tablet
-53385601000001116,15083111000001105,doxazosin 2mg tablets (sigma pharmaceuticals plc) 28 tablet (product)
-53385701000001114,15083111000001105,doxazosin 2mg tablets (sigma pharmaceuticals plc) 28 tablet
-53426201000001111,15102011000001105,indoramin 20mg tablets (sigma pharmaceuticals plc) (product)
-53426301000001119,15102011000001105,indoramin 20mg tablets (sigma pharmaceuticals plc)
-53468001000001111,15102111000001106,indoramin 20mg tablets (sigma pharmaceuticals plc) 60 tablet (product)
-53468101000001112,15102111000001106,indoramin 20mg tablets (sigma pharmaceuticals plc) 60 tablet
-53769301000001113,15229411000001101,terazosin 2mg tablets (sigma pharmaceuticals plc) (product)
-53769401000001117,15229411000001101,terazosin 2mg tablets (sigma pharmaceuticals plc)
-53769501000001118,15229611000001103,terazosin 5mg tablets (sigma pharmaceuticals plc) (product)
-53769601000001119,15229611000001103,terazosin 5mg tablets (sigma pharmaceuticals plc)
-53773701000001117,15229211000001100,terazosin 10mg tablets (sigma pharmaceuticals plc) (product)
-53773801000001114,15229211000001100,terazosin 10mg tablets (sigma pharmaceuticals plc)
-53787701000001118,15229311000001108,terazosin 10mg tablets (sigma pharmaceuticals plc) 28 tablet (product)
-53787801000001110,15229311000001108,terazosin 10mg tablets (sigma pharmaceuticals plc) 28 tablet
-53792301000001118,15229511000001102,terazosin 2mg tablets (sigma pharmaceuticals plc) 28 tablet (product)
-53792401000001114,15229511000001102,terazosin 2mg tablets (sigma pharmaceuticals plc) 28 tablet
-53795101000001111,15229711000001107,terazosin 5mg tablets (sigma pharmaceuticals plc) 28 tablet (product)
-53795201000001116,15229711000001107,terazosin 5mg tablets (sigma pharmaceuticals plc) 28 tablet
-54372701000001112,870611000001103,doxazosin 1mg tablets (alliance healthcare (distribution) ltd)
-54375701000001119,1468511000001102,doxazosin 1mg tablets (alliance healthcare (distribution) ltd) 28 tablet 2 x 14 tablets
-54375801000001111,1470311000001104,doxazosin 2mg tablets (alliance healthcare (distribution) ltd) 28 tablet 2 x 14 tablets
-54375901000001117,1472911000001104,doxazosin 4mg tablets (alliance healthcare (distribution) ltd) 28 tablet 2 x 14 tablets
-54383201000001119,3153011000001103,terazosin 10mg tablets (alliance healthcare (distribution) ltd)
-54383301000001111,3153211000001108,terazosin 10mg tablets (alliance healthcare (distribution) ltd) 28 tablet
-54449301000001110,430311000001102,doxazosin 2mg tablets (alliance healthcare (distribution) ltd)
-54540801000001115,3157711000001106,terazosin 5mg tablets (alliance healthcare (distribution) ltd)
-54554901000001117,8094511000001106,indoramin 20mg tablets (alliance healthcare (distribution) ltd)
-54578501000001119,3149511000001106,terazosin 2mg tablets (alliance healthcare (distribution) ltd)
-54578601000001115,3158011000001105,terazosin 5mg tablets (alliance healthcare (distribution) ltd) 28 tablet
-54605401000001113,578111000001109,doxazosin 4mg tablets (alliance healthcare (distribution) ltd)
-54658501000001111,3149711000001101,terazosin 2mg tablets (alliance healthcare (distribution) ltd) 28 tablet
-56456201000001115,15976011000001104,terazosin 2mg tablets (zanza laboratories ltd) (product)
-56456401000001116,15976211000001109,terazosin 5mg tablets (zanza laboratories ltd) (product)
-56456601000001118,15976411000001108,terazosin 10mg tablets (zanza laboratories ltd) (product)
-56533601000001116,15976111000001103,terazosin 2mg tablets (zanza laboratories ltd) 28 tablet 2 x 14 tablets (product)
-56533801000001117,15976311000001101,terazosin 5mg tablets (zanza laboratories ltd) 28 tablet 2 x 14 tablets (product)
-56534001000001114,15976511000001107,terazosin 10mg tablets (zanza laboratories ltd) 28 tablet 2 x 14 tablets (product)
-56622001000001113,16049611000001105,doxazosin 1mg tablets (bristol laboratories ltd) (product)
-56622101000001114,16049611000001105,doxazosin 1mg tablets (bristol laboratories ltd)
-56622201000001119,16049911000001104,doxazosin 2mg tablets (bristol laboratories ltd) (product)
-56622301000001111,16049911000001104,doxazosin 2mg tablets (bristol laboratories ltd)
-56622401000001115,16050211000001103,doxazosin 4mg tablets (bristol laboratories ltd) (product)
-56622501000001116,16050211000001103,doxazosin 4mg tablets (bristol laboratories ltd)
-56651801000001110,16049811000001109,doxazosin 1mg tablets (bristol laboratories ltd) 28 tablet 2 x 14 tablets (product)
-56651901000001116,16049811000001109,doxazosin 1mg tablets (bristol laboratories ltd) 28 tablet 2 x 14 tablets
-56652001000001112,16050011000001108,doxazosin 2mg tablets (bristol laboratories ltd) 28 tablet 2 x 14 tablets (product)
-56652101000001113,16050011000001108,doxazosin 2mg tablets (bristol laboratories ltd) 28 tablet 2 x 14 tablets
-56652201000001118,16050311000001106,doxazosin 4mg tablets (bristol laboratories ltd) 28 tablet 2 x 14 tablets (product)
-56652301000001110,16050311000001106,doxazosin 4mg tablets (bristol laboratories ltd) 28 tablet 2 x 14 tablets
-56974701000001118,318739007,indoramin 20mg tablets
-56974801000001110,318740009,indoramin 25mg tablets
-59738101000001111,17198011000001109,doxazosin 1mg tablets (sovereign medical ltd) (product)
-59738201000001116,17198011000001109,doxazosin 1mg tablets (sovereign medical ltd)
-59738301000001113,17198311000001107,doxazosin 2mg tablets (sovereign medical ltd) (product)
-59738401000001117,17198311000001107,doxazosin 2mg tablets (sovereign medical ltd)
-59738501000001118,17198511000001101,doxazosin 4mg tablets (sovereign medical ltd) (product)
-59738601000001119,17198511000001101,doxazosin 4mg tablets (sovereign medical ltd)
-59841901000001118,17198111000001105,doxazosin 1mg tablets (sovereign medical ltd) 28 tablet 2 x 14 tablets (product)
-59842001000001114,17198111000001105,doxazosin 1mg tablets (sovereign medical ltd) 28 tablet 2 x 14 tablets
-59842101000001110,17198411000001100,doxazosin 2mg tablets (sovereign medical ltd) 28 tablet 2 x 14 tablets (product)
-59842201000001115,17198411000001100,doxazosin 2mg tablets (sovereign medical ltd) 28 tablet 2 x 14 tablets
-59842301000001112,17198611000001102,doxazosin 4mg tablets (sovereign medical ltd) 28 tablet 2 x 14 tablets (product)
-59842401000001116,17198611000001102,doxazosin 4mg tablets (sovereign medical ltd) 28 tablet 2 x 14 tablets
-61342801000001111,17813411000001103,terazosin 2mg tablets (phoenix healthcare distribution ltd) (product)
-61342901000001117,17813411000001103,terazosin 2mg tablets (phoenix healthcare distribution ltd)
-61343401000001116,17814311000001107,terazosin 5mg tablets (phoenix healthcare distribution ltd) (product)
-61343501000001117,17814311000001107,terazosin 5mg tablets (phoenix healthcare distribution ltd)
-61343601000001118,17814711000001106,terazosin 10mg tablets (phoenix healthcare distribution ltd) (product)
-61343701000001111,17814711000001106,terazosin 10mg tablets (phoenix healthcare distribution ltd)
-61381401000001113,17813611000001100,terazosin 2mg tablets (phoenix healthcare distribution ltd) 28 tablet (product)
-61381501000001112,17813611000001100,terazosin 2mg tablets (phoenix healthcare distribution ltd) 28 tablet
-61382001000001112,17814511000001101,terazosin 5mg tablets (phoenix healthcare distribution ltd) 28 tablet (product)
-61382101000001113,17814511000001101,terazosin 5mg tablets (phoenix healthcare distribution ltd) 28 tablet
-61382201000001118,17815011000001108,terazosin 10mg tablets (phoenix healthcare distribution ltd) 28 tablet (product)
-61382301000001110,17815011000001108,terazosin 10mg tablets (phoenix healthcare distribution ltd) 28 tablet
-61434601000001113,17894011000001105,doxazosin 1mg tablets (phoenix healthcare distribution ltd) (product)
-61434701000001115,17894011000001105,doxazosin 1mg tablets (phoenix healthcare distribution ltd)
-61434801000001112,17894211000001100,doxazosin 2mg tablets (phoenix healthcare distribution ltd) (product)
-61434901000001118,17894211000001100,doxazosin 2mg tablets (phoenix healthcare distribution ltd)
-61435001000001118,17894411000001101,doxazosin 4mg tablets (phoenix healthcare distribution ltd) (product)
-61435101000001117,17894411000001101,doxazosin 4mg tablets (phoenix healthcare distribution ltd)
-61493601000001116,17894111000001106,doxazosin 1mg tablets (phoenix healthcare distribution ltd) 28 tablet (product)
-61493701000001114,17894111000001106,doxazosin 1mg tablets (phoenix healthcare distribution ltd) 28 tablet
-61493801000001117,17894311000001108,doxazosin 2mg tablets (phoenix healthcare distribution ltd) 28 tablet (product)
-61493901000001111,17894311000001108,doxazosin 2mg tablets (phoenix healthcare distribution ltd) 28 tablet
-61494001000001114,17894511000001102,doxazosin 4mg tablets (phoenix healthcare distribution ltd) 28 tablet (product)
-61494101000001110,17894511000001102,doxazosin 4mg tablets (phoenix healthcare distribution ltd) 28 tablet
-61671201000001114,17933011000001109,indoramin 20mg tablets (phoenix healthcare distribution ltd) (product)
-61671301000001117,17933011000001109,indoramin 20mg tablets (phoenix healthcare distribution ltd)
-61875801000001119,17934811000001100,indoramin 20mg tablets (phoenix healthcare distribution ltd) 60 tablet (product)
-61875901000001113,17934811000001100,indoramin 20mg tablets (phoenix healthcare distribution ltd) 60 tablet
-62033601000001115,18033611000001101,indoramin 25mg tablets (a a h pharmaceuticals ltd) (product)
-62033701000001113,18033611000001101,indoramin 25mg tablets (a a h pharmaceuticals ltd)
-62041001000001111,18033711000001105,indoramin 25mg tablets (a a h pharmaceuticals ltd) 84 tablet (product)
-62041101000001112,18033711000001105,indoramin 25mg tablets (a a h pharmaceuticals ltd) 84 tablet
-62229501000001113,18126411000001101,indoramin 25mg tablets (phoenix healthcare distribution ltd) (product)
-62229601000001112,18126411000001101,indoramin 25mg tablets (phoenix healthcare distribution ltd)
-62236501000001117,18126611000001103,indoramin 25mg tablets (phoenix healthcare distribution ltd) 84 tablet (product)
-62236601000001118,18126611000001103,indoramin 25mg tablets (phoenix healthcare distribution ltd) 84 tablet
-62532801000001111,18255411000001107,indoramin 25mg tablets (alliance healthcare (distribution) ltd) (product)
-62532901000001117,18255411000001107,indoramin 25mg tablets (alliance healthcare (distribution) ltd)
-62569401000001113,18255511000001106,indoramin 25mg tablets (alliance healthcare (distribution) ltd) 84 tablet (product)
-62569501000001112,18255511000001106,indoramin 25mg tablets (alliance healthcare (distribution) ltd) 84 tablet
-66653301000001117,19706111000001106,indoramin 25mg tablets (sovereign medical ltd) (product)
-66674301000001117,19706311000001108,indoramin 25mg tablets (sovereign medical ltd) 84 tablet (product)
-66732201000001113,19730311000001100,doxazosin 2mg tablets (medreich plc) (product)
-66732301000001116,19730311000001100,doxazosin 2mg tablets (medreich plc)
-66732401000001112,19730511000001106,doxazosin 4mg tablets (medreich plc) (product)
-66732501000001111,19730511000001106,doxazosin 4mg tablets (medreich plc)
-66787401000001115,19730411000001107,doxazosin 2mg tablets (medreich plc) 28 tablet (product)
-66787501000001116,19730411000001107,doxazosin 2mg tablets (medreich plc) 28 tablet
-66787601000001117,19730611000001105,doxazosin 4mg tablets (medreich plc) 28 tablet (product)
-66787701000001110,19730611000001105,doxazosin 4mg tablets (medreich plc) 28 tablet
-66887601000001119,19819211000001109,indoramin 20mg tablets (almus pharmaceuticals ltd) (product)
-66887701000001112,19819211000001109,indoramin 20mg tablets (almus pharmaceuticals ltd)
-66902201000001111,19819311000001101,indoramin 20mg tablets (almus pharmaceuticals ltd) 60 tablet (product)
-66902301000001119,19819311000001101,indoramin 20mg tablets (almus pharmaceuticals ltd) 60 tablet
-68348601000001118,20275711000001104,prazosin 5mg tablets (special order) (product)
-68348701000001111,20275711000001104,prazosin 5mg tablets (special order)
-68364401000001119,20280711000001102,prazosin 5mg tablets 100 tablet (product)
-68364501000001115,20280711000001102,prazosin 5mg tablets 100 tablet
-68366201000001112,20275611000001108,prazosin 5mg tablets 1 tablet (product)
-68366301000001115,20275611000001108,prazosin 5mg tablets 1 tablet
-68384601000001119,20275811000001107,prazosin 5mg tablets (special order) 1 tablet (product)
-68384701000001112,20275811000001107,prazosin 5mg tablets (special order) 1 tablet
-69149601000001117,20506211000001104,doxazosin 4mg/5ml oral suspension 100 ml (product)
-69149701000001110,20506211000001104,doxazosin 4mg/5ml oral suspension 100 ml
-69159401000001118,20506311000001107,doxazosin 4mg/5ml oral suspension (special order) 100 ml (product)
-72699401000001119,21786411000001108,terazosin 2mg tablets (waymade healthcare plc) (product)
-72699501000001115,21786411000001108,terazosin 2mg tablets (waymade healthcare plc)
-72699601000001116,21786611000001106,terazosin 5mg tablets (waymade healthcare plc) (product)
-72699701000001114,21786611000001106,terazosin 5mg tablets (waymade healthcare plc)
-72866801000001117,21786511000001107,terazosin 2mg tablets (waymade healthcare plc) 28 tablet (product)
-72866901000001111,21786511000001107,terazosin 2mg tablets (waymade healthcare plc) 28 tablet
-72867001000001110,21786811000001105,terazosin 5mg tablets (waymade healthcare plc) 28 tablet (product)
-72867101000001111,21786811000001105,terazosin 5mg tablets (waymade healthcare plc) 28 tablet
-73137601000001113,22061811000001100,indoramin 20mg tablets (waymade healthcare plc) (product)
-73137701000001115,22061811000001100,indoramin 20mg tablets (waymade healthcare plc)
-73192201000001118,22062011000001103,indoramin 20mg tablets (waymade healthcare plc) 60 tablet (product)
-73192301000001110,22062011000001103,indoramin 20mg tablets (waymade healthcare plc) 60 tablet
-73600301000001113,22237211000001109,prazosin 2mg/5ml oral suspension 100 ml (product)
-73600401000001117,22237211000001109,prazosin 2mg/5ml oral suspension 100 ml
-73607101000001112,22237411000001108,prazosin 2mg/5ml oral suspension (special order) 100 ml (product)
-73607201000001117,22237411000001108,prazosin 2mg/5ml oral suspension (special order) 100 ml
-76736601000001112,23466611000001105,doxazosin 4mg/5ml oral solution (product)
-76736701000001119,23466611000001105,doxazosin 4mg/5ml oral solution
-76792601000001117,23391211000001106,doxazosin 4mg/5ml oral solution (drug tariff special order) (product)
-76792701000001110,23391211000001106,doxazosin 4mg/5ml oral solution (drug tariff special order)
-76810801000001117,23391511000001109,doxazosin 4mg/5ml oral suspension 150 ml (product)
-76810901000001111,23391511000001109,doxazosin 4mg/5ml oral suspension 150 ml
-76811001000001119,23391111000001100,doxazosin 4mg/5ml oral solution 150 ml (product)
-76811101000001118,23391111000001100,doxazosin 4mg/5ml oral solution 150 ml
-76811201000001113,23391011000001101,doxazosin 4mg/5ml oral solution 1 ml (product)
-76811301000001116,23391011000001101,doxazosin 4mg/5ml oral solution 1 ml
-76876601000001111,23391311000001103,doxazosin 4mg/5ml oral solution (drug tariff special order) 150 ml (product)
-76876701000001118,23391311000001103,doxazosin 4mg/5ml oral solution (drug tariff special order) 150 ml
-76876801000001110,23391411000001105,doxazosin 4mg/5ml oral solution (drug tariff special order) 1 ml (product)
-76876901000001116,23391411000001105,doxazosin 4mg/5ml oral solution (drug tariff special order) 1 ml
-76877001000001117,23391611000001108,doxazosin 4mg/5ml oral suspension (drug tariff special order) 150 ml (product)
-76877101000001116,23391611000001108,doxazosin 4mg/5ml oral suspension (drug tariff special order) 150 ml
-76910201000001113,8457911000001106,doxazosin 4mg/5ml oral suspension (drug tariff special order) 1 ml
-76914101000001111,20506311000001107,doxazosin 4mg/5ml oral suspension (drug tariff special order) 100 ml
-76915401000001116,8457811000001101,doxazosin 4mg/5ml oral suspension (drug tariff special order)
-76975301000001115,23591811000001109,doxazosin 1mg tablets (waymade healthcare plc) (product)
-76975401000001111,23591811000001109,doxazosin 1mg tablets (waymade healthcare plc)
-76975501000001110,23592011000001106,doxazosin 2mg tablets (waymade healthcare plc) (product)
-76975601000001114,23592011000001106,doxazosin 2mg tablets (waymade healthcare plc)
-76975701000001116,23592211000001101,doxazosin 4mg tablets (waymade healthcare plc) (product)
-76975801000001113,23592211000001101,doxazosin 4mg tablets (waymade healthcare plc)
-77001501000001113,23591911000001104,doxazosin 1mg tablets (waymade healthcare plc) 28 tablet (product)
-77001601000001112,23591911000001104,doxazosin 1mg tablets (waymade healthcare plc) 28 tablet
-77001701000001119,23592111000001107,doxazosin 2mg tablets (waymade healthcare plc) 28 tablet (product)
-77001801000001111,23592111000001107,doxazosin 2mg tablets (waymade healthcare plc) 28 tablet
-77001901000001117,23592311000001109,doxazosin 4mg tablets (waymade healthcare plc) 28 tablet (product)
-77002001000001113,23592311000001109,doxazosin 4mg tablets (waymade healthcare plc) 28 tablet
-77763501000001113,23970411000001101,doxazosin 1mg tablets (de pharmaceuticals) (product)
-77763601000001112,23970411000001101,doxazosin 1mg tablets (de pharmaceuticals)
-77763701000001119,23970611000001103,doxazosin 2mg tablets (de pharmaceuticals) (product)
-77763801000001111,23970611000001103,doxazosin 2mg tablets (de pharmaceuticals)
-77763901000001117,23970811000001104,doxazosin 4mg tablets (de pharmaceuticals) (product)
-77764001000001119,23970811000001104,doxazosin 4mg tablets (de pharmaceuticals)
-78022901000001110,23970511000001102,doxazosin 1mg tablets (de pharmaceuticals) 28 tablet (product)
-78023001000001118,23970511000001102,doxazosin 1mg tablets (de pharmaceuticals) 28 tablet
-78023101000001117,23970711000001107,doxazosin 2mg tablets (de pharmaceuticals) 28 tablet (product)
-78023201000001112,23970711000001107,doxazosin 2mg tablets (de pharmaceuticals) 28 tablet
-78023301000001115,23970911000001109,doxazosin 4mg tablets (de pharmaceuticals) 28 tablet (product)
-78023401000001111,23970911000001109,doxazosin 4mg tablets (de pharmaceuticals) 28 tablet
-78347001000001114,11993001000001104,terazosin 1mg tablets
-78387301000001116,11993001000001104,terazosin 1mg tablets
-78874501000001110,24176811000001103,indoramin 20mg tablets (de pharmaceuticals) (product)
-78874601000001114,24176811000001103,indoramin 20mg tablets (de pharmaceuticals)
-78892501000001114,24177011000001107,indoramin 20mg tablets (de pharmaceuticals) 60 tablet (product)
-78892601000001113,24177011000001107,indoramin 20mg tablets (de pharmaceuticals) 60 tablet
-79265401000001113,24509711000001103,doxazosin 1mg/5ml oral solution (product)
-79265501000001112,24509711000001103,doxazosin 1mg/5ml oral solution
-79423201000001115,24434511000001108,doxazosin 1mg/5ml oral solution (drug tariff special order) (product)
-79423301000001112,24434511000001108,doxazosin 1mg/5ml oral solution (drug tariff special order)
-79479801000001116,24434811000001106,doxazosin 1mg/5ml oral suspension 100 ml (product)
-79479901000001110,24434811000001106,doxazosin 1mg/5ml oral suspension 100 ml
-79480001000001111,24434411000001109,doxazosin 1mg/5ml oral solution 150 ml (product)
-79480101000001112,24434411000001109,doxazosin 1mg/5ml oral solution 150 ml
-79480201000001117,24434311000001102,doxazosin 1mg/5ml oral solution 1 ml (product)
-79480301000001114,24434311000001102,doxazosin 1mg/5ml oral solution 1 ml
-79642601000001113,24434611000001107,doxazosin 1mg/5ml oral solution (drug tariff special order) 1 ml (product)
-79642701000001115,24434611000001107,doxazosin 1mg/5ml oral solution (drug tariff special order) 1 ml
-79642801000001112,24434711000001103,doxazosin 1mg/5ml oral solution (drug tariff special order) 150 ml (product)
-79642901000001118,24434711000001103,doxazosin 1mg/5ml oral solution (drug tariff special order) 150 ml
-79643001000001110,24434911000001101,doxazosin 1mg/5ml oral suspension (drug tariff special order) 100 ml (product)
-79643101000001111,24434911000001101,doxazosin 1mg/5ml oral suspension (drug tariff special order) 100 ml
-79687201000001116,8459911000001104,doxazosin 1mg/5ml oral suspension (drug tariff special order)
-79710001000001119,8460011000001102,doxazosin 1mg/5ml oral suspension (drug tariff special order) 1 ml
-80112301000001111,24661211000001100,prazosin 2mg tablets 1 tablet (product)
-80112401000001115,24661211000001100,prazosin 2mg tablets 1 tablet
-87508301000001113,27881711000001109,prazosin 2mg tablets 100 tablet (product)
-87508401000001117,27881711000001109,prazosin 2mg tablets 100 tablet
-93890701000001115,30122411000001102,doxazosin 1mg tablets (mawdsley-brooks & company ltd) (product)
-93890801000001112,30122411000001102,doxazosin 1mg tablets (mawdsley-brooks & company ltd)
-93890901000001118,30122611000001104,doxazosin 2mg tablets (mawdsley-brooks & company ltd) (product)
-93891001000001110,30122611000001104,doxazosin 2mg tablets (mawdsley-brooks & company ltd)
-93891701000001112,30123811000001108,doxazosin 4mg tablets (mawdsley-brooks & company ltd) (product)
-93891801000001115,30123811000001108,doxazosin 4mg tablets (mawdsley-brooks & company ltd)
-93922701000001115,30122511000001103,doxazosin 1mg tablets (mawdsley-brooks & company ltd) 28 tablet (product)
-93922801000001112,30122511000001103,doxazosin 1mg tablets (mawdsley-brooks & company ltd) 28 tablet
-93923701000001112,30123711000001100,doxazosin 2mg tablets (mawdsley-brooks & company ltd) 28 tablet (product)
-93923801000001115,30123711000001100,doxazosin 2mg tablets (mawdsley-brooks & company ltd) 28 tablet
-93923901000001114,30123911000001103,doxazosin 4mg tablets (mawdsley-brooks & company ltd) 28 tablet (product)
-93924001000001112,30123911000001103,doxazosin 4mg tablets (mawdsley-brooks & company ltd) 28 tablet
-93956901000001115,30214111000001109,indoramin 20mg tablets (mawdsley-brooks & company ltd) (product)
-93957001000001116,30214111000001109,indoramin 20mg tablets (mawdsley-brooks & company ltd)
-93976101000001116,30214211000001103,indoramin 20mg tablets (mawdsley-brooks & company ltd) 60 tablet (product)
-93976201000001111,30214211000001103,indoramin 20mg tablets (mawdsley-brooks & company ltd) 60 tablet
-102653201000001114,33789311000001103,indoramin 20mg tablets (essential generics ltd) (product)
-102653301000001117,33789311000001103,indoramin 20mg tablets (essential generics ltd)
-102660401000001114,33789511000001109,indoramin 20mg tablets (essential generics ltd) 60 tablet 4 x 15 tablets (product)
-102660501000001113,33789511000001109,indoramin 20mg tablets (essential generics ltd) 60 tablet 4 x 15 tablets
-102707901000001111,1470511000001105,doxazosin 2mg tablets (a a h pharmaceuticals ltd) 28 tablet 2 x 14 tablets
-103421001000001113,1473011000001107,doxazosin 4mg tablets (a a h pharmaceuticals ltd) 28 tablet 2 x 14 tablets
-108295601000001110,374544006,prazosin hydrochloride 2 mg/1 each oral capsule
-108295701000001117,374545007,prazosin hydrochloride 5 mg/1 each oral capsule
-108301701000001114,375565008,prazosin hydrochloride 1 mg/1 each oral capsule
-108304001000001110,375994005,terazosin hydrochloride 1 mg/1 each oral capsule
-108304101000001111,375996007,terazosin hydrochloride 2 mg/1 each oral capsule
-108304201000001116,375997003,terazosin hydrochloride 5 mg/1 each oral capsule
-108304301000001113,375998008,terazosin hydrochloride 10 mg/1 each oral capsule
-108304901000001114,375953002,terazosin hydrochloride 1 mg oral tablet
-109540401000001118,13132401000001103,doxazosin 4mg modified-release tablets (product)
-109540501000001119,13132401000001103,doxazosin 4mg modified-release tablets
-109544801000001110,13134601000001109,doxazosin 8mg modified-release tablets (product)
-109544901000001116,13134601000001109,doxazosin 8mg modified-release tablets
-109563801000001119,13144101000001104,terazosin 2mg tablets and terazosin 1mg tablets (product)
-109563901000001113,13144101000001104,terazosin 2mg tablets and terazosin 1mg tablets
-110027801000001115,15976211000001109,terazosin 5mg tablets (zanza specials international ltd)
-110028901000001110,15976311000001101,terazosin 5mg tablets (zanza specials international ltd) 28 tablet 2 x 14 tablets
-110029001000001117,15976411000001108,terazosin 10mg tablets (zanza specials international ltd)
-110029101000001116,15976511000001107,terazosin 10mg tablets (zanza specials international ltd) 28 tablet 2 x 14 tablets
-110032801000001116,15976011000001104,terazosin 2mg tablets (zanza specials international ltd)
-110032901000001110,15976111000001103,terazosin 2mg tablets (zanza specials international ltd) 28 tablet 2 x 14 tablets
-110967501000001115,35915811000001105,terazosin 2mg tablets and terazosin 1mg tablets (product)
-110967601000001116,35915811000001105,terazosin 2mg tablets and terazosin 1mg tablets
-111158601000001116,35981611000001106,doxazosin 1mg tablets (ennogen pharma ltd) (product)
-111158701000001114,35981611000001106,doxazosin 1mg tablets (ennogen pharma ltd)
-111160001000001117,35994411000001106,doxazosin 4mg tablets (ennogen pharma ltd) (product)
-111160101000001116,35994411000001106,doxazosin 4mg tablets (ennogen pharma ltd)
-111160201000001111,35994611000001109,doxazosin 2mg tablets (ennogen pharma ltd) (product)
-111160301000001119,35994611000001109,doxazosin 2mg tablets (ennogen pharma ltd)
-111162401000001111,35997611000001103,doxazosin 8mg tablets (ennogen pharma ltd) (product)
-111162501000001110,35997611000001103,doxazosin 8mg tablets (ennogen pharma ltd)
-111176601000001119,35997511000001102,doxazosin 8mg tablets 28 tablet (product)
-111176701000001112,35997511000001102,doxazosin 8mg tablets 28 tablet
-111211201000001115,35981911000001100,doxazosin 1mg tablets (ennogen pharma ltd) 28 tablet (product)
-111211301000001112,35981911000001100,doxazosin 1mg tablets (ennogen pharma ltd) 28 tablet
-111213001000001110,35994511000001105,doxazosin 4mg tablets (ennogen pharma ltd) 28 tablet (product)
-111213101000001111,35994511000001105,doxazosin 4mg tablets (ennogen pharma ltd) 28 tablet
-111213201000001116,35994711000001100,doxazosin 2mg tablets (ennogen pharma ltd) 28 tablet (product)
-111213301000001113,35994711000001100,doxazosin 2mg tablets (ennogen pharma ltd) 28 tablet
-111215801000001116,35997711000001107,doxazosin 8mg tablets (ennogen pharma ltd) 28 tablet (product)
-111215901000001110,35997711000001107,doxazosin 8mg tablets (ennogen pharma ltd) 28 tablet
-111240401000001118,421069003,doxazosin 8mg tablets
-111528101000001116,19706311000001108,indoramin 25mg tablets (advanz pharma) 84 tablet
-111562701000001114,19706111000001106,indoramin 25mg tablets (advanz pharma)
+snomedctdescriptionid,snomedctconceptid
+85782019,51505001
+173091019,108557002
+216262018,134456001
+216688013,135921004
+462473014,318735001
+462481010,318752002
+462489012,318771000
+462499019,318780000
+466405017,326510000
+466410018,326515005
+471874013,349914007
+1186278019,134456001
+1186415014,135921004
+1188504013,318735001
+1188518018,318771000
+1191094019,326510000
+1197801014,372508002
+1200441010,375137004
+1200442015,375138009
+1200446017,375141000
+1200448016,375143002
+1201265019,375957001
+1201266018,375958006
+1201267010,375959003
+1201382019,376073002
+1201950012,376637008
+1201952016,376639006
+1201953014,376640008
+1211043016,372508002
+1213480014,375137004
+1213481013,375138009
+1213484017,375141000
+1213486015,375143002
+1214264011,375957001
+1214265012,375958006
+1214266013,375959003
+1214375013,376073002
+1214900014,376637008
+1214902018,376639006
+1214903011,376640008
+1461246017,387068008
+1461461018,387283005
+1461611017,387433003
+1469688018,395748009
+1481182010,387068008
+1481384017,387283005
+1481524019,387433003
+1489390016,395748009
+2153212014,318766007
+2153213016,318778006
+2153242012,326515005
+2160843013,318766007
+2160844019,318778006
+2160868010,326515005
+2476756016,375143002
+2692000012,108557002
+2693243019,412519000
+2693992019,135921004
+2695693011,134456001
+2710275014,349914007
+2742155012,318780000
+2751069016,51505001
+2786976019,439233008
+2794613019,439233008
+2816741019,441534002
+2816742014,441534002
+3047090017,412519000
+3482524017,108556006
+3483105018,129484001
+3483447013,318752002
+3484876012,349913001
+3488857017,76058001
+3492155019,318752002
+3500248014,318739007
+3500249018,318740009
+3502090018,421069003
+3674360013,765548006
+3674363010,765702000
+3678390010,318781001
+3678391014,318781001
+3678394018,318782008
+3678395017,318782008
+3678396016,318783003
+3678399011,318783003
+3678400016,421069003
+3679852016,318739007
+3679853014,318740009
+3682209017,375565008
+3682211014,375565008
+3682212019,318768008
+3682213012,318768008
+3682215017,374544006
+3682216016,374544006
+3682218015,318769000
+3682220017,318769000
+3682221018,374545007
+3682223015,374545007
+3682225010,318770004
+3682226011,318770004
+3683368015,318777001
+3683369011,318777001
+3683374015,318779003
+3683375019,318779003
+3683376018,318776005
+3683377010,318776005
+3683380011,375994005
+3683381010,375994005
+3683382015,375953002
+3683383013,375953002
+3683388016,375998008
+3683389012,375998008
+3683390015,375996007
+3683392011,375996007
+3683395013,375997003
+3683396014,375997003
+3700042019,318767003
+3700043012,318767003
+3709690016,767737001
+3709691017,767737001
+3711579010,768229007
+3711580013,768229007
+3712066013,768205000
+3712067016,768205000
+3714558011,108556006
+3715284010,349913001
+3716340016,76058001
+3716753015,129484001
+3718613017,772525009
+3718614011,772525009
+3722688013,773245005
+3722689017,773245005
+3722690014,773246006
+3722691013,773246006
+3726095019,108557002
+3726096018,318781001
+3726097010,318783003
+3726098017,318782008
+3726099013,765702000
+3726100017,765702000
+3726101018,765548006
+3726102013,765548006
+3732868019,776330005
+3732869010,776330005
+3734896014,777302001
+3734897017,777302001
+3735729014,777709007
+3735730016,777709007
+3740806013,779551005
+3740807016,779551005
+3742324010,780277004
+3742325011,780277004
+3742962015,780586008
+3742963013,780586008
+3757720016,783119004
+3757721017,783119004
+3758528012,783322005
+3758529016,783322005
+3762008013,441252003
+3762009017,441252003
+3762010010,441254002
+3762011014,441254002
+3762012019,441251005
+3762013012,441251005
+3762255011,784251003
+3762256012,784251003
+3762257015,784252005
+3762258013,784252005
+3762265017,784254006
+3762266016,784254006
+3762267013,784255007
+3762268015,784255007
+4570951011,1155964008
+4570952016,1155964008
+4570955019,1155964008
+4965174014,1208585006
+4965175010,1208585006
+4965176011,1208586007
+4965177019,1208586007
+4965178012,1208587003
+4965179016,1208587003
+4965180018,1208588008
+4965181019,1208588008
+4965182014,1208589000
+4965183016,1208589000
+5036735012,1217567006
+5036736013,1217567006
+5089535014,1236879000
+5089536010,1236879000
+5182635018,1269092006
+5182636017,1269092006
+114291000001118,39362011000001107
+114301000001119,39362011000001107
+116051000001112,39362111000001108
+116061000001110,39362111000001108
+123481000001112,39362211000001102
+123491000001114,39362211000001102
+142061000001115,18072211000001106
+142071000001113,18072211000001106
+142681000001119,18072011000001101
+142691000001117,18072011000001101
+150161000001116,18071811000001103
+150171000001114,18071811000001103
+220191000001114,37143011000001105
+220201000001111,37143011000001105
+220991000001111,37143411000001101
+221001000001110,37143411000001101
+222621000001119,37143111000001106
+222641000001112,37143111000001106
+222651000001110,37143611000001103
+222661000001113,37143611000001103
+224991000001119,37180711000001106
+225001000001112,37180711000001106
+228451000001114,37180811000001103
+228461000001112,37180811000001103
+250901000001119,18071911000001108
+250921000001114,18071911000001108
+254681000001114,18072311000001103
+254691000001111,18072311000001103
+344941000001118,37489611000001109
+344951000001115,37489611000001109
+347901000001111,37489711000001100
+347921000001116,37489711000001100
+418091000001118,37717511000001109
+418101000001112,37717511000001109
+450051000001116,37823011000001104
+450061000001118,37823011000001104
+451121000001116,37822811000001102
+451141000001114,37822811000001102
+451221000001111,37822611000001101
+451241000001118,37822611000001101
+452071000001112,37822911000001107
+452081000001114,37822911000001107
+452771000001110,37822711000001105
+452781000001112,37822711000001105
+453191000001119,37823111000001103
+453201000001117,37823111000001103
+555681000001116,18072111000001100
+555691000001119,18072111000001100
+1124891000001114,39459111000001102
+1124901000001110,39459111000001102
+1140151000001116,112751000001106
+1140281000001116,114071000001107
+1141601000001115,114071000001107
+1144691000001111,112751000001106
+1237021000001113,3697011000001101
+1237041000001115,3697011000001101
+1295781000001113,40355911000001107
+1295791000001110,40355911000001107
+1514991000001116,3697411000001105
+1515001000001114,3697411000001105
+1518971000001112,3697211000001106
+1518981000001114,3697211000001106
+1576691000001113,38878911000001101
+1576701000001113,38878911000001101
+1576721000001118,38879211000001100
+1576741000001111,38879211000001100
+1577851000001118,38879611000001103
+1577861000001115,38879611000001103
+1578291000001114,38879411000001101
+1578301000001113,38879411000001101
+1579651000001113,38879011000001105
+1579661000001111,38879011000001105
+1579791000001112,38879811000001104
+1579801000001111,38879811000001104
+1605781000001113,39001111000001103
+1605791000001110,39001111000001103
+1607181000001115,35141811000001104
+1607191000001118,35141811000001104
+1607541000001115,35142011000001102
+1607551000001117,35142011000001102
+1607901000001114,35142211000001107
+1607921000001119,35142211000001107
+1610641000001118,39001211000001109
+1610651000001115,39001211000001109
+1611871000001115,35141911000001109
+1611881000001118,35141911000001109
+1612551000001118,35142311000001104
+1612561000001115,35142311000001104
+1613081000001114,35142111000001101
+1613091000001111,35142111000001101
+1614551000001114,39020411000001106
+1614561000001112,39020411000001106
+1614651000001113,39021111000001107
+1614661000001111,39021111000001107
+1758391000001119,3697511000001109
+1758401000001116,3697511000001109
+1760921000001110,3697111000001100
+1760941000001117,3697111000001100
+1762071000001114,3697311000001103
+1762081000001111,3697311000001103
+1816871000001116,39696711000001101
+1816881000001119,39696711000001101
+1818661000001111,39696511000001106
+1818671000001118,39696511000001106
+1856241000001116,3152511000001104
+1856251000001118,3152511000001104
+1857401000001118,3150011000001108
+1857421000001113,3150011000001108
+1859501000001110,7976711000001102
+1859521000001115,7976711000001102
+1859881000001117,252111000001100
+1859891000001115,252111000001100
+1861101000001111,3156811000001100
+1861121000001116,3156811000001100
+1863801000001116,225411000001101
+1863821000001111,225411000001101
+1865281000001114,210011000001108
+1865291000001111,210011000001108
+1874241000001113,3150111000001109
+1874251000001111,3150111000001109
+1875261000001110,3157311000001107
+1875271000001117,3157311000001107
+1875281000001115,7976811000001105
+1875291000001118,7976811000001105
+1877341000001114,1593211000001102
+1877351000001112,1593211000001102
+1878081000001118,3152811000001101
+1878091000001116,3152811000001101
+1879641000001114,1593311000001105
+1879651000001112,1593311000001105
+1889041000001110,1593111000001108
+1889051000001113,1593111000001108
+1965501000001114,39853911000001106
+1965521000001119,39853911000001106
+1967881000001114,39854011000001109
+1967891000001111,39854011000001109
+1971441000001119,39900811000001105
+1971451000001116,39900811000001105
+1972101000001117,39897511000001102
+1972121000001112,39897511000001102
+1972501000001110,39901011000001108
+1972521000001115,39901011000001108
+1975001000001112,39901111000001109
+1975021000001117,39901111000001109
+1976941000001117,39900911000001100
+1976951000001119,39900911000001100
+1977701000001119,39897611000001103
+1977721000001114,39897611000001103
+2027191000001115,40532811000001107
+2027201000001118,40532811000001107
+2031071000001110,24661311000001108
+2031081000001112,24661311000001108
+2105061000001117,3149011000001103
+2105071000001110,3149011000001103
+2105101000001115,674011000001107
+2105121000001110,674011000001107
+2105341000001115,3152011000001107
+2105351000001117,3152011000001107
+2109661000001114,7814111000001106
+2109671000001116,7814111000001106
+2112361000001110,221311000001106
+2112371000001117,221311000001106
+2112801000001118,3156311000001109
+2112821000001113,3156311000001109
+2123841000001117,565111000001107
+2123851000001119,565111000001107
+2137701000001115,3152211000001102
+2137721000001110,3152211000001102
+2141561000001116,1469711000001103
+2141571000001114,1469711000001103
+2144481000001113,3149111000001102
+2144491000001110,3149111000001102
+2144501000001118,3156511000001103
+2144521000001113,3156511000001103
+2154241000001116,1472311000001100
+2154251000001118,1472311000001100
+2155501000001115,1468011000001105
+2155521000001110,1468011000001105
+2156401000001112,7814511000001102
+2156421000001117,7814511000001102
+2219941000001117,40533011000001105
+2219951000001119,40533011000001105
+2220041000001115,40532911000001102
+2220051000001117,40532911000001102
+2225841000001115,24661411000001101
+2225851000001117,24661411000001101
+2239461000001115,1155964008
+2421101000001111,40928511000001102
+2421121000001116,40928511000001102
+2546891000001111,41290211000001103
+2546901000001112,41290211000001103
+2547871000001110,41290511000001100
+2547881000001112,41290511000001100
+2548051000001113,41290711000001105
+2548061000001111,41290711000001105
+2549721000001111,41290611000001101
+2549741000001118,41290611000001101
+2551171000001112,41290411000001104
+2551181000001114,41290411000001104
+2553971000001113,41290811000001102
+2553981000001110,41290811000001102
+2830991000001116,777709007
+2831001000001117,777709007
+2848151000001113,776330005
+2848161000001111,776330005
+2865621000001112,773245005
+2865641000001119,773245005
+2872251000001117,777302001
+2872261000001119,777302001
+3031051000001112,8094611000001105
+3031061000001110,8094611000001105
+3102001000001117,41976711000001100
+3102021000001112,41976711000001100
+3102281000001115,41976511000001105
+3102291000001118,41976511000001105
+3102581000001118,41976911000001103
+3102591000001116,41976911000001103
+3103141000001114,41977011000001104
+3103151000001112,41977011000001104
+3103501000001118,41976811000001108
+3103521000001113,41976811000001108
+3103881000001111,41976611000001109
+3103891000001113,41976611000001109
+3143761000001118,4250511000001101
+3143771000001111,4250511000001101
+3146141000001110,4250311000001107
+3146151000001113,4250311000001107
+3158501000001115,18468911000001100
+3158521000001110,18468911000001100
+3161541000001115,20170111000001105
+3161551000001117,20170111000001105
+3169201000001115,20170911000001108
+3169221000001110,20170911000001108
+3180881000001119,4250611000001102
+3180891000001117,4250611000001102
+3188141000001119,4250411000001100
+3188151000001116,4250411000001100
+3188981000001110,18469011000001109
+3188991000001112,18469011000001109
+3214641000001118,42043111000001101
+3214651000001115,42043111000001101
+3215441000001115,42043011000001102
+3215451000001117,42043011000001102
+3216541000001113,42043211000001107
+3216551000001111,42043211000001107
+3281691000001113,42209411000001108
+3281701000001113,42209411000001108
+3282051000001118,42215811000001105
+3282061000001115,42215811000001105
+3282421000001117,42216011000001108
+3282441000001110,42216011000001108
+3282771000001111,42215911000001100
+3282781000001113,42215911000001100
+3283051000001113,42209211000001109
+3283061000001111,42209211000001109
+3283671000001110,42209311000001101
+3283681000001112,42209311000001101
+3283771000001115,42209111000001103
+3283781000001118,42209111000001103
+3284091000001116,42215711000001102
+3284101000001110,42215711000001102
+4310801000001118,164201000001108
+4441801000001112,372001000001105
+7887601000001113,164201000001108
+7889901000001114,372001000001105
+11458901000001115,16401000001105
+11468201000001117,41001000001100
+11476301000001118,60001000001102
+11486401000001116,87101000001103
+11518801000001111,182301000001109
+11546401000001118,253801000001101
+11572301000001114,324401000001107
+11576401000001117,335001000001101
+11615701000001119,441301000001106
+11639101000001113,510901000001104
+11651801000001117,549701000001104
+11722601000001115,753101000001101
+11739801000001113,801201000001104
+11930401000001112,3642801000001102
+11952601000001110,3874201000001100
+11952701000001117,3874301000001109
+12010401000001110,16401000001105
+12010501000001114,87101000001103
+12010901000001118,60001000001102
+12011001000001110,335001000001101
+12011101000001111,182301000001109
+12011201000001116,253801000001101
+12011301000001113,324401000001107
+12011401000001117,753101000001101
+12011501000001118,801201000001104
+12011601000001119,549701000001104
+12011701000001112,41001000001100
+12011801000001115,441301000001106
+12011901000001114,510901000001104
+12012001000001118,3874301000001109
+12012101000001117,3874201000001100
+12230801000001114,3642801000001102
+14632501000001119,3561011000001102
+14632601000001115,3561011000001102
+14810101000001111,3560911000001105
+14810201000001116,3560911000001105
+14814501000001111,3576411000001106
+14814601000001110,3576411000001106
+14817501000001119,3582911000001106
+14817601000001115,3582911000001106
+14835501000001117,3576511000001105
+14835601000001118,3576511000001105
+14918701000001118,3583011000001103
+14918801000001110,3583011000001103
+15010301000001117,3909211000001103
+15010401000001113,3909211000001103
+15010501000001112,3909311000001106
+15010601000001111,3909311000001106
+15053701000001116,4078311000001100
+15053801000001113,4078311000001100
+15601901000001115,8671611000001108
+15602001000001111,8671611000001108
+15602101000001112,8671811000001107
+15602201000001117,8671811000001107
+15602301000001114,8671711000001104
+15602401000001118,8671711000001104
+15602501000001119,8671911000001102
+15602601000001115,8671911000001102
+15787501000001111,8483511000001102
+15787601000001110,8483511000001102
+15787901000001115,8483311000001108
+15788001000001118,8483311000001108
+15788901000001119,8483411000001101
+15789001000001112,8483411000001101
+16259301000001114,647711000001101
+16260101000001113,462611000001100
+16260201000001118,462611000001100
+16260301000001110,870611000001103
+16260501000001115,228711000001100
+16260601000001116,228711000001100
+16260701000001114,854611000001108
+16260801000001117,854611000001108
+16262101000001112,481211000001106
+16262501000001119,464711000001104
+16262601000001115,464711000001104
+16262701000001113,559911000001102
+16262801000001116,559911000001102
+16263301000001115,430311000001102
+16263501000001110,554711000001100
+16263601000001114,554711000001100
+16263901000001119,840911000001105
+16264001000001116,840911000001105
+16264101000001115,664711000001102
+16264201000001110,664711000001102
+16266701000001112,653011000001107
+16298701000001114,761311000001108
+16298801000001117,761311000001108
+16298901000001111,709511000001100
+16299001000001118,709511000001100
+16299101000001117,578111000001109
+16299701000001116,588211000001106
+16299801000001113,588211000001106
+16301301000001111,525011000001104
+16301401000001115,525011000001104
+16301501000001116,857111000001105
+16301601000001117,857111000001105
+16501701000001113,89711000001108
+16501801000001116,89711000001108
+16502301000001116,259311000001106
+16503301000001110,898711000001102
+16503401000001119,898711000001102
+16536101000001110,778311000001107
+16536201000001115,778311000001107
+16537101000001113,83811000001102
+16537501000001115,559411000001105
+16537601000001116,559411000001105
+16538701000001110,739211000001106
+16538801000001118,739211000001106
+16539101000001118,342511000001100
+16539301000001116,849411000001107
+16539401000001112,849411000001107
+16539901000001115,603711000001100
+16540001000001110,603711000001100
+16541101000001116,171211000001100
+16541501000001114,703511000001102
+16541601000001113,703511000001102
+17271901000001110,3147311000001105
+17272001000001119,3147311000001105
+17272501000001111,3148211000001103
+17273301000001110,3149511000001106
+17274101000001110,3150511000001100
+17274201000001115,3150511000001100
+17274701000001111,3151411000001108
+17275901000001112,3153011000001103
+17276301000001117,3153511000001106
+17276401000001113,3153511000001106
+17278101000001115,3155911000001103
+17279501000001118,3157711000001106
+17747101000001114,4250111000001105
+17947901000001118,4576811000001106
+17948001000001116,4576811000001106
+17948101000001115,4577111000001101
+17948201000001110,4577111000001101
+17948301000001118,4577311000001104
+17948401000001114,4577311000001104
+18109101000001112,3960511000001109
+18109501000001119,3960911000001102
+18109901000001110,3961411000001101
+18153301000001116,4469911000001108
+18153401000001112,4469911000001108
+18568301000001111,5456811000001106
+18592501000001116,5467311000001106
+20763901000001118,8094511000001106
+20884501000001111,8648411000001104
+20884601000001110,8648411000001104
+20884701000001117,8648711000001105
+20884801000001114,8648711000001105
+20884901000001115,8649011000001103
+20885001000001115,8649011000001103
+20885301000001117,8649311000001100
+20885401000001113,8649311000001100
+21014101000001112,8457811000001101
+21014501000001119,8458411000001104
+21014601000001115,8458411000001104
+21015501000001118,8459911000001104
+21712901000001115,3957511000001103
+21713001000001112,3957511000001103
+21713301000001110,3956811000001102
+21713401000001119,3956811000001102
+21739101000001116,3902811000001107
+21739201000001111,3902811000001107
+21739301000001119,3902611000001108
+21739401000001110,3902611000001108
+21739501000001114,3902311000001103
+21739601000001113,3902311000001103
+21888301000001118,4073311000001108
+21888401000001114,4073311000001108
+21888501000001113,4073111000001106
+21888601000001112,4073111000001106
+21888701000001119,4072911000001102
+21888801000001111,4072911000001102
+21980501000001115,965411000001108
+21980601000001116,965411000001108
+21980901000001111,1318011000001101
+21981001000001119,1318011000001101
+21981101000001118,1217311000001107
+21981201000001113,1217311000001107
+21983901000001119,1161811000001109
+21984001000001116,1161811000001109
+21998901000001114,1048711000001109
+21999001000001116,1048711000001109
+21999501000001113,1213511000001106
+21999601000001112,1213511000001106
+22000301000001116,1097511000001107
+22000401000001112,1097511000001107
+22033301000001115,1256111000001101
+22033401000001111,1256111000001101
+22061501000001116,1288111000001109
+22061601000001117,1288111000001109
+22088701000001119,3689011000001106
+22088801000001111,3689011000001106
+22213301000001117,3153411000001107
+22213401000001113,3153411000001107
+22214701000001116,3150411000001104
+22214801000001113,3150411000001104
+22216301000001110,3146811000001103
+22216401000001119,3146811000001103
+22357101000001114,3354311000001105
+22357201000001119,3354311000001105
+22942901000001117,5456611000001107
+22943001000001114,5456611000001107
+23058901000001119,5346511000001103
+23059001000001112,5346511000001103
+23138101000001110,8649211000001108
+23138201000001115,8649211000001108
+23138301000001112,8648911000001107
+23138401000001116,8648911000001107
+23138501000001117,8648611000001101
+23138601000001118,8648611000001101
+23138701000001111,8648311000001106
+23138801000001119,8648311000001106
+23451101000001118,8459611000001105
+23451201000001113,8459611000001105
+23452101000001112,8458211000001103
+23452201000001117,8458211000001103
+23452501000001119,8457711000001109
+23452601000001115,8457711000001109
+23689701000001113,8457911000001106
+23690101000001117,8458711000001105
+23690201000001112,8458711000001105
+23691101000001112,8460011000001102
+23863701000001116,8648511000001100
+23863801000001113,8648511000001100
+23863901000001119,8648811000001102
+23864001000001116,8648811000001102
+23864101000001115,8649411000001107
+23864201000001110,8649411000001107
+23864301000001118,8649511000001106
+23864401000001114,8649511000001106
+24159301000001116,1504811000001100
+24159401000001112,1504811000001100
+24160701000001116,1505511000001102
+24161101000001112,1505711000001107
+24161201000001117,1505711000001107
+24203901000001113,1509011000001107
+24204001000001111,1509011000001107
+24204701000001113,1509411000001103
+24205301000001113,1509711000001109
+24205401000001117,1509711000001109
+24207301000001116,1510711000001104
+24207401000001112,1510711000001104
+24207701000001117,1510911000001102
+24207901000001115,1511011000001105
+24208001000001118,1511011000001105
+24208501000001110,1511311000001108
+24208601000001114,1511311000001108
+24209701000001114,1511911000001109
+24210101000001116,1512111000001101
+24210201000001111,1512111000001101
+24619101000001113,1467911000001108
+24619901000001111,1468311000001108
+24620001000001113,1468311000001108
+24620301000001111,1468511000001102
+24620701000001110,1468711000001107
+24620801000001118,1468711000001107
+24620901000001112,1468811000001104
+24621001000001115,1468811000001104
+24622501000001115,1469611000001107
+24623101000001118,1469911000001101
+24623201000001113,1469911000001101
+24623301000001116,1470011000001102
+24623401000001112,1470011000001102
+24659701000001118,1470311000001104
+24660101000001118,1470511000001105
+24660301000001116,1470611000001109
+24660401000001112,1470611000001109
+24660701000001117,1470811000001108
+24660801000001114,1470811000001108
+24663501000001116,1472211000001108
+24663901000001112,1472411000001107
+24664001000001110,1472411000001107
+24664501000001118,1472711000001101
+24664601000001119,1472711000001101
+24664901000001114,1472911000001104
+24665101000001110,1473011000001107
+24667101000001117,1474011000001109
+24667201000001112,1474011000001109
+24667501000001110,1474211000001104
+24667601000001114,1474211000001104
+25653301000001114,3147511000001104
+25653401000001118,3147511000001104
+25653901000001110,3148311000001106
+25654901000001112,3149711000001101
+25655901000001111,3150711000001105
+25656001000001119,3150711000001105
+25656501000001111,3151711000001102
+25657901000001117,3153211000001108
+25658301000001117,3153711000001101
+25658401000001113,3153711000001101
+25660501000001118,3156211000001101
+25661901000001118,3158011000001105
+26454501000001116,4470011000001107
+26454601000001117,4470011000001107
+26645701000001114,3960711000001104
+26646101000001118,3961111000001106
+26646501000001111,3961711000001107
+26657501000001111,4250211000001104
+26758301000001112,4577011000001102
+26758401000001116,4577011000001102
+26758501000001117,4577211000001107
+26758601000001118,4577211000001107
+26758701000001111,4577411000001106
+26758801000001119,4577411000001106
+27634301000001111,5456911000001101
+27643701000001114,5467411000001104
+27643901000001111,5467511000001100
+27644101000001110,5467611000001101
+27644201000001115,5467611000001101
+29903301000001110,9050311000001103
+29903401000001119,9050311000001103
+29926301000001114,9050411000001105
+29926401000001118,9050411000001105
+31303301000001113,9696911000001102
+31303401000001117,9696911000001102
+31303501000001118,9698111000001101
+31303601000001119,9698111000001101
+31303701000001112,9698511000001105
+31303801000001115,9698511000001105
+31310501000001110,9697111000001102
+31310601000001114,9697111000001102
+31310701000001116,9698311000001104
+31310801000001113,9698311000001104
+31310901000001119,9698611000001109
+31311001000001111,9698611000001109
+31584501000001117,9792611000001102
+31584901000001113,9792911000001108
+31585301000001111,9793211000001105
+31662301000001112,9792711000001106
+31662501000001117,9793011000001100
+31662701000001111,9793311000001102
+35488701000001112,10292911000001101
+35488801000001115,10292911000001101
+35489501000001113,10293411000001100
+35489601000001112,10293411000001100
+35490501000001117,10294211000001101
+35490601000001118,10294211000001101
+35507101000001116,10292711000001103
+35507201000001111,10292711000001103
+35507501000001114,10293311000001107
+35507601000001113,10293311000001107
+35508101000001115,10294011000001106
+35508201000001110,10294011000001106
+35664701000001116,10402811000001109
+35664801000001113,10402811000001109
+35664901000001119,10403011000001107
+35665001000001119,10403011000001107
+35665301000001116,10403311000001105
+35665401000001112,10403311000001105
+35695301000001119,10402911000001104
+35695401000001110,10402911000001104
+35695501000001114,10403111000001108
+35695601000001113,10403111000001108
+35695901000001118,10403511000001104
+35696001000001110,10403511000001104
+35720501000001117,10412611000001107
+35720601000001118,10412611000001107
+35720901000001113,10413011000001109
+35721001000001116,10413011000001109
+35721101000001115,10413211000001104
+35721201000001110,10413211000001104
+35775301000001117,10412811000001106
+35775401000001113,10412811000001106
+35775701000001118,10413111000001105
+35775801000001110,10413111000001105
+35775901000001116,10413311000001107
+35776001000001113,10413311000001107
+37779901000001118,481211000001106
+37807801000001110,647711000001101
+37808801000001114,653011000001107
+37924501000001117,1467911000001108
+37924901000001113,1469611000001107
+37925801000001118,1472211000001108
+38161801000001116,3148211000001103
+38161901000001110,3148311000001106
+38162601000001110,3151411000001108
+38162701000001117,3151711000001102
+38163201000001118,3155911000001103
+38163301000001110,3156211000001101
+38315401000001114,3960511000001109
+38315501000001113,3960711000001104
+38315701000001119,3960911000001102
+38315801000001111,3961111000001106
+38315901000001117,3961411000001101
+38316001000001114,3961711000001107
+38380901000001113,4250111000001105
+38381001000001116,4250211000001104
+38702401000001115,5456811000001106
+38710301000001110,5467311000001106
+38710501000001115,5467511000001100
+40990401000001111,9792611000001102
+40990501000001110,9792711000001106
+40990701000001116,9792911000001108
+40990801000001113,9793011000001100
+40991001000001111,9793211000001105
+40991101000001112,9793311000001102
+41107001000001112,83811000001102
+41117701000001112,171211000001100
+41126701000001116,259311000001106
+41135601000001117,342511000001100
+41229101000001111,1505511000001102
+41229901000001114,1509411000001103
+41230501000001112,1510911000001102
+41230601000001111,1511911000001109
+42338701000001113,11554511000001109
+42338801000001116,11554511000001109
+42338901000001110,11554711000001104
+42339001000001117,11554711000001104
+42339101000001116,11554911000001102
+42339201000001111,11554911000001102
+42347101000001110,11554611000001108
+42347301000001112,11554811000001107
+42347501000001117,11555011000001102
+42369901000001113,11554611000001108
+42370001000001112,11554811000001107
+42370101000001113,11555011000001102
+42860801000001114,11769611000001101
+42860901000001115,11769611000001101
+42861001000001112,11769411000001104
+42861101000001113,11769411000001104
+43648501000001115,12083311000001109
+43648601000001116,12083311000001109
+43648701000001114,12083411000001102
+43648801000001117,12083411000001102
+43648901000001111,12083511000001103
+43649001000001118,12083511000001103
+43649101000001117,12083611000001104
+43649201000001112,12083611000001104
+43649301000001115,12083711000001108
+43649401000001111,12083711000001108
+43649501000001110,12083811000001100
+43649601000001114,12083811000001100
+43649701000001116,12083911000001105
+43649801000001113,12083911000001105
+43649901000001119,12084011000001108
+43650001000001112,12084011000001108
+43650101000001113,12084111000001109
+43650201000001118,12084111000001109
+43650301000001110,12084211000001103
+43650401000001119,12084211000001103
+43650501000001115,12084311000001106
+43650601000001116,12084311000001106
+43650701000001114,12084411000001104
+43650801000001117,12084411000001104
+43650901000001111,12084511000001100
+43651001000001119,12084511000001100
+43651101000001118,12084611000001101
+43651201000001113,12084611000001101
+43651301000001116,12084711000001105
+43651401000001112,12084711000001105
+43651501000001111,12084811000001102
+43651601000001110,12084811000001102
+43684101000001114,12064211000001100
+43684201000001119,12064211000001100
+43684301000001111,12064511000001102
+43684401000001115,12064511000001102
+43684501000001116,12064811000001104
+43684601000001117,12064811000001104
+43684701000001110,12065111000001105
+43684801000001118,12065111000001105
+43684901000001112,12065411000001100
+43685001000001112,12065411000001100
+43685101000001113,12065711000001106
+43685201000001118,12065711000001106
+43685301000001110,12066011000001100
+43685401000001119,12066011000001100
+43685501000001115,12066311000001102
+43685601000001116,12066311000001102
+43685701000001114,12066611000001107
+43685801000001117,12066611000001107
+43685901000001111,12067011000001102
+43686001000001119,12067011000001102
+43686301000001116,12067611000001109
+43686401000001112,12067611000001109
+43686701000001117,12068111000001100
+43686801000001114,12068111000001100
+43687501000001113,12069411000001102
+43687601000001112,12069411000001102
+43687901000001117,12070011000001109
+43688001000001115,12070011000001109
+43688701000001118,12071011000001100
+43688801000001110,12071011000001100
+43688901000001116,12071311000001102
+43689001000001114,12071311000001102
+43709301000001119,12071211000001105
+43709401000001110,12071211000001105
+43709501000001114,12070811000001103
+43709601000001113,12070811000001103
+43710301000001110,12069811000001100
+43710401000001119,12069811000001100
+43710701000001114,12069111000001107
+43710801000001117,12069111000001107
+43711501000001111,12068011000001101
+43711601000001110,12068011000001101
+43711901000001115,12067311000001104
+43712001000001111,12067311000001104
+43712301000001114,12066811000001106
+43712401000001118,12066811000001106
+43712501000001119,12066511000001108
+43712601000001115,12066511000001108
+43712701000001113,12066211000001105
+43712801000001116,12066211000001105
+43712901000001110,12065911000001108
+43713001000001118,12065911000001108
+43713101000001117,12065611000001102
+43713201000001112,12065611000001102
+43713301000001115,12065311000001107
+43713401000001111,12065311000001107
+43713501000001110,12065011000001109
+43713601000001114,12065011000001109
+43713701000001116,12064711000001107
+43713801000001113,12064711000001107
+43713901000001119,12064411000001101
+43714001000001116,12064411000001101
+43714101000001115,12064111000001106
+43714201000001110,12064111000001106
+43746101000001118,12064311000001108
+43746201000001113,12064311000001108
+43746301000001116,12064611000001103
+43746401000001112,12064611000001103
+43746501000001111,12064911000001109
+43746601000001110,12064911000001109
+43746701000001117,12065211000001104
+43746801000001114,12065211000001104
+43746901000001115,12065511000001101
+43747001000001116,12065511000001101
+43747101000001115,12065811000001103
+43747201000001110,12065811000001103
+43747301000001118,12066111000001104
+43747401000001114,12066111000001104
+43747501000001113,12066411000001109
+43747601000001112,12066411000001109
+43747701000001119,12066711000001103
+43747801000001111,12066711000001103
+43747901000001117,12067211000001107
+43748001000001115,12067211000001107
+43748301000001117,12067811000001108
+43748401000001113,12067811000001108
+43748701000001118,12068211000001106
+43748801000001110,12068211000001106
+43749501000001117,12069611000001104
+43749601000001118,12069611000001104
+43749901000001113,12070211000001104
+43750001000001115,12070211000001104
+43750501000001112,12071111000001104
+43750601000001111,12071111000001104
+43750701000001118,12071411000001109
+43750801000001110,12071411000001109
+45851301000001119,13077811000001106
+45851401000001110,13077811000001106
+45851501000001114,13077911000001101
+45851601000001113,13077911000001101
+45851701000001115,13078011000001104
+45851801000001112,13078011000001104
+45851901000001118,13078111000001103
+45852001000001114,13078111000001103
+45885301000001113,13050211000001108
+45885401000001117,13050211000001108
+45885701000001112,13050811000001109
+45885801000001115,13050811000001109
+45886301000001119,13051711000001109
+45886401000001110,13051711000001109
+45886701000001115,13052311000001101
+45886801000001112,13052311000001101
+45917901000001111,13052211000001109
+45918001000001113,13052211000001109
+45918301000001111,13051611000001100
+45918401000001115,13051611000001100
+45918901000001112,13050711000001101
+45919001000001119,13050711000001101
+45919301000001116,13050111000001102
+45919401000001112,13050111000001102
+45953301000001111,13050311000001100
+45953401000001115,13050311000001100
+45953701000001110,13050911000001104
+45953801000001118,13050911000001104
+45954301000001113,13051811000001101
+45954401000001117,13051811000001101
+45954701000001112,13052411000001108
+45954801000001115,13052411000001108
+46615301000001117,318778006
+50003301000001110,14013011000001104
+50003401000001119,14013011000001104
+50019101000001113,13975011000001100
+50019201000001118,13975011000001100
+50049501000001110,13974911000001100
+50049601000001114,13974911000001100
+50082301000001115,13975111000001104
+50082401000001111,13975111000001104
+50142101000001116,14117111000001100
+50142201000001111,14117111000001100
+50145901000001110,14116711000001102
+50146001000001118,14116711000001102
+50169101000001119,14117011000001101
+50169201000001114,14117011000001101
+50173101000001112,14117211000001106
+50173201000001117,14117211000001106
+50668301000001111,14345011000001105
+50668401000001115,14345011000001105
+50668501000001116,14341711000001105
+50668601000001117,14341711000001105
+51860601000001117,5456911000001101
+51897201000001118,5467411000001104
+53275601000001119,15083211000001104
+53275701000001112,15083211000001104
+53285401000001110,15082811000001106
+53285501000001114,15082811000001106
+53318201000001112,15083011000001109
+53318301000001115,15083011000001109
+53348601000001116,15082911000001101
+53348701000001114,15082911000001101
+53348801000001117,15083311000001107
+53348901000001111,15083311000001107
+53385601000001116,15083111000001105
+53385701000001114,15083111000001105
+53426201000001111,15102011000001105
+53426301000001119,15102011000001105
+53468001000001111,15102111000001106
+53468101000001112,15102111000001106
+53769301000001113,15229411000001101
+53769401000001117,15229411000001101
+53769501000001118,15229611000001103
+53769601000001119,15229611000001103
+53773701000001117,15229211000001100
+53773801000001114,15229211000001100
+53787701000001118,15229311000001108
+53787801000001110,15229311000001108
+53792301000001118,15229511000001102
+53792401000001114,15229511000001102
+53795101000001111,15229711000001107
+53795201000001116,15229711000001107
+54372701000001112,870611000001103
+54375701000001119,1468511000001102
+54375801000001111,1470311000001104
+54375901000001117,1472911000001104
+54383201000001119,3153011000001103
+54383301000001111,3153211000001108
+54449301000001110,430311000001102
+54540801000001115,3157711000001106
+54554901000001117,8094511000001106
+54578501000001119,3149511000001106
+54578601000001115,3158011000001105
+54605401000001113,578111000001109
+54658501000001111,3149711000001101
+56456201000001115,15976011000001104
+56456401000001116,15976211000001109
+56456601000001118,15976411000001108
+56533601000001116,15976111000001103
+56533801000001117,15976311000001101
+56534001000001114,15976511000001107
+56622001000001113,16049611000001105
+56622101000001114,16049611000001105
+56622201000001119,16049911000001104
+56622301000001111,16049911000001104
+56622401000001115,16050211000001103
+56622501000001116,16050211000001103
+56651801000001110,16049811000001109
+56651901000001116,16049811000001109
+56652001000001112,16050011000001108
+56652101000001113,16050011000001108
+56652201000001118,16050311000001106
+56652301000001110,16050311000001106
+56974701000001118,318739007
+56974801000001110,318740009
+59738101000001111,17198011000001109
+59738201000001116,17198011000001109
+59738301000001113,17198311000001107
+59738401000001117,17198311000001107
+59738501000001118,17198511000001101
+59738601000001119,17198511000001101
+59841901000001118,17198111000001105
+59842001000001114,17198111000001105
+59842101000001110,17198411000001100
+59842201000001115,17198411000001100
+59842301000001112,17198611000001102
+59842401000001116,17198611000001102
+61342801000001111,17813411000001103
+61342901000001117,17813411000001103
+61343401000001116,17814311000001107
+61343501000001117,17814311000001107
+61343601000001118,17814711000001106
+61343701000001111,17814711000001106
+61381401000001113,17813611000001100
+61381501000001112,17813611000001100
+61382001000001112,17814511000001101
+61382101000001113,17814511000001101
+61382201000001118,17815011000001108
+61382301000001110,17815011000001108
+61434601000001113,17894011000001105
+61434701000001115,17894011000001105
+61434801000001112,17894211000001100
+61434901000001118,17894211000001100
+61435001000001118,17894411000001101
+61435101000001117,17894411000001101
+61493601000001116,17894111000001106
+61493701000001114,17894111000001106
+61493801000001117,17894311000001108
+61493901000001111,17894311000001108
+61494001000001114,17894511000001102
+61494101000001110,17894511000001102
+61671201000001114,17933011000001109
+61671301000001117,17933011000001109
+61875801000001119,17934811000001100
+61875901000001113,17934811000001100
+62033601000001115,18033611000001101
+62033701000001113,18033611000001101
+62041001000001111,18033711000001105
+62041101000001112,18033711000001105
+62229501000001113,18126411000001101
+62229601000001112,18126411000001101
+62236501000001117,18126611000001103
+62236601000001118,18126611000001103
+62532801000001111,18255411000001107
+62532901000001117,18255411000001107
+62569401000001113,18255511000001106
+62569501000001112,18255511000001106
+66653301000001117,19706111000001106
+66674301000001117,19706311000001108
+66732201000001113,19730311000001100
+66732301000001116,19730311000001100
+66732401000001112,19730511000001106
+66732501000001111,19730511000001106
+66787401000001115,19730411000001107
+66787501000001116,19730411000001107
+66787601000001117,19730611000001105
+66787701000001110,19730611000001105
+66887601000001119,19819211000001109
+66887701000001112,19819211000001109
+66902201000001111,19819311000001101
+66902301000001119,19819311000001101
+68348601000001118,20275711000001104
+68348701000001111,20275711000001104
+68364401000001119,20280711000001102
+68364501000001115,20280711000001102
+68366201000001112,20275611000001108
+68366301000001115,20275611000001108
+68384601000001119,20275811000001107
+68384701000001112,20275811000001107
+69149601000001117,20506211000001104
+69149701000001110,20506211000001104
+69159401000001118,20506311000001107
+72699401000001119,21786411000001108
+72699501000001115,21786411000001108
+72699601000001116,21786611000001106
+72699701000001114,21786611000001106
+72866801000001117,21786511000001107
+72866901000001111,21786511000001107
+72867001000001110,21786811000001105
+72867101000001111,21786811000001105
+73137601000001113,22061811000001100
+73137701000001115,22061811000001100
+73192201000001118,22062011000001103
+73192301000001110,22062011000001103
+73600301000001113,22237211000001109
+73600401000001117,22237211000001109
+73607101000001112,22237411000001108
+73607201000001117,22237411000001108
+76736601000001112,23466611000001105
+76736701000001119,23466611000001105
+76792601000001117,23391211000001106
+76792701000001110,23391211000001106
+76810801000001117,23391511000001109
+76810901000001111,23391511000001109
+76811001000001119,23391111000001100
+76811101000001118,23391111000001100
+76811201000001113,23391011000001101
+76811301000001116,23391011000001101
+76876601000001111,23391311000001103
+76876701000001118,23391311000001103
+76876801000001110,23391411000001105
+76876901000001116,23391411000001105
+76877001000001117,23391611000001108
+76877101000001116,23391611000001108
+76910201000001113,8457911000001106
+76914101000001111,20506311000001107
+76915401000001116,8457811000001101
+76975301000001115,23591811000001109
+76975401000001111,23591811000001109
+76975501000001110,23592011000001106
+76975601000001114,23592011000001106
+76975701000001116,23592211000001101
+76975801000001113,23592211000001101
+77001501000001113,23591911000001104
+77001601000001112,23591911000001104
+77001701000001119,23592111000001107
+77001801000001111,23592111000001107
+77001901000001117,23592311000001109
+77002001000001113,23592311000001109
+77763501000001113,23970411000001101
+77763601000001112,23970411000001101
+77763701000001119,23970611000001103
+77763801000001111,23970611000001103
+77763901000001117,23970811000001104
+77764001000001119,23970811000001104
+78022901000001110,23970511000001102
+78023001000001118,23970511000001102
+78023101000001117,23970711000001107
+78023201000001112,23970711000001107
+78023301000001115,23970911000001109
+78023401000001111,23970911000001109
+78347001000001114,11993001000001104
+78387301000001116,11993001000001104
+78874501000001110,24176811000001103
+78874601000001114,24176811000001103
+78892501000001114,24177011000001107
+78892601000001113,24177011000001107
+79265401000001113,24509711000001103
+79265501000001112,24509711000001103
+79423201000001115,24434511000001108
+79423301000001112,24434511000001108
+79479801000001116,24434811000001106
+79479901000001110,24434811000001106
+79480001000001111,24434411000001109
+79480101000001112,24434411000001109
+79480201000001117,24434311000001102
+79480301000001114,24434311000001102
+79642601000001113,24434611000001107
+79642701000001115,24434611000001107
+79642801000001112,24434711000001103
+79642901000001118,24434711000001103
+79643001000001110,24434911000001101
+79643101000001111,24434911000001101
+79687201000001116,8459911000001104
+79710001000001119,8460011000001102
+80112301000001111,24661211000001100
+80112401000001115,24661211000001100
+87508301000001113,27881711000001109
+87508401000001117,27881711000001109
+93890701000001115,30122411000001102
+93890801000001112,30122411000001102
+93890901000001118,30122611000001104
+93891001000001110,30122611000001104
+93891701000001112,30123811000001108
+93891801000001115,30123811000001108
+93922701000001115,30122511000001103
+93922801000001112,30122511000001103
+93923701000001112,30123711000001100
+93923801000001115,30123711000001100
+93923901000001114,30123911000001103
+93924001000001112,30123911000001103
+93956901000001115,30214111000001109
+93957001000001116,30214111000001109
+93976101000001116,30214211000001103
+93976201000001111,30214211000001103
+102653201000001114,33789311000001103
+102653301000001117,33789311000001103
+102660401000001114,33789511000001109
+102660501000001113,33789511000001109
+102707901000001111,1470511000001105
+103421001000001113,1473011000001107
+108295601000001110,374544006
+108295701000001117,374545007
+108301701000001114,375565008
+108304001000001110,375994005
+108304101000001111,375996007
+108304201000001116,375997003
+108304301000001113,375998008
+108304901000001114,375953002
+109540401000001118,13132401000001103
+109540501000001119,13132401000001103
+109544801000001110,13134601000001109
+109544901000001116,13134601000001109
+109563801000001119,13144101000001104
+109563901000001113,13144101000001104
+110027801000001115,15976211000001109
+110028901000001110,15976311000001101
+110029001000001117,15976411000001108
+110029101000001116,15976511000001107
+110032801000001116,15976011000001104
+110032901000001110,15976111000001103
+110967501000001115,35915811000001105
+110967601000001116,35915811000001105
+111158601000001116,35981611000001106
+111158701000001114,35981611000001106
+111160001000001117,35994411000001106
+111160101000001116,35994411000001106
+111160201000001111,35994611000001109
+111160301000001119,35994611000001109
+111162401000001111,35997611000001103
+111162501000001110,35997611000001103
+111176601000001119,35997511000001102
+111176701000001112,35997511000001102
+111211201000001115,35981911000001100
+111211301000001112,35981911000001100
+111213001000001110,35994511000001105
+111213101000001111,35994511000001105
+111213201000001116,35994711000001100
+111213301000001113,35994711000001100
+111215801000001116,35997711000001107
+111215901000001110,35997711000001107
+111240401000001118,421069003
+111528101000001116,19706311000001108
+111562701000001114,19706111000001106

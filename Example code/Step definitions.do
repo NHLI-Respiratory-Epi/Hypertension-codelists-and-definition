@@ -3,7 +3,8 @@
   sort patid obsdate
 ** Define time between prescriptions, we choose to only review prescriptions given on the same day, however you may choose an alternative**  
   by patid: generate BetweenPrescriptions = obsdate - obsdate[_n-1]
-  keep if BetweenPrescriptions==0 | BetweenPrescriptions[_n+1]==0
+*This keep line has now been removed to ensure single therapies are retained.
+**keep if BetweenPrescriptions==0 | BetweenPrescriptions[_n+1]==0
  
   by patid: gen litn=_n
   destring ACEi ARB CCB Thiazides, replace
